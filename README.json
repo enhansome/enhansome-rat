@@ -24,7 +24,7 @@
             "last_commit": "2024-07-18T17:25:35Z",
             "owner": "cobbr",
             "repo": "Covenant",
-            "stars": 4722
+            "stars": 4723
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2019-06-30T20:50:07Z",
             "owner": "mvrozanti",
             "repo": "RAT-via-Telegram",
-            "stars": 712
+            "stars": 713
           }
         },
         {
@@ -940,10 +940,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T04:00:23Z",
+            "last_commit": "2026-08-13T18:32:30Z",
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11671
+            "stars": 11672
           }
         },
         {
@@ -999,7 +999,7 @@
             "last_commit": "2015-10-10T23:47:10Z",
             "owner": "ahhh",
             "repo": "Reverse_DNS_Shell",
-            "stars": 505
+            "stars": 506
           }
         },
         {
@@ -1399,7 +1399,7 @@
             "last_commit": "2019-11-11T09:02:02Z",
             "owner": "nettitude",
             "repo": "PoshC2_Old",
-            "stars": 574
+            "stars": 575
           }
         },
         {
@@ -1679,7 +1679,7 @@
             "last_commit": "2018-10-25T14:22:22Z",
             "owner": "outflanknl",
             "repo": "DoH_c2_Trigger",
-            "stars": 54
+            "stars": 53
           }
         },
         {
@@ -2187,7 +2187,7 @@
             "last_commit": "2024-01-04T20:02:51Z",
             "owner": "nathanlopez",
             "repo": "Stitch",
-            "stars": 3652
+            "stars": 3656
           }
         },
         {
@@ -2215,7 +2215,7 @@
             "last_commit": "2022-11-22T21:33:23Z",
             "owner": "Arvanaghi",
             "repo": "SessionGopher",
-            "stars": 1333
+            "stars": 1334
           }
         },
         {
@@ -2425,7 +2425,7 @@
             "last_commit": "2021-09-08T06:54:08Z",
             "owner": "AlphaDelta",
             "repo": "Secure-Desktop",
-            "stars": 250
+            "stars": 249
           }
         },
         {
@@ -2439,7 +2439,7 @@
             "last_commit": "2018-04-27T02:35:34Z",
             "owner": "huntoai",
             "repo": "rdroid",
-            "stars": 245
+            "stars": 246
           }
         },
         {
@@ -3317,7 +3317,7 @@
             "last_commit": "2023-10-16T21:41:12Z",
             "owner": "NYAN-x-CAT",
             "repo": "AsyncRAT-C-Sharp",
-            "stars": 3002
+            "stars": 3001
           }
         },
         {
@@ -3331,7 +3331,7 @@
             "last_commit": "2022-10-20T04:36:26Z",
             "owner": "Viralmaniar",
             "repo": "Powershell-RAT",
-            "stars": 1204
+            "stars": 1205
           }
         },
         {
@@ -3663,7 +3663,7 @@
             "last_commit": "2024-07-28T20:44:11Z",
             "owner": "The404Hacking",
             "repo": "AndroRAT",
-            "stars": 1681
+            "stars": 1682
           }
         },
         {
@@ -3760,7 +3760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:58.259Z",
+    "last_updated": "2026-08-13T22:38:24.341Z",
     "original_repository": "alphaSeclab/awesome-rat",
     "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
     "enhanced_repository": "enhansome/enhansome-rat",
