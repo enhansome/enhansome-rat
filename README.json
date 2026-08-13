@@ -1,0 +1,3770 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "pupy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Covenant"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[1147星][6d] [C#] cobbr/covenant",
+          "description": "Covenant is a collaborative .NET C2 framework for red teamers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-18T17:25:35Z",
+            "owner": "cobbr",
+            "repo": "Covenant",
+            "stars": 4722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[95星][9d] [C#] cobbr/elite",
+          "description": "Elite is the client-side component of the Covenant project. Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-07T21:33:10Z",
+            "owner": "cobbr",
+            "repo": "Elite",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[31星][4m] [C#] cobbr/c2bridge",
+          "description": "C2Bridges allow developers to create new custom communication protocols and quickly utilize them within Covenant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-02-13T23:01:37Z",
+            "owner": "cobbr",
+            "repo": "C2Bridge",
+            "stars": 71
+          }
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Slackor"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "QuasarRAT"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "EvilOSX"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Merlin"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Team Viewer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[175星][9d] uknowsec/sharpdecryptpwd",
+          "description": "对密码已保存在 Windwos 系统上的部分程序进行解析,包括：Navicat,TeamViewer,FileZilla,WinSCP,Xmangager系列产品（Xshell,Xftp)。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-16T05:47:15Z",
+            "owner": "uknowsec",
+            "repo": "SharpDecryptPwd",
+            "stars": 1270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[405星][2y] [C++] vah13/extracttvpasswords",
+          "description": "tool to extract passwords from TeamViewer memory using Frida",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-07-17T07:05:20Z",
+            "owner": "vah13",
+            "repo": "extractTVpasswords",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[277星][2y] [C++] gellin/teamviewer_permissions_hook_v1",
+          "description": "A proof of concept injectable C++ dll, that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-12-07T14:54:40Z",
+            "owner": "gellin",
+            "repo": "TeamViewer_Permissions_Hook_V1",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[42星][6d] [C#] v1v1/decryptteamviewer",
+          "description": "Enumerate and decrypt TeamViewer credentials from Windows registry",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-05T09:19:56Z",
+            "owner": "V1V1",
+            "repo": "DecryptTeamViewer",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[59星][2y] [Py] attackercan/teamviewer-dumper",
+          "description": "从内存中转储TeamViewer ID 和密码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-13T12:56:41Z",
+            "owner": "attackercan",
+            "repo": "teamviewer-dumper",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[25星][5m] [C++] dydtjr1128/remoteassistance-cpp",
+          "description": "[WIP]RemoteAssistance like TeamViewer(C++)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-07-14T04:31:29Z",
+            "owner": "dydtjr1128",
+            "repo": "RemoteAssistance-Cpp",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[36星][5y] [C++] kkar/teamviewer-dumper-in-cpp",
+          "description": "Dumps TeamViewer ID,Password and account settings from a running TeamViewer instance by enumerating child windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-09-05T11:32:32Z",
+            "owner": "kkar",
+            "repo": "TeamViewer-dumper-in-CPP",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gh0st"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[301星][7d] [C++] yuanyuanxiang/simpleremoter",
+          "description": "基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-15T18:10:25Z",
+            "owner": "yuanyuanxiang",
+            "repo": "SimpleRemoter",
+            "stars": 1342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[273星][7y] [C++] sin5678/gh0st",
+          "description": "a open source remote administrator tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2013-05-08T21:17:26Z",
+            "owner": "sin5678",
+            "repo": "gh0st",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[90星][1m] [C++] zibility/remote",
+          "description": "参考Gh0st源码，实现的一款PC远程协助软件，拥有远程Shell、文件管理、桌面管理、消息发送等功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-07-31T13:48:15Z",
+            "owner": "zibility",
+            "repo": "Remote",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[91星][6y] [C++] igh0st/gh0st3.6_src",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-04-29T03:31:42Z",
+            "owner": "iGh0st",
+            "repo": "gh0st3.6_src",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[21星][5m] [C++] holmesian/gh0st-light",
+          "description": "精简之后的老东西",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-12-31T05:13:57Z",
+            "owner": "holmesian",
+            "repo": "Gh0st-light",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NanoCore"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NjRat"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[128星][8d] [Visual Basic] mwsrc/njrat",
+          "description": "njRAT SRC Extract",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic",
+            "last_commit": "2016-12-24T07:54:46Z",
+            "owner": "mwsrc",
+            "repo": "njRAT",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[14星][5m] [C#] nyan-x-cat/njrat-0.7d-stub-csharp",
+          "description": "njRAT C# Stub - Fixed For PowerShell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-09-15T09:48:00Z",
+            "owner": "NYAN-x-CAT",
+            "repo": "njRAT-0.7d-Stub-CSharp",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[3星][2y] [Py] seep1959/njutils",
+          "description": "A client and chat program for njrat 0.6.4, 0.7d, and 0.7d golden edition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-03T20:02:34Z",
+            "owner": "Seep1959",
+            "repo": "njutils",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[143星][2y] [Visual Basic .NET] alibawazeeer/rat-njrat-0.7d-modded-source-code",
+          "description": "NJR",
+          "children": []
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Revenge RAT"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PlugX"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Telegram"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[648星][1y] [Py] mehulj94/braindamage",
+          "description": "使用Telegram做C&C服务器的远控",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-02-25T00:24:59Z",
+            "owner": "mehulj94",
+            "repo": "BrainDamage",
+            "stars": 714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[330星][8m] [Py] mvrozanti/rat-via-telegram",
+          "description": "Windows Remote Administration Tool via Telegram",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-06-30T20:50:07Z",
+            "owner": "mvrozanti",
+            "repo": "RAT-via-Telegram",
+            "stars": 712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[160星][4y] [Py] blazeinfosec/bt2",
+          "description": "使用Telegram 基础设施做C&C 服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-06T12:58:12Z",
+            "owner": "blazeinfosec",
+            "repo": "bt2",
+            "stars": 206
+          }
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Twitter"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[658星][4y] [Py] paulsec/twittor",
+          "description": "A fully featured backdoor that uses Twitter as a C&C server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-30T13:47:31Z",
+            "owner": "PaulSec",
+            "repo": "twittor",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[186星][3y] [Go] petercunha/goat",
+          "description": "a trojan created in Go, using Twitter as a the C&C server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-07-13T23:49:12Z",
+            "owner": "petercunha",
+            "repo": "GoAT",
+            "stars": 261
+          }
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GMail"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[1117星][1y] [Py] byt3bl33d3r/gcat",
+          "description": "A PoC backdoor that uses Gmail as a C&C server",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-11-16T13:43:15Z",
+            "owner": "byt3bl33d3r",
+            "repo": "gcat",
+            "stars": 1352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[353星][3y] [Py] maldevel/gdog",
+          "description": "Python 编写的后门，使用 Gmail 做 C&C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-27T19:12:45Z",
+            "owner": "maldevel",
+            "repo": "gdog",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[22星][1y] [Py] pure-l0g1c/keylogger",
+          "description": "A simple keylogger that uses Gmail as a C&C",
+          "children": []
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Github"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DropBox"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "区块链"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[46星][1y] [Go] xpn/blockchainc2",
+          "description": "A POC C2 server and agent to explore just if/how the Ethereum blockchain can be used for C2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-04-05T10:52:56Z",
+            "owner": "xpn",
+            "repo": "BlockchainC2",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[35星][3m] [Py] geek-repo/c2-blockchain",
+          "description": "This is a concept poc of command and control server implemented over blockchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-13T14:40:49Z",
+            "owner": "geek-repo",
+            "repo": "C2-Blockchain",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "其他"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[513星][1y] [Go] mthbernardes/gtrs",
+          "description": "使用Google翻译器作为代理将任意命令发送到受感染的计算机",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-26T16:48:09Z",
+            "owner": "mthbernardes",
+            "repo": "GTRS",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[102星][4m] [Py] nccgroup/gitpwnd",
+          "description": "网络渗透测试工具，可使攻击者向被攻击机器发送命令，并使用 git repo 作为 C&C 传输层接收结果",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-02T06:13:06Z",
+            "owner": "nccgroup",
+            "repo": "gitpwnd",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[97星][2y] [Py] arno0x/webdavc2",
+          "description": "A WebDAV PROPFIND C2 tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-27T06:51:42Z",
+            "owner": "Arno0x",
+            "repo": "WebDavC2",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[93星][2y] [PS] bkup/slackshell",
+          "description": "PowerShell to Slack C2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2018-05-31T18:41:32Z",
+            "owner": "bkup",
+            "repo": "SlackShell",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[84星][2y] [Go] 0x09al/browser-c2",
+          "description": "Post Exploitation agent which uses a browser to do C2 operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-05-25T15:12:21Z",
+            "owner": "0x09AL",
+            "repo": "Browser-C2",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[66星][2y] [Py] lukebaggett/google_socks",
+          "description": "A proof of concept demonstrating the use of Google Drive for command and control.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-07-19T19:54:07Z",
+            "owner": "lukebaggett",
+            "repo": "google_socks",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[23星][10d] [PS] netspi/sqlc2",
+          "description": "SQLC2 is a PowerShell script for deploying and managing a command and control system that uses SQL Server as both the control server and the agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-11-05T22:11:50Z",
+            "owner": "NetSPI",
+            "repo": "SQLC2",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[14星][1y] [Py] j3ssie/c2s",
+          "description": "Command and Control server on Slack",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-30T03:38:03Z",
+            "owner": "j3ssie",
+            "repo": "c2s",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[29星][2y] [Py] ajinabraham/xenotix-xbot",
+          "description": "Xenotix xBOT is a Cross Platform PoC Bot that abuse certain Google Services to implement it's C&C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-18T09:11:04Z",
+            "owner": "ajinabraham",
+            "repo": "Xenotix-xBOT",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[26星][3y] [Py] dsnezhkov/octohook",
+          "description": "Git Web Hook Tunnel for C2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-07T17:53:59Z",
+            "owner": "dsnezhkov",
+            "repo": "octohook",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[22星][2y] [Py] woj-ciech/social-media-c2",
+          "description": "Script is a proof of concept how to control your machine by using social media sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-14T21:06:29Z",
+            "owner": "woj-ciech",
+            "repo": "Social-media-c2",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8星][2y] [Py] maldevel/dicerosbicornis",
+          "description": "A fully featured Windows backdoor that uses email as a C&C server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-08-19T12:54:38Z",
+            "owner": "maldevel",
+            "repo": "dicerosbicornis",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[7星][3y] [Py] killswitch-gui/flask_appengine_redirector",
+          "description": "Google App Engine Flask C2 redirector",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-03-07T03:09:46Z",
+            "owner": "killswitch-GUI",
+            "repo": "flask_appengine_redirector",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[69星][13d] [Py] itskindred/redviper",
+          "description": "redViper is a proof of concept Command & Control framework that utilizes Reddit for communications.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[16星][10d] [Py] securemode/trelloc2",
+          "description": "Simple C2 over the Trello API",
+          "children": []
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DNS协议"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Domain Generation Algorithm(DGA)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[318星][1m] [Py] baderj/domain_generation_algorithms",
+          "description": "域名生成算法",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T15:58:04Z",
+            "owner": "baderj",
+            "repo": "domain_generation_algorithms",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[220星][17d] [Scala] sotera/spark-distributed-louvain-modularity",
+          "description": "Spark / graphX implementation of the distributed louvain modularity algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-09-02T15:08:23Z",
+            "owner": "Sotera",
+            "repo": "spark-distributed-louvain-modularity",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[209星][3y] [Py] endgameinc/dga_predict",
+          "description": "Predicting Domain Generation Algorithms using LSTMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-25T11:16:58Z",
+            "owner": "endgameinc",
+            "repo": "dga_predict",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[132星][2m] [Py] andrewaeva/dga",
+          "description": "The repository that contains the algorithms for generating domain names, dictionaries of malicious domain names. Developed to research the possibility of applying machine learning and neural networks to detect and classify malicious domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-31T04:11:34Z",
+            "owner": "andrewaeva",
+            "repo": "DGA",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[117星][6m] [Py] 360netlab/dga",
+          "description": "Suspicious DGA from PDNS and Sandbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-12T07:45:32Z",
+            "owner": "360netlab",
+            "repo": "DGA",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[40星][4y] [Py] pchaigno/dga-collection",
+          "description": "A collection of known Domain Generation Algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-04-04T18:17:40Z",
+            "owner": "pchaigno",
+            "repo": "dga-collection",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[28星][2y] [Py] philarkwright/dga-detection",
+          "description": "DGA Domain Detection using Bigram Frequency Analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-09-09T12:32:19Z",
+            "owner": "philarkwright",
+            "repo": "DGA-Detection",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[31星][3y] [Py] staaldraad/fastfluxanalysis",
+          "description": "Scripts to detect Fast-Flux and DGA using DNS query responses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-06-07T07:25:35Z",
+            "owner": "staaldraad",
+            "repo": "fastfluxanalysis",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[31星][4y] [Py] endgameinc/sans_thir16",
+          "description": "SANS Hunting on the Cheap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-04-12T21:27:20Z",
+            "owner": "endgameinc",
+            "repo": "SANS_THIR16",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[6星][1y] [Py] matthoffman/degas",
+          "description": "DGA-generated domain detection using deep learning models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-21T06:27:31Z",
+            "owner": "matthoffman",
+            "repo": "degas",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[1星][2m] [Py] bkcs-hust/lstm-mi",
+          "description": "A LSTM based framework for handling multiclass imbalance in DGA botnet detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-10T13:27:58Z",
+            "owner": "BKCS-HUST",
+            "repo": "LSTM-MI",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[4星][3m] [PHP] navytitanium/eitest-tools-scripts-iocs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-04-13T23:22:05Z",
+            "owner": "NavyTitanium",
+            "repo": "EITest-tools-scripts-IOCs",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[49星][2y] [java] toufikairane/andromalware",
+          "description": "Android Malware for educational purpose",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[13星][3y] [Py] cisco-talos/goznym",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[832星][6d] [Go] bishopfox/sliver",
+          "description": "一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:00:23Z",
+            "owner": "BishopFox",
+            "repo": "sliver",
+            "stars": 11671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[1855星][8m] [C++] iagox86/dnscat2",
+          "description": "在 DNS 协议上创建加密的 C&C channel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-14T11:17:49Z",
+            "owner": "iagox86",
+            "repo": "dnscat2",
+            "stars": 3951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[276星][4m] [Go] sensepost/godoh",
+          "description": "A DNS-over-HTTPS Command & Control Proof of Concept",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-19T07:21:45Z",
+            "owner": "sensepost",
+            "repo": "godoh",
+            "stars": 808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[277星][1y] [Py] trycatchhcf/packetwhisper",
+          "description": "Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-03T21:58:45Z",
+            "owner": "TryCatchHCF",
+            "repo": "PacketWhisper",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[386星][4y] [Py] ahhh/reverse_dns_shell",
+          "description": "使用DNS作为c2通道的python反向shell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-10-10T23:47:10Z",
+            "owner": "ahhh",
+            "repo": "Reverse_DNS_Shell",
+            "stars": 505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[225星][2y] [PS] lukebaggett/dnscat2-powershell",
+          "description": "A Powershell client for dnscat2, an encrypted DNS command and control tool.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2023-08-22T03:20:46Z",
+            "owner": "lukebaggett",
+            "repo": "dnscat2-powershell",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[176星][2y] [C++] 0x09al/dns-persist",
+          "description": "DNS-Persist is a post-exploitation agent which uses DNS for command and control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-11-20T08:53:25Z",
+            "owner": "0x09AL",
+            "repo": "DNS-Persist",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[41星][2m] [Erlang] homas/ioc2rpz",
+          "description": "ioc2rpz is a place where threat intelligence meets DNS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-07T15:28:24Z",
+            "owner": "Homas",
+            "repo": "ioc2rpz",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[38星][2m] [JS] inquest/threatkb",
+          "description": "Knowledge base workflow management for YARA rules and C2 artifacts (IP, DNS, SSL) (ALPHA STATE AT THE MOMENT)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T21:19:12Z",
+            "owner": "InQuest",
+            "repo": "ThreatKB",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ICMP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WebSocket"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[245星][2y] [Py] arno0x/wsc2",
+          "description": "A WebSocket C2 Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-24T15:47:56Z",
+            "owner": "Arno0x",
+            "repo": "WSC2",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[131星][9d] [C++] xorrior/raven",
+          "description": "CobaltStrike External C2 for Websockets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-07-16T04:14:13Z",
+            "owner": "xorrior",
+            "repo": "raven",
+            "stars": 195
+          }
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cobalt Strike"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[165星][6m] threatexpress/malleable-c2",
+          "description": "Cobalt Strike Malleable C2 Design and Reference Guide",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-13T17:14:22Z",
+            "owner": "threatexpress",
+            "repo": "malleable-c2",
+            "stars": 1765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[462星][2y] rsmudge/malleable-c2-profiles",
+          "description": "Malleable C2 is a domain specific language to redefine indicators in Beacon's communication. This repository is a collection of Malleable C2 profiles that you may use. These profiles work with Cobalt Strike 3.x.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-18T14:45:39Z",
+            "owner": "rsmudge",
+            "repo": "Malleable-C2-Profiles",
+            "stars": 1592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[105星][5m] xx0hcd/malleable-c2-profiles",
+          "description": "Cobalt Strike - Malleable C2 Profiles. A collection of profiles used in different projects using Cobalt Strike",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-28T18:21:42Z",
+            "owner": "xx0hcd",
+            "repo": "Malleable-C2-Profiles",
+            "stars": 891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[160星][11d] [Py] threatexpress/cs2modrewrite",
+          "description": "Convert Cobalt Strike profiles to modrewrite scripts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-30T17:47:51Z",
+            "owner": "threatexpress",
+            "repo": "cs2modrewrite",
+            "stars": 607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[195星][1y] [PS] qax-a-team/cobaltstrike-toolset",
+          "description": "Aggressor Script, Kits, Malleable C2 Profiles, External C2 and so on",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-11-22T21:39:08Z",
+            "owner": "QAX-A-Team",
+            "repo": "CobaltStrike-Toolset",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[217星][2y] [Py] bluscreenofjeff/malleable-c2-randomizer",
+          "description": "A script to randomize Cobalt Strike Malleable C2 profiles and reduce the chances of flagging signature-based detection controls",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-09T15:50:16Z",
+            "owner": "bluscreenofjeff",
+            "repo": "Malleable-C2-Randomizer",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[188星][2y] [C#] ryhanson/externalc2",
+          "description": "A library for integrating communication channels with the Cobalt Strike External C2 server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-11-23T16:47:26Z",
+            "owner": "ryhanson",
+            "repo": "ExternalC2",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[146星][2y] [Py] und3rf10w/external_c2_framework",
+          "description": "Python api for usage with cobalt strike's External C2 specification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-22T08:13:03Z",
+            "owner": "Und3rf10w",
+            "repo": "external_c2_framework",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[56星][24d] 1135/1135-cobaltstrike-toolkit",
+          "description": "about CobaltStrike",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-01T03:18:35Z",
+            "owner": "1135",
+            "repo": "1135-CobaltStrike-ToolKit",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[67星][2y] [C] outflanknl/external_c2",
+          "description": "POC for Cobalt Strike external C2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-09-06T09:39:44Z",
+            "owner": "outflanknl",
+            "repo": "external_c2",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[41星][3y] bluscreenofjeff/malleablec2profiles",
+          "description": "Malleable C2 profiles for Cobalt Strike",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-09T15:51:33Z",
+            "owner": "bluscreenofjeff",
+            "repo": "MalleableC2Profiles",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[55星][1y] [Py] truneski/external_c2_framework",
+          "description": "Python api for usage with cobalt strike's External C2 specification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-06T10:10:30Z",
+            "owner": "Truneski",
+            "repo": "external_c2_framework",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[41星][2y] [Go] empty-nest/emptynest",
+          "description": "基于插件的 C2 服务器框架。其目标不是取代某些强大的工具（例如 Empire、Metasploit、CobaltStrike），而是创建一个支持框架，以便为自定义 agents 快速创建小型、专用的 handlers",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[12星][5m] [TS] hattmo/c2profilejs",
+          "description": "Web UI for creating C2 profiles for Cobalt Strike",
+          "children": []
+        }
+      ],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[1135星][13d] [Boo] byt3bl33d3r/silenttrinity",
+          "description": "An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Boo",
+            "last_commit": "2023-12-06T17:17:24Z",
+            "owner": "byt3bl33d3r",
+            "repo": "SILENTTRINITY",
+            "stars": 2343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[336星][12d] [PS] nettitude/poshc2",
+          "description": "Python Server for PoshC2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-11-20T13:55:21Z",
+            "owner": "nettitude",
+            "repo": "PoshC2",
+            "stars": 2126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[478星][5m] [C++] fsecurelabs/c3",
+          "description": "一个用于快速定制C2通道原型的框架，同时仍提供与现有攻击性工具包的集成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-16T14:53:32Z",
+            "owner": "ReversecLabs",
+            "repo": "C3",
+            "stars": 1781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[614星][12d] [Py] trustedsec/trevorc2",
+          "description": "通过正常的可浏览的网站隐藏 C&C 指令的客户端/服务器模型，因为时间间隔不同，检测变得更加困难，并且获取主机数据时不会使用 POST 请求",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-01-31T20:16:24Z",
+            "owner": "trustedsec",
+            "repo": "trevorc2",
+            "stars": 1344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[130星][6d] [Py] mhaskar/octopus",
+          "description": "Open source pre-operation C2 server based on python and powershell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-06T23:52:37Z",
+            "owner": "mhaskar",
+            "repo": "Octopus",
+            "stars": 763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[31星][16d] [Py] qsecure-labs/overlord",
+          "description": "Overlord - Red Teaming Infrastructure Automation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-28T21:38:05Z",
+            "owner": "qsecure-labs",
+            "repo": "overlord",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[575星][3m] [PS] nettitude/poshc2_old",
+          "description": "Powershell C2 Server and Implants",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2019-11-11T09:02:02Z",
+            "owner": "nettitude",
+            "repo": "PoshC2_Old",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[125星][7d] [JS] p3nt4/nuages",
+          "description": "A modular C2 framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T10:54:01Z",
+            "owner": "p3nt4",
+            "repo": "Nuages",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[442星][3y] [CSS] graniet/chromebackdoor",
+          "description": "一个渗透测试工具PoC，使用MITB技术在启动后生成Windows可执行文件“ .exe”，并在大多数流行的浏览器上运行恶意扩展或脚本，并通过C&C发送所有DOM数据。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2017-01-08T13:03:58Z",
+            "owner": "graniet",
+            "repo": "chromebackdoor",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[325星][1y] [C#] spiderlabs/dohc2",
+          "description": "DoHC2 allows the ExternalC2 library from Ryan Hanson (",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2020-08-07T12:48:13Z",
+            "owner": "SpiderLabs",
+            "repo": "DoHC2",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[273星][4m] [Py] felixweyne/imaginaryc2",
+          "description": "辅助对恶意软件进行行为（网络）分析，python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-26T10:23:03Z",
+            "owner": "felixweyne",
+            "repo": "imaginaryC2",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[132星][10m] [C] treehacks/botnet-hackpack",
+          "description": "Build a basic Command & Control botnet in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-27T23:43:25Z",
+            "owner": "TreeHacks",
+            "repo": "botnet-hackpack",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[70星][14d] [Py] angus-y/pyiris-backdoor",
+          "description": "a modular, stealthy and flexible remote-access-toolkit written completely in python used to command and control other systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-02T12:16:52Z",
+            "owner": "not-sekiun",
+            "repo": "PyIris",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[99星][6d] [Py] ziconius/fudgec2",
+          "description": "FudgeC2 - a command and control framework designed for team collaboration and post-exploitation activities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-01T21:13:56Z",
+            "owner": "Ziconius",
+            "repo": "FudgeC2",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[155星][7d] [Py] chrispetrou/hrshell",
+          "description": "HRShell is an HTTPS/HTTP reverse shell built with flask. It is an advanced C2 server with many features & capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-09-09T08:26:32Z",
+            "owner": "chrispetrou",
+            "repo": "HRShell",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[44星][30d] [JS] shadow-workers/shadow-workers",
+          "description": "C2 and proxy designed for penetration testers to help in the exploitation of XSS and malicious Service Workers (SW)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-03T05:33:45Z",
+            "owner": "shadow-workers",
+            "repo": "shadow-workers",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[205星][3y] [Py] countercept/doublepulsar-c2-traffic-decryptor",
+          "description": "处理PCAP文件，解密发送到DOUBLEPULSAR implant的C2流量",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-17T21:08:34Z",
+            "owner": "WithSecureLabs",
+            "repo": "doublepulsar-c2-traffic-decryptor",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[136星][2y] [Py] pjlantz/hale",
+          "description": "Botnet command & control monitor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-23T06:51:38Z",
+            "owner": "pjlantz",
+            "repo": "Hale",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[79星][9m] [C++] watersalesman/aura-botnet",
+          "description": "A super portable botnet framework with a Django-based C2 server. The client is written in C++, with alternate clients written in Rust, Bash, and Powershell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-05-30T03:24:58Z",
+            "owner": "watersalesman",
+            "repo": "aura-botnet",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[83星][5y] [Py] maldroid/maldrolyzer",
+          "description": "Simple framework to extract \"actionable\" data from Android malware (C&Cs, phone numbers etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-05-07T05:41:58Z",
+            "owner": "maldroid",
+            "repo": "maldrolyzer",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[56星][2y] [Go] averagesecurityguy/c2",
+          "description": "A simple, extensible C&C beaconing system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-02-13T21:26:09Z",
+            "owner": "averagesecurityguy",
+            "repo": "c2",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[67星][5m] [HTML] project-prismatica/prismatica",
+          "description": "Responsive Command and Control System",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-10-06T06:54:59Z",
+            "owner": "Project-Prismatica",
+            "repo": "Prismatica",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[58星][1y] [C#] mdsecactivebreach/browser-externalc2",
+          "description": "External C2 Using IE COM Objects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-02-24T02:10:08Z",
+            "owner": "mdsecactivebreach",
+            "repo": "Browser-ExternalC2",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[6星][5m] [Py] m507/m-botnet",
+          "description": "A C2 project that controls a self-propagating MS17-010 worm.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-06-18T18:43:48Z",
+            "owner": "M507",
+            "repo": "M-Botnet",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[38星][12d] [C#] sf197/telegra_csharp_c2",
+          "description": "Command and Control for C# Writing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T02:04:20Z",
+            "owner": "sf197",
+            "repo": "Telegra_Csharp_C2",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[48星][3m] [Shell] professionallyevil/c4",
+          "description": "Cyberdelia, a Collection of Command and Control frameworks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-10-16T17:34:32Z",
+            "owner": "ProfessionallyEvil",
+            "repo": "C4",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[39星][1y] [PS] outflanknl/doh_c2_trigger",
+          "description": "Code for blogpost:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2018-10-25T14:22:22Z",
+            "owner": "outflanknl",
+            "repo": "DoH_c2_Trigger",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[30星][6y] [PS] enigma0x3/powershell-c2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2014-02-05T03:41:41Z",
+            "owner": "enigma0x3",
+            "repo": "Powershell-C2",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[41星][2y] [Py] v1v1/sleight",
+          "description": "Empire HTTP(S) C2 redirector setup script",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-10T12:42:40Z",
+            "owner": "V1V1",
+            "repo": "Sleight",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[9星][4m] [Py] degenerat3/meteor",
+          "description": "Cross-platform C2 with modules for TCP, web, and more soon to come",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-25T02:19:14Z",
+            "owner": "degenerat3",
+            "repo": "meteor",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[14星][5m] [C#] immersive-command-system/immersivedroneinterface",
+          "description": "aerial vehicle command and control platform, designed for immersive interfaces (such as the Oculus Rift).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-06-08T23:43:26Z",
+            "owner": "immersive-command-system",
+            "repo": "ImmersiveDroneInterface",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[186星][2y] [Py] woj-ciech/daily-dose-of-malware",
+          "description": "Script lets you gather malicious software and c&c servers from open source platforms like Malshare, Malcode, Google, Cymon - vxvault, cybercrime tracker and c2 for Pony.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-29T21:38:33Z",
+            "owner": "woj-ciech",
+            "repo": "Daily-dose-of-malware",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[18星][1m] [Py] marcorosa/cnc-botnet-in-python",
+          "description": "C&C Botnet written in Python with fabric",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-20T12:39:45Z",
+            "owner": "marcorosa",
+            "repo": "CnC-Botnet-in-Python",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[19星][1y] tevora-threat/rt_redirectors",
+          "description": "Ansible role to configure redirectors for red team C2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-11-12T17:59:25Z",
+            "owner": "tevora-threat",
+            "repo": "rt_redirectors",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[14星][5y] [Py] nocow4bob/pix-c2",
+          "description": "Ping Exfiltration Command and Control (PiX-C2)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-05-15T20:46:04Z",
+            "owner": "robertdavis1",
+            "repo": "PiX-C2",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[16星][10m] [Py] daniel-infosec/wikipedia-c2",
+          "description": "POC for utilizing wikipedia API for Command and Control",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T04:58:50Z",
+            "owner": "daniel-infosec",
+            "repo": "wikipedia-c2",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[11星][4m] [Py] jacobsoo/amtracker",
+          "description": "Android Malware Tracker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-07T06:35:13Z",
+            "owner": "jacobsoo",
+            "repo": "amtracker",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[23星][25d] [Go] audibleblink/bothan",
+          "description": "Is this IP a C2 server?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-04-21T17:10:25Z",
+            "owner": "audibleblink",
+            "repo": "bothan",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[14星][3y] [Py] secarmalabs/indushell",
+          "description": "PoC C&C for the Industroyer malware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-06-30T15:24:14Z",
+            "owner": "SecarmaLabs",
+            "repo": "Indushell",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[17星][4m] stvemillertime/absolutely-positively-not-hacking-back-with-pcap",
+          "description": "Streaming Unexpected Network Byte Sequences with High Probability of Blue Screening or Otherwise Crashing Attacker Command-and-Control Nodes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-14T19:01:40Z",
+            "owner": "stvemillertime",
+            "repo": "Absolutely-Positively-NOT-Hacking-Back-with-Pcap",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[18星][5y] [PS] et0x/c2",
+          "description": "Methods of C2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2015-07-15T16:12:16Z",
+            "owner": "et0x",
+            "repo": "C2",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[17星][1y] [C] kiwidoggie/oni-framework",
+          "description": "Embedded systems C2 software written in C/C#",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2018-09-19T05:53:45Z",
+            "owner": "kiwidoggie",
+            "repo": "oni-framework",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[16星][4y] [Py] hasherezade/bunitu_tests",
+          "description": "Scripts for communication with Bunitu Trojan C&Cs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-10-29T09:14:31Z",
+            "owner": "hasherezade",
+            "repo": "bunitu_tests",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[17星][3y] [Go] pandipanda69/my-little-honeypot",
+          "description": "This repository aims to show how easy it is to code a telnet honeypot in order to recovering IOT malwares, and thus, active Command & Control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-04-05T14:15:14Z",
+            "owner": "PandiPanda69",
+            "repo": "my-little-honeypot",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[16星][6m] [C] blacchat/xzf",
+          "description": "EXIF-based command and control PoC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-03-20T17:58:32Z",
+            "owner": "nopn0p",
+            "repo": "xzf",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8星][11m] tothi/kali-rpi-luks-crypt",
+          "description": "Full disk encryption for Kali on Raspberry using LUKS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-13T00:57:40Z",
+            "owner": "tothi",
+            "repo": "kali-rpi-luks-crypt",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[10星][3y] [Py] r3mrum/loki-parse",
+          "description": "A python script that can detect and parse loki-bot (malware) related network traffic. This script can be helpful to DFIR analysts and security researchers who want to know what data is being exfiltrated to the C2, bot tracking, etc...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-31T12:30:25Z",
+            "owner": "R3MRUM",
+            "repo": "loki-parse",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8星][5m] [Py] r00k5a58/pyc2",
+          "description": "simple c2 written in python to demonstrate security concepts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-17T04:52:05Z",
+            "owner": "r00k5A58",
+            "repo": "pyc2",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8星][25d] [Go] xorrior/apfell-chrome-extension-c2server",
+          "description": "Apfell C2 Server for the Google Chrome Extension Payload",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-08-12T16:05:41Z",
+            "owner": "xorrior",
+            "repo": "apfell-chrome-extension-c2server",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[7星][3y] [PS] 0sm0s1z/invoke-selfsignedwebrequest",
+          "description": "This repo exists as a quick and dirty arsenal of methods and scripts to subvert .NET SSL/TLS certificate validation in PowerShell and press on with the hack!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2017-01-28T07:13:14Z",
+            "owner": "0sm0s1z",
+            "repo": "Invoke-SelfSignedWebRequest",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[6星][2y] [C#] jaydcarlson/c2-printf",
+          "description": "通过 Silicon Labs C2 调试器连接打印跟踪消息",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-11-08T22:37:25Z",
+            "owner": "jaydcarlson",
+            "repo": "c2-printf",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[10星][12m] [Dockerfile] d3vzer0/cnc-relay",
+          "description": "Docker projects to retain beacon source IPs using C2 relaying infra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2019-02-25T09:52:20Z",
+            "owner": "d3vzer0",
+            "repo": "cnc-relay",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8星][3y] [Py] killswitch-gui/flask_heroku_redirector",
+          "description": "flask heroku C2 redirector template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-04-20T02:56:21Z",
+            "owner": "killswitch-GUI",
+            "repo": "flask_heroku_redirector",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[5星][3y] [Py] killswitch-gui/flask_pythonanywhere_redirector",
+          "description": "flask pythonanywhere C2 redirector template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-03-07T03:53:46Z",
+            "owner": "killswitch-GUI",
+            "repo": "flask_pythonanywhere_redirector",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8星][2m] [Py] jacobsoo/malconfig",
+          "description": "This is part of a module for the framework that i'm constantly developing. Currently only information of the C2 are disclosed here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-18T02:32:37Z",
+            "owner": "jacobsoo",
+            "repo": "MalConfig",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[4星][3y] [Py] mellow-hype/c2finder",
+          "description": "Look for un-sinkholed C&C IPs in your Bro logs (from Bambanek Consulting C&C master list)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-10-01T06:40:07Z",
+            "owner": "mellow-hype",
+            "repo": "c2finder",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[4星][2y] [PHP] nao-sec/ramnit_traffic_parser",
+          "description": "Parsing Ramnit's traffic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-03-10T16:42:43Z",
+            "owner": "nao-sec",
+            "repo": "ramnit_traffic_parser",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[0星][2y] [Py] bizdak/silverboxcc",
+          "description": "Reverse engineered android malware, and this is a C&C server for it",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-07T21:47:30Z",
+            "owner": "bizdak",
+            "repo": "silverboxcc",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[0星][2y] boaxboax/ctf-quaorar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-19T19:00:06Z",
+            "owner": "boaxboax",
+            "repo": "ctf-Quaorar",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[68星][1m] [C#] maraudershell/marauder",
+          "description": "A .NET agent for the Faction C2 Framework",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[37星][11m] [Go] prsecurity/golang_c2",
+          "description": "Boilerplate C2 written in Go for red teams",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[24星][1y] prsecurity/neutrino",
+          "description": "Neutrino C2 Source Code",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[10星][9m] [Py] m8r0wn/transportc2",
+          "description": "PoC Command and Control Server. Interact with clients through a private web interface, add new users for team sharing and more.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[3星][23d] [C++] lima-x-coding/win32.-d0t-nix.c2",
+          "description": "A C/C++ recreation off the original Win32.VB.Illerka.C Virus by Michael [APFX]",
+          "children": []
+        }
+      ],
+      "title": "新添加"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "文章"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[1473星][3y] [Py] nathanlopez/stitch",
+          "description": "一个跨平台的远控框架，可为Windows，Mac OSX和Linux构建自定义的Payload",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-04T20:02:51Z",
+            "owner": "nathanlopez",
+            "repo": "Stitch",
+            "stars": 3652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[764星][7d] [C] rdesktop/rdesktop",
+          "description": "rdesktop is an open source UNIX client for connecting to Windows Remote Desktop Services, capably of natively speaking Remote Desktop Protocol (RDP) in order to present the user's Windows desktop. rdesktop is known to work with Windows server version ranging from NT 4 terminal server to Windows 2012 R2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-16T04:07:54Z",
+            "owner": "rdesktop",
+            "repo": "rdesktop",
+            "stars": 1357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[706星][1y] [PS] arvanaghi/sessiongopher",
+          "description": "使用WMI为远程访问工具（如WinSCP，PuTTY，SuperPuTTY，FileZilla和Microsoft远程桌面）提取保存的会话信息。PowerShell编写",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-11-22T21:33:23Z",
+            "owner": "Arvanaghi",
+            "repo": "SessionGopher",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[789星][4m] [Py] kevthehermit/ratdecoders",
+          "description": "Python Decoders for Common Remote Access Trojans",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-16T06:32:07Z",
+            "owner": "kevthehermit",
+            "repo": "RATDecoders",
+            "stars": 1120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[205星][2y] [C++] ahxr/ghost",
+          "description": "a light RAT that gives the server/attacker full remote access to the user's command-line interprete",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-06-03T17:21:55Z",
+            "owner": "AHXR",
+            "repo": "ghost",
+            "stars": 1061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[538星][10d] [JS] mr-un1k0d3r/thundershell",
+          "description": "通过HTTP请求进行通信的C＃RAT",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-29T21:57:08Z",
+            "owner": "Mr-Un1k0d3r",
+            "repo": "ThunderShell",
+            "stars": 771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[392星][5m] [C++] werkamsus/lilith",
+          "description": "基于C ++开发的基于控制台的超轻量RAT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-04-01T11:47:14Z",
+            "owner": "werkamsus",
+            "repo": "Lilith",
+            "stars": 750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[297星][2y] [Py] 0xislamtaha/python-rootkit",
+          "description": "Python远控，用于获取Meterpreter会话",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-29T16:56:39Z",
+            "owner": "0xIslamTaha",
+            "repo": "Python-Rootkit",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[201星][10d] [Py] pure-l0g1c/loki",
+          "description": "远程访问工具， 使用 RSA-2048 + AES-256 保护通信安全",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-01T23:38:10Z",
+            "owner": "Bitwise-01",
+            "repo": "Loki",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[52星][12d] [Py] technowlogy-pushpender/technowhorse",
+          "description": "TechNowHorse is a RAT (Remote Administrator Trojan) Generator for Windows/Linux systems written in Python 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-02T05:42:14Z",
+            "owner": "PushpenderIndia",
+            "repo": "thorse",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[222星][9d] [C++] xdnice/pcshare",
+          "description": "远程控制软件，可以监视目标机器屏幕、注册表、文件系统等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-07-24T09:56:26Z",
+            "owner": "xdnice",
+            "repo": "PCShare",
+            "stars": 568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[157星][10d] [Visual Basic] mwsrc/plasmarat",
+          "description": "Remote Access Trojan(RAT), Miner, DDoS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic",
+            "last_commit": "2016-12-24T07:54:47Z",
+            "owner": "mwsrc",
+            "repo": "PlasmaRAT",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[61星][2m] [C#] nyan-x-cat/mass-rat",
+          "description": "Basic Multiplatform Remote Administration Tool - Xamarin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-04-19T23:12:04Z",
+            "owner": "NYAN-x-CAT",
+            "repo": "Mass-RAT",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[238星][6d] [C#] b4rtik/redpeanut",
+          "description": "RedPeanut is a small RAT developed in .Net Core 2 and its agent in .Net 3.5 / 4.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-07T21:33:22Z",
+            "owner": "b4rtik",
+            "repo": "RedPeanut",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[172星][3y] [C++] hussein-aitlahcen/blackhole",
+          "description": "C# RAT (Remote Administration Tool)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-08-04T09:39:13Z",
+            "owner": "hussein-aitlahcen",
+            "repo": "BlackHole",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[214星][2y] [C#] them4hd1/vayne-rat",
+          "description": "用C＃编码的免费和开源远程管理工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-04-30T13:27:43Z",
+            "owner": "TheM4hd1",
+            "repo": "Vayne-RaT",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[136星][25d] [C++] earthquake/universaldvc",
+          "description": "Universal Dynamic Virtual Channel connector for Remote Desktop Services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-12-07T21:02:23Z",
+            "owner": "earthquake",
+            "repo": "UniversalDVC",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[175星][4y] [C#] alphadelta/secure-desktop",
+          "description": "Anti-keylogger/anti-rat application for Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-09-08T06:54:08Z",
+            "owner": "AlphaDelta",
+            "repo": "Secure-Desktop",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[46星][18d] [Java] m301/rdroid",
+          "description": "[Android RAT] Remotely manage your android phone using PHP Interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-04-27T02:35:34Z",
+            "owner": "huntoai",
+            "repo": "rdroid",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[98星][4m] [JS] securityrat/securityrat",
+          "description": "OWASP SecurityRAT (version 1.x) - Tool for handling security requirements in development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-28T07:34:13Z",
+            "owner": "SecurityRAT",
+            "repo": "SecurityRAT",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[140星][1m] [Py] anhkgg/pyrat",
+          "description": "基于python XmlRPC完成的远控开源项目，包括客户端和服务端（也叫控制端，后统称服务端）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-23T08:26:34Z",
+            "owner": "anhkgg",
+            "repo": "PyRat",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[22星][16d] [C#] rainkin1993/remote-access-trojan-database",
+          "description": "A database of RAT collected from Internet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-09-23T11:32:29Z",
+            "owner": "rainkin1993",
+            "repo": "Remote-Access-Trojan-Database",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[57星][3y] [Py] m4sc3r4n0/spyrat",
+          "description": "Python Remote Access Trojan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-28T16:15:11Z",
+            "owner": "M4sc3r4n0",
+            "repo": "spyrat",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[44星][2y] [Shell] taherio/redi",
+          "description": "Automated script for setting up CobaltStrike redirectors (nginx reverse proxy, letsencrypt)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-10-31T06:02:32Z",
+            "owner": "taherio",
+            "repo": "redi",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[95星][7y] [C#] ilikenwf/darkagent",
+          "description": "DarkAgent Remote Administration Tool RAT by DragonHunter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2013-04-15T19:58:37Z",
+            "owner": "ilikenwf",
+            "repo": "DarkAgent",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[129星][2y] [Py] dviros/rat-via-telegram",
+          "description": "使用Telegram控制已经攻克的Windows主机",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-13T13:19:20Z",
+            "owner": "Dviros",
+            "repo": "RAT-via-Telegram",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[29星][1m] [Py] the404hacking/windows-python-rat",
+          "description": "A New Microsoft Windows Remote Administrator Tool [RAT] with Python by Sir.4m1R.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-11T06:22:02Z",
+            "owner": "The404Hacking",
+            "repo": "Windows-Python-RAT",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[39星][1m] [Shell] samyk/easel-driver",
+          "description": "Easel driver for Linux (and Mac/Windows) + remote access to CNC controller",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-12T00:46:09Z",
+            "owner": "samyk",
+            "repo": "easel-driver",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[19星][7d] [Py] lithium95/controll_remote_access_trojan",
+          "description": "Created a VERY SIMPLE remote access Trojan that will establish administrative control over any windows machine it compromises.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-17T09:43:34Z",
+            "owner": "Lithium876",
+            "repo": "ConTroll_Remote_Access_Trojan",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[80星][4y] [C++] rwhitcroft/dnschan",
+          "description": "使用DNS通信的远程访问木马",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-12-23T16:10:52Z",
+            "owner": "rwhitcroft",
+            "repo": "dnschan",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[46星][1m] [Pascal] 0x48piraj/malwarex",
+          "description": "Collection of killers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2023-11-04T09:32:09Z",
+            "owner": "0x48piraj",
+            "repo": "incarcero",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[41星][3y] [C] killswitch-gui/hotload-driver",
+          "description": "C++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-09-11T03:07:14Z",
+            "owner": "killswitch-GUI",
+            "repo": "HotLoad-Driver",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[46星][20d] [Shell] infosecn1nja/ycsm",
+          "description": "This is a quick script installation for resilient redirector using nginx reverse proxy and letsencrypt compatible with some popular Post-Ex Tools (Cobalt Strike, Empire, Metasploit, PoshC2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-07-02T07:32:52Z",
+            "owner": "infosecn1nja",
+            "repo": "ycsm",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[77星][4y] [Py] ahhh/reverse_https_bot",
+          "description": "A python based https remote access trojan for penetration testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-01-07T23:00:46Z",
+            "owner": "ahhh",
+            "repo": "Reverse_HTTPS_Bot",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[65星][7m] sh1n0g1/shinobot",
+          "description": "RAT / Botnet Simulator for pentest / education",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-02T09:03:16Z",
+            "owner": "Sh1n0g1",
+            "repo": "ShinoBOT",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[50星][11d] [C#] brunull/pace",
+          "description": "A Remote Access Tool for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-11-14T04:58:37Z",
+            "owner": "typetrait",
+            "repo": "pace",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[46星][1m] [PHP] davidtavarez/pinky",
+          "description": "pinky - The PHP mini RAT (Remote Administration Tool)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-09-07T00:02:47Z",
+            "owner": "davidtavarez",
+            "repo": "pinky",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[26星][2y] [Py] thegeekht/loki.rat",
+          "description": "Loki.Rat is a fork of the Ares RAT, it integrates new modules, like recording , lockscreen , and locate options. Loki.Rat is a Python Remote Access Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-07T23:48:11Z",
+            "owner": "TheGeekHT",
+            "repo": "Loki.Rat",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[58星][3y] [PS] killswitch-gui/persistence-survivability",
+          "description": "Powershell Persistence Locator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2016-09-11T03:12:42Z",
+            "owner": "killswitch-GUI",
+            "repo": "Persistence-Survivability",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[37星][11d] [PS] 5alt/zerorat",
+          "description": "ZeroRAT是一款windows上的一句话远控",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2016-03-12T09:40:21Z",
+            "owner": "5alt",
+            "repo": "ZeroRAT",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[55星][4y] [Py] ahhh/ntp_trojan",
+          "description": "Reverse NTP remote access trojan in python, for penetration testers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-10-11T00:18:57Z",
+            "owner": "ahhh",
+            "repo": "NTP_Trojan",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[46星][2y] pentestpartners/ptp-rat",
+          "description": "Exfiltrate data over screen interfaces",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-11-13T12:24:12Z",
+            "owner": "pentestpartners",
+            "repo": "PTP-RAT",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[40星][3y] [Visual Basic .NET] mwsrc/betterrat",
+          "description": "Better Remote Access Trojan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic",
+            "last_commit": "2016-12-24T07:53:27Z",
+            "owner": "mwsrc",
+            "repo": "BetterRAT",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[17星][17d] [YARA] deadbits/yara-rules",
+          "description": "Collection of YARA signatures from individual research",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "YARA",
+            "last_commit": "2023-11-20T09:46:27Z",
+            "owner": "deadbits",
+            "repo": "yara-rules",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[35星][3y] ritiek/rat-via-telegram",
+          "description": "Removed according to regulations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-06-13T16:53:04Z",
+            "owner": "ritiek",
+            "repo": "RAT-via-Telegram",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[7星][1y] [JS] roccomuso/netrat",
+          "description": "Damn easy multiplatform Node.js RAT generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-25T05:15:12Z",
+            "owner": "roccomuso",
+            "repo": "netrat",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[18星][3y] [Py] landonpowell/orwell-rat-and-botnet",
+          "description": "Orwell is a RAT and Botnet designed as a trio of programs by Landon Powell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-22T20:44:39Z",
+            "owner": "correcthorsebatterystaple-sudo",
+            "repo": "Orwell-RAT-and-Botnet",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[11星][3y] [Pascal] mwsrc/schwarze-sonne-rat",
+          "description": "SS-RAT (Schwarze-Sonne-Remote-Access-Trojan)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2017-03-03T05:04:47Z",
+            "owner": "mwsrc",
+            "repo": "Schwarze-Sonne-RAT",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[25星][9m] [D] alexa-d/alexa-openwebif",
+          "description": "alexa skill to control your openwebif device",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "D",
+            "last_commit": "2019-05-14T12:56:58Z",
+            "owner": "alexa-d",
+            "repo": "alexa-openwebif",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[9星][8d] [Py] federicochieregato/darkfox",
+          "description": "Remote access trojan created using WinRar with firefox installer and python Reverse Shell embedded.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-13T19:54:36Z",
+            "owner": "federicochieregato",
+            "repo": "DarkFox",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[3星][1m] [Py] gbrn1/pirate",
+          "description": "Python Remote Access Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-21T00:27:14Z",
+            "owner": "gbrn1",
+            "repo": "PIRATE",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[9星][2y] [Py] cisco-talos/remcos-decoder",
+          "description": "Talos Decryptor POC for Remcos RAT version 2.0.5 and earlier",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-08-02T16:58:50Z",
+            "owner": "Cisco-Talos",
+            "repo": "remcos-decoder",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[18星][10m] [PHP] eddiejibson/limitrr-php",
+          "description": "Better PHP rate limiting using Redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-03-17T19:46:35Z",
+            "owner": "eddiejibson",
+            "repo": "limitrr-php",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[14星][2y] [Py] mitre/caldera-agent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-12-19T16:29:20Z",
+            "owner": "mitre",
+            "repo": "caldera-agent",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[10星][7m] [Go] alanbaumgartner/aurora",
+          "description": "Aurora Remote Administration Tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2018-04-16T11:28:49Z",
+            "owner": "alanbaumgartner",
+            "repo": "Aurora",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8星][4y] [C++] xyl2k/black-eye-rsa-attacking-toolkit-v0.1f-compiled",
+          "description": "The great RSA Attacking Toolkit compiled for Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-01-20T16:48:52Z",
+            "owner": "Xyl2k",
+            "repo": "bLaCk-eye-RSA-Attacking-Toolkit-v0.1f-compiled",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[7星][2y] [C#] advancedhacker101/android-c-sharp-rat-server",
+          "description": "This is a plugin for the c# R.A.T server providing extension to android based phone systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-03-02T07:32:09Z",
+            "owner": "AdvancedHacker101",
+            "repo": "android-c-sharp-rat-server",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[5星][17d] [C++] melardev/xeytanwin32-rat",
+          "description": "WORK IN PROGRESS. RAT written in C++ using Win32 API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-09-12T09:43:32Z",
+            "owner": "melardev",
+            "repo": "XeytanWin32-RAT",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[7星][2y] [Py] lukebob-zz/c2-pwn",
+          "description": "Uses Shodan API to pull down C2 servers to run known exploits on them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-09T13:53:22Z",
+            "owner": "LukeBob-zz",
+            "repo": "C2-Pwn",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[14星][3y] [Java] mhelwig/adwind-decryptor",
+          "description": "Simple decrypter for Java AdWind, jRAT, jBifrost trojan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-01-17T12:18:36Z",
+            "owner": "mhelwig",
+            "repo": "adwind-decryptor",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[7星][6m] [Py] e-rror/hiroo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-08-14T10:30:34Z",
+            "owner": "cinaaaa",
+            "repo": "HIROO",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[6星][18d] [Py] apacketofsweets/apollo",
+          "description": "A simple, lightweight Remote Access Tool written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-11T10:01:37Z",
+            "owner": "obsida-uk",
+            "repo": "Apollo",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[10星][12m] [Py] user696/mrrat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-03-11T03:52:10Z",
+            "owner": "user696",
+            "repo": "MrRAT",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[6星][4y] [Visual Basic .NET] gaiththewolf/d-rat_vb.net_mysql_php",
+          "description": "D-RAT [VB.NET]+[MySQL]+[PHP]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic .NET",
+            "last_commit": "2020-06-10T13:03:22Z",
+            "owner": "mr-wolf-gb",
+            "repo": "D-RAT_VB.NET_MySQL_PHP",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[4星][3m] [C++] melardev/xeytanwxcpp-rat",
+          "description": "Work in Progress. RAT written in C++ using wxWidgets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-09-13T08:29:09Z",
+            "owner": "melardev",
+            "repo": "XeytanWxCpp-RAT",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[3星][1m] [Kotlin] eskatos/creadur-rat-gradle",
+          "description": "Apache RAT (Release Audit Tool) Gradle Plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-01-13T13:16:28Z",
+            "owner": "eskatos",
+            "repo": "creadur-rat-gradle",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[8星][2y] thejollysin/i-wish-i-were-at-defcon-25-hack-a-thon",
+          "description": "My own \"I wish I were at DefCon 25\" Hack-a-Thon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-26T13:48:51Z",
+            "owner": "john-science",
+            "repo": "i-wish-i-were-at-defcon-25-hack-a-thon",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[7星][2y] [C#] mitre/caldera-crater",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2018-01-29T18:33:28Z",
+            "owner": "mitre",
+            "repo": "caldera-crater",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[6星][7d] [PHP] katsana/remote-control",
+          "description": "Grant remote access to user account without sharing credentials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-01-10T08:18:04Z",
+            "owner": "katsana",
+            "repo": "remote-control",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[3星][2y] [Py] bedazzlinghex/memory-analysis",
+          "description": "Contains tools to perform malware and forensic analysis in Memory",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-27T10:58:43Z",
+            "owner": "bedazzlinghex",
+            "repo": "Memory-analysis",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2星][4y] [Visual Basic .NET] retrobyte/shadowtech-rat",
+          "description": "An example of a remote administration tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Visual Basic",
+            "last_commit": "2016-04-08T22:59:15Z",
+            "owner": "Retrobyte",
+            "repo": "ShadowTech-Rat",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2星][4y] [Py] dakotanelson/multicat",
+          "description": "PoC RAT using the sneaky-creeper data exfiltration library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2015-12-07T22:52:37Z",
+            "owner": "DakotaNelson",
+            "repo": "multicat",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[40星][5y] [C++] lingerhk/0net",
+          "description": "一个简单的Windows远程控制后门",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-06-27T17:49:52Z",
+            "owner": "Lingerhk",
+            "repo": "0net",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[1615星][9d] [Py] zerosum0x0/koadic",
+          "description": "类似于Meterpreter、Powershell Empire 的post-exploitation rootkit，区别在于其大多数操作都是由 Windows 脚本主机 JScript/VBScript 执行",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[195星][3m] [PHP] 0blio/caesar",
+          "description": "基于HTTP的RAT，从浏览器远程控制设备",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[115星][4y] [C#] leurak/trollrat",
+          "description": "远程管理工具（RAT），该工具采用与其他RAT不同的方法，不做数据窃取等，只是为了trolling",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[95星][2y] [Pascal] senjaxus/allakore_remote",
+          "description": "Delphi Seattle编写的远控",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[66星][11d] [Visual Basic] thesph1nx/rt-101",
+          "description": "VB.net Remote Administrator Tool (RAT)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[61星][28d] [Visual Basic] thesph1nx/slickermaster-rev4",
+          "description": "NSA Hacking Tool Recreation UnitedRake",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[53星][8d] [Java] blackhacker511/blackrat",
+          "description": "Java编写的远控",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[36星][5m] [C#] blackvikingpro/aresskit",
+          "description": "Next Generation Remote Administration Tool (RAT)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[24星][2y] [Py] rootm0s/casper",
+          "description": "👻 Socket based RAT for Windows with evasion techniques and other features for control",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[21星][11d] [Py] kaiiyer/backnet",
+          "description": "Backdoor+Botnet or BackNet is a Python Remote Access Tool.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[17星][2m] [PHP] rizer0/rat-hunter",
+          "description": "detect trojans by easy way",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[14星][1y] shifa123/maarc",
+          "description": "A Python - Remote Administration Tool (RAT)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[12星][2y] [JS] node-rat/noderat",
+          "description": "NodeRat is remote access tool made with NodeJS and python",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[6星][1y] [Py] z4rk/winshell",
+          "description": "Python opensource RAT/Botnet",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[5星][8m] [Go] alepacheco/client",
+          "description": "Windows, OS X and linux RAT client",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[4星][16d] [C++] izanbf1803/rat-cpp-prototype",
+          "description": "A simple RAT.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[None星]socprime/sobaken-rat-detector",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "新添加"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[360星][8d] [C#] nyan-x-cat/asyncrat-c-sharp",
+          "description": "Open-Source Remote Administration Tool For Windows C# (RAT)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-16T21:41:12Z",
+            "owner": "NYAN-x-CAT",
+            "repo": "AsyncRAT-C-Sharp",
+            "stars": 3002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[493星][6m] [Py] viralmaniar/powershell-rat",
+          "description": "Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-20T04:36:26Z",
+            "owner": "Viralmaniar",
+            "repo": "Powershell-RAT",
+            "stars": 1204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[518星][8m] [Visual Basic .NET] nyan-x-cat/lime-rat",
+          "description": "LimeRAT | Simple, yet powerful remote administration tool for Windows (RAT)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Visual Basic",
+            "last_commit": "2019-06-24T17:05:48Z",
+            "owner": "NYAN-x-CAT",
+            "repo": "Lime-RAT",
+            "stars": 1133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[610星][1y] [PS] fortynorthsecurity/wmimplant",
+          "description": "This is a PowerShell based tool that is designed to act like a RAT. Its interface is that of a shell where any command that is supported is translated into a WMI-equivalent for use on a network/remote machine. WMImplant is WMI based.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2024-06-25T12:02:26Z",
+            "owner": "RedSiege",
+            "repo": "WMImplant",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[340星][3y] [Pascal] malwares/remote-access-trojan",
+          "description": "Windows Remote-Access-Trojan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2016-12-28T04:40:22Z",
+            "owner": "malwares",
+            "repo": "Remote-Access-Trojan",
+            "stars": 749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[149星][4m] [Py] safebreach-labs/sireprat",
+          "description": "Remote Command Execution as SYSTEM on Windows IoT Core",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-13T09:52:55Z",
+            "owner": "SafeBreach-Labs",
+            "repo": "SirepRAT",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[229星][4y] [Py] hood3drob1n/jsrat-py",
+          "description": "This is my implementation of JSRat.ps1 in Python so you can now run the attack server from any OS instead of being limited to a Windows OS with Powershell enabled.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-05-05T13:37:26Z",
+            "owner": "Hood3dRob1n",
+            "repo": "JSRat-Py",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[104星][2y] [Py] syss-research/outis",
+          "description": "a custom Remote Administration Tool (RAT) or something like that. It was build to support various transport methods (like DNS) and platforms (like Powershell).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-09-19T16:53:54Z",
+            "owner": "SySS-Research",
+            "repo": "outis",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[70星][3m] [PS] dsccommunity/certificatedsc",
+          "description": "DSC resources to simplify administration of certificates on a Windows Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-01-22T03:59:26Z",
+            "owner": "dsccommunity",
+            "repo": "CertificateDsc",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[67星][4y] [C#] stphivos/rat-shell",
+          "description": "Windows Remote Access Trojan (RAT)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2015-11-12T02:42:29Z",
+            "owner": "stphivos",
+            "repo": "rat-shell",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[16星][6m] [PS] yschgroup/skyrat",
+          "description": "SkyRAT - Powershell Remote Administration Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2018-01-08T17:10:11Z",
+            "owner": "YSCHGroup",
+            "repo": "SkyRAT",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[17星][6m] [Py] operatorequals/smbrat",
+          "description": "A Windows Remote Administration Tool in Visual Basic with UNC paths",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-19T07:43:56Z",
+            "owner": "operatorequals",
+            "repo": "SMBRat",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[119星][11d] [C#] dannythesloth/vanillarat",
+          "description": "VanillaRat is an advanced remote administration tool completely coded in C# for Windows.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[117星][8d] [Py] thelinuxchoice/pyrat",
+          "description": "Windows远控",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[106星][9m] [C#] r-smith/splice-admin",
+          "description": "A remote Windows administration tool. You know you want it.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[39星][2m] [Py] swordf1sh/moderat",
+          "description": "Experimental Windows Remote Administration and Spy Tool in Python + GUI",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[20星][1y] [Visual Basic] nyan-x-cat/asyncrat",
+          "description": "Remote Administration Tool For Windows",
+          "children": []
+        }
+      ],
+      "title": "Windows"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[131星][8m] [C] abhishekkr/n00brat",
+          "description": "用于POSiX（Linux / Unix）系统的远程管理工具包（或Trojan），以Web服务方式运行",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-06-15T13:10:03Z",
+            "owner": "abhishekkr",
+            "repo": "n00bRAT",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[7星][5m] [C] ctsecurity/stealth-kid-rat",
+          "description": "Stealth Kid RAT (SKR) is an open source Linux remote administration tool written in C. Licensed under MIT. The SKR project is fully developed and tested on Debian GNU-Linux (Deb 9.3 \"Stretch\") platform. The RAT will soon be available on Windows platform by mid 2018.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-09-16T11:52:45Z",
+            "owner": "artbitrage",
+            "repo": "Stealth-Kid-RAT",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[68星][10m] [JS] webxscan/linux_rat",
+          "description": "LINUX集群控制(LINUX反弹式远控)",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[51星][15d] [C] thibault-69/rat-hodin-v2.9",
+          "description": "Remote Administration Tool for Linux",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[20星][2m] [C] lillypad/swamp-rat",
+          "description": "A Linux RAT in C",
+          "children": []
+        }
+      ],
+      "title": "Linux"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[430星][9d] [ObjC] sap/macos-enterprise-privileges",
+          "description": "For Mac users in an Enterprise environment this app ensures secure environment and yet gives the User control over administration of their machine by elevating their level of access to Administrator privilege on macOS X. Users can set the time frame using Preferences to perform specific tasks such as install or remove an application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-08-11T09:47:21Z",
+            "owner": "SAP",
+            "repo": "macOS-enterprise-privileges",
+            "stars": 2030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[74星][1y] [Py] kdaoudieh/bella",
+          "description": "Bella is a pure python post-exploitation data mining tool & remote administration tool for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-02T02:21:39Z",
+            "owner": "00xglitch",
+            "repo": "Bella",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[75星][4y] [Pascal] xlinshan/coldroot",
+          "description": "Mac OS Trojan (RAT) made with love <3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2016-03-31T10:49:50Z",
+            "owner": "xlinshan",
+            "repo": "Coldroot",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[21星][2m] [Py] cys3c/evilosx",
+          "description": "A pure python, post-exploitation, remote administration tool (RAT) for macOS / OS X.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-20T10:01:53Z",
+            "owner": "cys3c",
+            "repo": "EvilOSX",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "Apple"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[1815星][8m] [Smali] ahmyth/ahmyth-android-rat",
+          "description": "Android Remote Administration Tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Smali",
+            "last_commit": "2021-08-12T21:23:08Z",
+            "owner": "AhMyth",
+            "repo": "AhMyth-Android-RAT",
+            "stars": 5249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[931星][6y] [Java] wszf/androrat",
+          "description": "Remote Administration Tool for Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-04-12T11:57:05Z",
+            "owner": "wszf",
+            "repo": "androrat",
+            "stars": 2036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[172星][2y] [Java] the404hacking/androrat",
+          "description": "AndroRAT | Remote Administrator Tool for Android OS Hacking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-28T20:44:11Z",
+            "owner": "The404Hacking",
+            "repo": "AndroRAT",
+            "stars": 1681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[939星][7y] designativedave/androrat",
+          "description": "Remote Administration Tool for Android devices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-09-26T17:33:43Z",
+            "owner": "DesignativeDave",
+            "repo": "androrat",
+            "stars": 1624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[138星][3y] [Java] mwsrc/betterandrorat",
+          "description": "Android Remote Access Trojan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-12-24T07:51:50Z",
+            "owner": "mwsrc",
+            "repo": "BetterAndroRAT",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[64星][16d] [Java] globalpolicy/phonemonitor",
+          "description": "A Remote Administration Tool for Android devices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-29T23:53:20Z",
+            "owner": "globalpolicy",
+            "repo": "PhoneMonitor",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[66星][7y] [Java] ibrahimbalic/androidrat",
+          "description": "Android RAT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2013-08-09T02:05:48Z",
+            "owner": "ibrahimbalic",
+            "repo": "AndroidRAT",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[50星][3y] [Py] alessandroz/pupy",
+          "description": "Python编写的远控、后渗透工具，跨平台（Windows, Linux, OSX, Android）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-03-27T12:03:36Z",
+            "owner": "AlessandroZ",
+            "repo": "pupy",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[6星][2y] rev-code/androidclient",
+          "description": "Android remote administration client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-04T16:45:54Z",
+            "owner": "rev-code",
+            "repo": "AndroidClient",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "内容为系统自动导出, 有任何问题请提issue",
+      "items": [],
+      "title": "文章"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:58.259Z",
+    "original_repository": "alphaSeclab/awesome-rat",
+    "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
+    "enhanced_repository": "enhansome/enhansome-rat",
+    "enhanced_repository_description": null,
+    "title": "Awesome 所有收集类项目 with stars"
+  }
+}
