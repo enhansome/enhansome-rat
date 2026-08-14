@@ -24,7 +24,7 @@
             "last_commit": "2024-07-18T17:25:35Z",
             "owner": "cobbr",
             "repo": "Covenant",
-            "stars": 4723
+            "stars": 4724
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-05-15T18:10:25Z",
             "owner": "yuanyuanxiang",
             "repo": "SimpleRemoter",
-            "stars": 1342
+            "stars": 1343
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2016-12-24T07:54:46Z",
             "owner": "mwsrc",
             "repo": "njRAT",
-            "stars": 310
+            "stars": 311
           }
         },
         {
@@ -940,10 +940,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T18:32:30Z",
+            "last_commit": "2026-08-14T16:48:43Z",
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11672
+            "stars": 11674
           }
         },
         {
@@ -957,7 +957,7 @@
             "last_commit": "2024-03-14T11:17:49Z",
             "owner": "iagox86",
             "repo": "dnscat2",
-            "stars": 3951
+            "stars": 3952
           }
         },
         {
@@ -1329,7 +1329,7 @@
             "last_commit": "2025-11-20T13:55:21Z",
             "owner": "nettitude",
             "repo": "PoshC2",
-            "stars": 2126
+            "stars": 2127
           }
         },
         {
@@ -1357,7 +1357,7 @@
             "last_commit": "2022-01-31T20:16:24Z",
             "owner": "trustedsec",
             "repo": "trevorc2",
-            "stars": 1344
+            "stars": 1343
           }
         },
         {
@@ -2187,7 +2187,7 @@
             "last_commit": "2024-01-04T20:02:51Z",
             "owner": "nathanlopez",
             "repo": "Stitch",
-            "stars": 3656
+            "stars": 3657
           }
         },
         {
@@ -2551,7 +2551,7 @@
             "last_commit": "2020-04-11T06:22:02Z",
             "owner": "The404Hacking",
             "repo": "Windows-Python-RAT",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -3331,7 +3331,7 @@
             "last_commit": "2022-10-20T04:36:26Z",
             "owner": "Viralmaniar",
             "repo": "Powershell-RAT",
-            "stars": 1205
+            "stars": 1206
           }
         },
         {
@@ -3373,7 +3373,7 @@
             "last_commit": "2016-12-28T04:40:22Z",
             "owner": "malwares",
             "repo": "Remote-Access-Trojan",
-            "stars": 749
+            "stars": 750
           }
         },
         {
@@ -3573,7 +3573,7 @@
             "last_commit": "2026-08-11T09:47:21Z",
             "owner": "SAP",
             "repo": "macOS-enterprise-privileges",
-            "stars": 2030
+            "stars": 2032
           }
         },
         {
@@ -3601,7 +3601,7 @@
             "last_commit": "2016-03-31T10:49:50Z",
             "owner": "xlinshan",
             "repo": "Coldroot",
-            "stars": 90
+            "stars": 89
           }
         },
         {
@@ -3663,7 +3663,7 @@
             "last_commit": "2024-07-28T20:44:11Z",
             "owner": "The404Hacking",
             "repo": "AndroRAT",
-            "stars": 1682
+            "stars": 1686
           }
         },
         {
@@ -3760,7 +3760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:38:24.341Z",
+    "last_updated": "2026-08-14T22:20:10.686Z",
     "original_repository": "alphaSeclab/awesome-rat",
     "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
     "enhanced_repository": "enhansome/enhansome-rat",
