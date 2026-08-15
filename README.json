@@ -375,7 +375,7 @@
             "last_commit": "2019-06-30T20:50:07Z",
             "owner": "mvrozanti",
             "repo": "RAT-via-Telegram",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -841,7 +841,7 @@
             "last_commit": "2017-09-09T12:32:19Z",
             "owner": "philarkwright",
             "repo": "DGA-Detection",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -943,7 +943,7 @@
             "last_commit": "2026-08-14T16:48:43Z",
             "owner": "BishopFox",
             "repo": "sliver",
-            "stars": 11674
+            "stars": 11680
           }
         },
         {
@@ -1152,7 +1152,7 @@
             "last_commit": "2022-10-28T18:21:42Z",
             "owner": "xx0hcd",
             "repo": "Malleable-C2-Profiles",
-            "stars": 891
+            "stars": 893
           }
         },
         {
@@ -1483,7 +1483,7 @@
             "last_commit": "2024-11-02T12:16:52Z",
             "owner": "not-sekiun",
             "repo": "PyIris",
-            "stars": 325
+            "stars": 326
           }
         },
         {
@@ -2187,7 +2187,7 @@
             "last_commit": "2024-01-04T20:02:51Z",
             "owner": "nathanlopez",
             "repo": "Stitch",
-            "stars": 3657
+            "stars": 3658
           }
         },
         {
@@ -2201,7 +2201,7 @@
             "last_commit": "2026-05-16T04:07:54Z",
             "owner": "rdesktop",
             "repo": "rdesktop",
-            "stars": 1357
+            "stars": 1356
           }
         },
         {
@@ -2999,7 +2999,7 @@
             "last_commit": "2017-12-09T13:53:22Z",
             "owner": "LukeBob-zz",
             "repo": "C2-Pwn",
-            "stars": 19
+            "stars": 18
           }
         },
         {
@@ -3317,7 +3317,7 @@
             "last_commit": "2023-10-16T21:41:12Z",
             "owner": "NYAN-x-CAT",
             "repo": "AsyncRAT-C-Sharp",
-            "stars": 3001
+            "stars": 3002
           }
         },
         {
@@ -3587,7 +3587,7 @@
             "last_commit": "2022-11-02T02:21:39Z",
             "owner": "00xglitch",
             "repo": "Bella",
-            "stars": 204
+            "stars": 205
           }
         },
         {
@@ -3635,7 +3635,7 @@
             "last_commit": "2021-08-12T21:23:08Z",
             "owner": "AhMyth",
             "repo": "AhMyth-Android-RAT",
-            "stars": 5249
+            "stars": 5250
           }
         },
         {
@@ -3649,7 +3649,7 @@
             "last_commit": "2023-04-12T11:57:05Z",
             "owner": "wszf",
             "repo": "androrat",
-            "stars": 2036
+            "stars": 2037
           }
         },
         {
@@ -3663,7 +3663,7 @@
             "last_commit": "2024-07-28T20:44:11Z",
             "owner": "The404Hacking",
             "repo": "AndroRAT",
-            "stars": 1686
+            "stars": 1688
           }
         },
         {
@@ -3760,7 +3760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:20:10.686Z",
+    "last_updated": "2026-08-15T22:18:28.264Z",
     "original_repository": "alphaSeclab/awesome-rat",
     "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
     "enhanced_repository": "enhansome/enhansome-rat",
