@@ -19,7 +19,7 @@
                     "last_commit": "2024-07-18T17:25:35Z",
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4727
+                    "stars": 4728
                   }
                 },
                 {
@@ -84,7 +84,7 @@
                     "last_commit": "2022-03-16T05:47:15Z",
                     "owner": "uknowsec",
                     "repo": "SharpDecryptPwd",
-                    "stars": 1270
+                    "stars": 1269
                   }
                 },
                 {
@@ -209,7 +209,7 @@
                     "last_commit": "2026-05-15T18:10:25Z",
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1345
+                    "stars": 1346
                   }
                 },
                 {
@@ -224,7 +224,7 @@
                     "last_commit": "2013-05-08T21:17:26Z",
                     "owner": "sin5678",
                     "repo": "gh0st",
-                    "stars": 558
+                    "stars": 560
                   }
                 },
                 {
@@ -378,7 +378,7 @@
                     "last_commit": "2019-06-30T20:50:07Z",
                     "owner": "mvrozanti",
                     "repo": "RAT-via-Telegram",
-                    "stars": 713
+                    "stars": 714
                   }
                 },
                 {
@@ -960,10 +960,10 @@
                     "archived": false,
                     "id": 166304026,
                     "language": "Go",
-                    "last_commit": "2026-08-19T21:12:24Z",
+                    "last_commit": "2026-08-22T20:41:43Z",
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11711
+                    "stars": 11719
                   }
                 },
                 {
@@ -978,7 +978,7 @@
                     "last_commit": "2024-03-14T11:17:49Z",
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3956
+                    "stars": 3957
                   }
                 },
                 {
@@ -1356,7 +1356,7 @@
                     "last_commit": "2023-12-06T17:17:24Z",
                     "owner": "byt3bl33d3r",
                     "repo": "SILENTTRINITY",
-                    "stars": 2340
+                    "stars": 2341
                   }
                 },
                 {
@@ -2261,7 +2261,7 @@
                     "last_commit": "2024-01-04T20:02:51Z",
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3656
+                    "stars": 3657
                   }
                 },
                 {
@@ -2381,7 +2381,7 @@
                     "last_commit": "2023-05-01T23:38:10Z",
                     "owner": "Bitwise-01",
                     "repo": "Loki",
-                    "stars": 624
+                    "stars": 626
                   }
                 },
                 {
@@ -2441,7 +2441,7 @@
                     "last_commit": "2020-04-19T23:12:04Z",
                     "owner": "NYAN-x-CAT",
                     "repo": "Mass-RAT",
-                    "stars": 386
+                    "stars": 385
                   }
                 },
                 {
@@ -3363,7 +3363,7 @@
                     "last_commit": "2023-10-16T21:41:12Z",
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3005
+                    "stars": 3003
                   }
                 },
                 {
@@ -3423,7 +3423,7 @@
                     "last_commit": "2016-12-28T04:40:22Z",
                     "owner": "malwares",
                     "repo": "Remote-Access-Trojan",
-                    "stars": 749
+                    "stars": 750
                   }
                 },
                 {
@@ -3587,7 +3587,7 @@
                     "last_commit": "2026-08-11T09:47:21Z",
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2039
+                    "stars": 2041
                   }
                 },
                 {
@@ -3654,7 +3654,7 @@
                     "last_commit": "2021-08-12T21:23:08Z",
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5268
+                    "stars": 5270
                   }
                 },
                 {
@@ -3669,7 +3669,7 @@
                     "last_commit": "2023-04-12T11:57:05Z",
                     "owner": "wszf",
                     "repo": "androrat",
-                    "stars": 2037
+                    "stars": 2038
                   }
                 },
                 {
@@ -3684,7 +3684,7 @@
                     "last_commit": "2024-07-28T20:44:11Z",
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1693
+                    "stars": 1691
                   }
                 },
                 {
@@ -3792,7 +3792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:21:52.888Z",
+    "last_updated": "2026-08-22T22:18:54.202Z",
     "original_repository": "alphaSeclab/awesome-rat",
     "original_repository_id": 230841003,
     "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
