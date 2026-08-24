@@ -9,6 +9,35 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "[5265星][1m] [Py] n1nj4sec/pupy",
+                  "description": "Python编写的远控、后渗透工具，跨平台（Windows, Linux, OSX, Android）",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 42882329,
+                    "language": "Python",
+                    "last_commit": "2024-03-22T08:52:53Z",
+                    "owner": "n1nj4sec",
+                    "repo": "pupy",
+                    "stars": 8999
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "工具"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "pupy"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "[1147星][6d] [C#] cobbr/covenant",
                   "description": "Covenant is a collaborative .NET C2 framework for red teamers.",
                   "children": [],
@@ -19,7 +48,7 @@
                     "last_commit": "2024-07-18T17:25:35Z",
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4729
+                    "stars": 4730
                   }
                 },
                 {
@@ -61,6 +90,122 @@
           "description": null,
           "node_type": "group",
           "title": "Covenant"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[332星][12d] [Py] coalfire-research/slackor",
+                  "description": "A Golang implant that uses Slack as a command and control server",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192572494,
+                    "language": "Python",
+                    "last_commit": "2023-02-25T03:35:15Z",
+                    "owner": "Coalfire-Research",
+                    "repo": "Slackor",
+                    "stars": 460
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "工具"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Slackor"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[2932星][10m] [C#] quasar/quasarrat",
+                  "description": "Remote Administration Tool for Windows",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 21611723,
+                    "language": "C#",
+                    "last_commit": "2024-02-29T06:37:37Z",
+                    "owner": "quasar",
+                    "repo": "Quasar",
+                    "stars": 9907
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "工具"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "QuasarRAT"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[1376星][2y] [Py] marten4n6/evilosx",
+                  "description": "An evil RAT (Remote Administration Tool) for macOS / OS X.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 121546909,
+                    "language": "Python",
+                    "last_commit": "2021-02-10T15:02:53Z",
+                    "owner": "Marten4n6",
+                    "repo": "EvilOSX",
+                    "stars": 2413
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "工具"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "EvilOSX"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[2568星][6m] [Go] ne0nd0g/merlin",
+                  "description": "Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 78200488,
+                    "language": "Go",
+                    "last_commit": "2025-04-17T15:08:42Z",
+                    "owner": "Ne0nd0g",
+                    "repo": "merlin",
+                    "stars": 5598
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "工具"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Merlin"
         }
       ],
       "title": "开源工具"
@@ -288,6 +433,35 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "[2星][10m] [Py] jacobpimental/nanocore_extractor",
+                  "description": "Extracts nanocore sample from compile AutoIT script",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 184682054,
+                    "language": "Python",
+                    "last_commit": "2019-05-06T16:31:49Z",
+                    "owner": "JacobPimental",
+                    "repo": "nanocore_extractor",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "工具"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NanoCore"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "[128星][8d] [Visual Basic] mwsrc/njrat",
                   "description": "njRAT SRC Extract",
                   "children": [],
@@ -340,6 +514,64 @@
           "description": null,
           "node_type": "group",
           "title": "NjRat"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[21星][2m] [C#] nyan-x-cat/revengerat-stub-cssharp",
+                  "description": "Revenge-RAT C# Stub - Fixed",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 208571778,
+                    "language": "C#",
+                    "last_commit": "2020-03-02T11:34:36Z",
+                    "owner": "NYAN-x-CAT",
+                    "repo": "RevengeRAT-Stub-CSsharp",
+                    "stars": 92
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "工具"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Revenge RAT"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[28星][7y] [Py] kcreyts/plugxdecoder",
+                  "description": "Decodes PlugX traffic and encrypted/compressed artifacts",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7495686,
+                    "language": "Python",
+                    "last_commit": "2013-04-29T16:05:19Z",
+                    "owner": "kcreyts",
+                    "repo": "plugxdecoder",
+                    "stars": 38
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "工具"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PlugX"
         }
       ],
       "title": "恶意软件(部分)"
@@ -493,6 +725,64 @@
           "description": null,
           "node_type": "group",
           "title": "GMail"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[179星][3y] [Py] maldevel/canisrufus",
+                  "description": "Python 编写的后门，使用 Github 做 C&C",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 100094998,
+                    "language": "Python",
+                    "last_commit": "2017-08-15T15:46:20Z",
+                    "owner": "maldevel",
+                    "repo": "canisrufus",
+                    "stars": 265
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "工具"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Github"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[134星][1y] [Py] 0x09al/dropboxc2c",
+                  "description": "DropboxC2C is a post-exploitation agent which uses Dropbox Infrastructure for command and control operations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 95323389,
+                    "language": "Python",
+                    "last_commit": "2018-10-20T19:15:06Z",
+                    "owner": "0x09AL",
+                    "repo": "DropboxC2C",
+                    "stars": 153
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "工具"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DropBox"
         },
         {
           "children": [
@@ -960,10 +1250,10 @@
                     "archived": false,
                     "id": 166304026,
                     "language": "Go",
-                    "last_commit": "2026-08-23T20:40:04Z",
+                    "last_commit": "2026-08-24T13:45:22Z",
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11720
+                    "stars": 11721
                   }
                 },
                 {
@@ -978,7 +1268,7 @@
                     "last_commit": "2024-03-14T11:17:49Z",
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3957
+                    "stars": 3956
                   }
                 },
                 {
@@ -1371,7 +1661,7 @@
                     "last_commit": "2025-11-20T13:55:21Z",
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2130
+                    "stars": 2131
                   }
                 },
                 {
@@ -3363,7 +3653,7 @@
                     "last_commit": "2023-10-16T21:41:12Z",
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3004
+                    "stars": 3003
                   }
                 },
                 {
@@ -3378,7 +3668,7 @@
                     "last_commit": "2022-10-20T04:36:26Z",
                     "owner": "Viralmaniar",
                     "repo": "Powershell-RAT",
-                    "stars": 1205
+                    "stars": 1206
                   }
                 },
                 {
@@ -3587,7 +3877,7 @@
                     "last_commit": "2026-08-11T09:47:21Z",
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2041
+                    "stars": 2042
                   }
                 },
                 {
@@ -3699,7 +3989,7 @@
                     "last_commit": "2022-09-26T17:33:43Z",
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1629
+                    "stars": 1630
                   }
                 },
                 {
@@ -3792,7 +4082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:18:50.710Z",
+    "last_updated": "2026-08-24T14:05:06.401Z",
     "original_repository": "alphaSeclab/awesome-rat",
     "original_repository_id": 230841003,
     "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
