@@ -136,7 +136,7 @@
                     "last_commit": "2024-02-29T06:37:37Z",
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9907
+                    "stars": 9908
                   }
                 }
               ],
@@ -472,7 +472,7 @@
                     "last_commit": "2016-12-24T07:54:46Z",
                     "owner": "mwsrc",
                     "repo": "njRAT",
-                    "stars": 311
+                    "stars": 312
                   }
                 },
                 {
@@ -1250,10 +1250,10 @@
                     "archived": false,
                     "id": 166304026,
                     "language": "Go",
-                    "last_commit": "2026-08-24T13:45:22Z",
+                    "last_commit": "2026-08-24T16:53:55Z",
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11721
+                    "stars": 11725
                   }
                 },
                 {
@@ -2686,7 +2686,7 @@
                     "last_commit": "2023-12-02T05:42:14Z",
                     "owner": "PushpenderIndia",
                     "repo": "thorse",
-                    "stars": 613
+                    "stars": 614
                   }
                 },
                 {
@@ -3421,7 +3421,7 @@
                     "last_commit": "2017-12-09T13:53:22Z",
                     "owner": "LukeBob-zz",
                     "repo": "C2-Pwn",
-                    "stars": 18
+                    "stars": 19
                   }
                 },
                 {
@@ -3653,7 +3653,7 @@
                     "last_commit": "2023-10-16T21:41:12Z",
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3003
+                    "stars": 3005
                   }
                 },
                 {
@@ -3877,7 +3877,7 @@
                     "last_commit": "2026-08-11T09:47:21Z",
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2042
+                    "stars": 2041
                   }
                 },
                 {
@@ -3989,7 +3989,7 @@
                     "last_commit": "2022-09-26T17:33:43Z",
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1630
+                    "stars": 1631
                   }
                 },
                 {
@@ -4082,7 +4082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:06.401Z",
+    "last_updated": "2026-08-24T22:23:13.932Z",
     "original_repository": "alphaSeclab/awesome-rat",
     "original_repository_id": 230841003,
     "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
