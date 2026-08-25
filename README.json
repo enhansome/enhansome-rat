@@ -1250,10 +1250,10 @@
                     "archived": false,
                     "id": 166304026,
                     "language": "Go",
-                    "last_commit": "2026-08-25T04:30:19Z",
+                    "last_commit": "2026-08-25T17:46:22Z",
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11726
+                    "stars": 11727
                   }
                 },
                 {
@@ -1298,7 +1298,7 @@
                     "last_commit": "2021-06-03T21:58:45Z",
                     "owner": "TryCatchHCF",
                     "repo": "PacketWhisper",
-                    "stars": 653
+                    "stars": 654
                   }
                 },
                 {
@@ -1355,7 +1355,7 @@
                     "archived": false,
                     "id": 106653507,
                     "language": "Erlang",
-                    "last_commit": "2026-08-20T18:50:11Z",
+                    "last_commit": "2026-08-25T14:09:41Z",
                     "owner": "Homas",
                     "repo": "ioc2rpz",
                     "stars": 116
@@ -1661,7 +1661,7 @@
                     "last_commit": "2025-11-20T13:55:21Z",
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2131
+                    "stars": 2132
                   }
                 },
                 {
@@ -1751,7 +1751,7 @@
                     "last_commit": "2026-08-11T10:54:01Z",
                     "owner": "p3nt4",
                     "repo": "Nuages",
-                    "stars": 545
+                    "stars": 546
                   }
                 },
                 {
@@ -1811,7 +1811,7 @@
                     "last_commit": "2020-10-27T23:43:25Z",
                     "owner": "TreeHacks",
                     "repo": "botnet-hackpack",
-                    "stars": 404
+                    "stars": 405
                   }
                 },
                 {
@@ -2731,7 +2731,7 @@
                     "last_commit": "2020-04-19T23:12:04Z",
                     "owner": "NYAN-x-CAT",
                     "repo": "Mass-RAT",
-                    "stars": 385
+                    "stars": 386
                   }
                 },
                 {
@@ -3653,7 +3653,7 @@
                     "last_commit": "2023-10-16T21:41:12Z",
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3005
+                    "stars": 3007
                   }
                 },
                 {
@@ -3683,7 +3683,7 @@
                     "last_commit": "2019-06-24T17:05:48Z",
                     "owner": "NYAN-x-CAT",
                     "repo": "Lime-RAT",
-                    "stars": 1132
+                    "stars": 1133
                   }
                 },
                 {
@@ -3713,7 +3713,7 @@
                     "last_commit": "2016-12-28T04:40:22Z",
                     "owner": "malwares",
                     "repo": "Remote-Access-Trojan",
-                    "stars": 750
+                    "stars": 751
                   }
                 },
                 {
@@ -4082,7 +4082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:58:03.333Z",
+    "last_updated": "2026-08-25T22:24:04.041Z",
     "original_repository": "alphaSeclab/awesome-rat",
     "original_repository_id": 230841003,
     "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
