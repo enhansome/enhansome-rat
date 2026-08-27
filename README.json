@@ -595,7 +595,7 @@
                     "last_commit": "2019-06-30T20:50:07Z",
                     "owner": "mvrozanti",
                     "repo": "RAT-via-Telegram",
-                    "stars": 715
+                    "stars": 716
                   }
                 },
                 {
@@ -1253,7 +1253,7 @@
                     "last_commit": "2026-08-26T21:00:55Z",
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11729
+                    "stars": 11730
                   }
                 },
                 {
@@ -2551,7 +2551,7 @@
                     "last_commit": "2024-01-04T20:02:51Z",
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3660
+                    "stars": 3659
                   }
                 },
                 {
@@ -2716,7 +2716,7 @@
                     "last_commit": "2016-12-24T07:54:47Z",
                     "owner": "mwsrc",
                     "repo": "PlasmaRAT",
-                    "stars": 401
+                    "stars": 402
                   }
                 },
                 {
@@ -3944,7 +3944,7 @@
                     "last_commit": "2021-08-12T21:23:08Z",
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5273
+                    "stars": 5272
                   }
                 },
                 {
@@ -3974,7 +3974,7 @@
                     "last_commit": "2024-07-28T20:44:11Z",
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1694
+                    "stars": 1695
                   }
                 },
                 {
@@ -3989,7 +3989,7 @@
                     "last_commit": "2022-09-26T17:33:43Z",
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1634
+                    "stars": 1633
                   }
                 },
                 {
@@ -4082,9 +4082,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:54:00.040Z",
-    "original_repository": "alphaSeclab/awesome-rat",
-    "original_repository_id": 230841003,
+    "last_updated": "2026-08-27T11:58:31.910Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 230841003,
+      "language": null,
+      "last_commit": "2020-02-17T09:23:02Z",
+      "owner": "alphaSeclab",
+      "repo": "awesome-rat",
+      "stars": 2259
+    },
     "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
     "enhanced_repository": "enhansome/enhansome-rat",
     "enhanced_repository_description": null,
