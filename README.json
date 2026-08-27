@@ -165,7 +165,7 @@
                     "last_commit": "2021-02-10T15:02:53Z",
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2413
+                    "stars": 2415
                   }
                 }
               ],
@@ -194,7 +194,7 @@
                     "last_commit": "2025-04-17T15:08:42Z",
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5598
+                    "stars": 5600
                   }
                 }
               ],
@@ -354,7 +354,7 @@
                     "last_commit": "2026-05-15T18:10:25Z",
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1346
+                    "stars": 1347
                   }
                 },
                 {
@@ -585,21 +585,6 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[648星][1y] [Py] mehulj94/braindamage",
-                  "description": "使用Telegram做C&C服务器的远控",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "id": 83223778,
-                    "language": "Python",
-                    "last_commit": "2021-02-25T00:24:59Z",
-                    "owner": "mehulj94",
-                    "repo": "BrainDamage",
-                    "stars": 714
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "[330星][8m] [Py] mvrozanti/rat-via-telegram",
                   "description": "Windows Remote Administration Tool via Telegram",
                   "children": [],
@@ -610,6 +595,21 @@
                     "last_commit": "2019-06-30T20:50:07Z",
                     "owner": "mvrozanti",
                     "repo": "RAT-via-Telegram",
+                    "stars": 715
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "[648星][1y] [Py] mehulj94/braindamage",
+                  "description": "使用Telegram做C&C服务器的远控",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 83223778,
+                    "language": "Python",
+                    "last_commit": "2021-02-25T00:24:59Z",
+                    "owner": "mehulj94",
+                    "repo": "BrainDamage",
                     "stars": 714
                   }
                 },
@@ -1250,10 +1250,10 @@
                     "archived": false,
                     "id": 166304026,
                     "language": "Go",
-                    "last_commit": "2026-08-25T17:46:22Z",
+                    "last_commit": "2026-08-26T21:00:55Z",
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11727
+                    "stars": 11729
                   }
                 },
                 {
@@ -1268,7 +1268,7 @@
                     "last_commit": "2024-03-14T11:17:49Z",
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3956
+                    "stars": 3958
                   }
                 },
                 {
@@ -1328,7 +1328,7 @@
                     "last_commit": "2023-08-22T03:20:46Z",
                     "owner": "lukebaggett",
                     "repo": "dnscat2-powershell",
-                    "stars": 436
+                    "stars": 437
                   }
                 },
                 {
@@ -1467,7 +1467,7 @@
                     "last_commit": "2021-05-18T14:45:39Z",
                     "owner": "rsmudge",
                     "repo": "Malleable-C2-Profiles",
-                    "stars": 1592
+                    "stars": 1593
                   }
                 },
                 {
@@ -1512,7 +1512,7 @@
                     "last_commit": "2022-11-22T21:39:08Z",
                     "owner": "QAX-A-Team",
                     "repo": "CobaltStrike-Toolset",
-                    "stars": 592
+                    "stars": 593
                   }
                 },
                 {
@@ -1676,7 +1676,7 @@
                     "last_commit": "2026-01-16T14:53:32Z",
                     "owner": "ReversecLabs",
                     "repo": "C3",
-                    "stars": 1784
+                    "stars": 1785
                   }
                 },
                 {
@@ -1826,7 +1826,7 @@
                     "last_commit": "2026-08-19T18:45:01Z",
                     "owner": "not-sekiun",
                     "repo": "Consortium",
-                    "stars": 327
+                    "stars": 328
                   }
                 },
                 {
@@ -2551,7 +2551,7 @@
                     "last_commit": "2024-01-04T20:02:51Z",
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3659
+                    "stars": 3660
                   }
                 },
                 {
@@ -2611,7 +2611,7 @@
                     "last_commit": "2021-06-03T17:21:55Z",
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1057
+                    "stars": 1058
                   }
                 },
                 {
@@ -2731,7 +2731,7 @@
                     "last_commit": "2020-04-19T23:12:04Z",
                     "owner": "NYAN-x-CAT",
                     "repo": "Mass-RAT",
-                    "stars": 386
+                    "stars": 385
                   }
                 },
                 {
@@ -3276,21 +3276,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "[9星][8d] [Py] federicochieregato/darkfox",
-                  "description": "Remote access trojan created using WinRar with firefox installer and python Reverse Shell embedded.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 203199432,
-                    "language": "Python",
-                    "last_commit": "2019-10-13T19:54:36Z",
-                    "owner": "federicochieregato",
-                    "repo": "DarkFox",
-                    "stars": 25
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "[3星][1m] [Py] gbrn1/pirate",
                   "description": "Python Remote Access Tool",
                   "children": [],
@@ -3301,6 +3286,21 @@
                     "last_commit": "2020-02-21T00:27:14Z",
                     "owner": "gbrn1",
                     "repo": "PIRATE",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "[9星][8d] [Py] federicochieregato/darkfox",
+                  "description": "Remote access trojan created using WinRar with firefox installer and python Reverse Shell embedded.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 203199432,
+                    "language": "Python",
+                    "last_commit": "2019-10-13T19:54:36Z",
+                    "owner": "federicochieregato",
+                    "repo": "DarkFox",
                     "stars": 25
                   }
                 },
@@ -3653,7 +3653,7 @@
                     "last_commit": "2023-10-16T21:41:12Z",
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3007
+                    "stars": 3008
                   }
                 },
                 {
@@ -3668,7 +3668,7 @@
                     "last_commit": "2022-10-20T04:36:26Z",
                     "owner": "Viralmaniar",
                     "repo": "Powershell-RAT",
-                    "stars": 1206
+                    "stars": 1207
                   }
                 },
                 {
@@ -3683,7 +3683,7 @@
                     "last_commit": "2019-06-24T17:05:48Z",
                     "owner": "NYAN-x-CAT",
                     "repo": "Lime-RAT",
-                    "stars": 1133
+                    "stars": 1134
                   }
                 },
                 {
@@ -3728,7 +3728,7 @@
                     "last_commit": "2020-12-13T09:52:55Z",
                     "owner": "SafeBreach-Labs",
                     "repo": "SirepRAT",
-                    "stars": 388
+                    "stars": 389
                   }
                 },
                 {
@@ -3877,7 +3877,7 @@
                     "last_commit": "2026-08-11T09:47:21Z",
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2041
+                    "stars": 2043
                   }
                 },
                 {
@@ -3944,7 +3944,7 @@
                     "last_commit": "2021-08-12T21:23:08Z",
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5272
+                    "stars": 5273
                   }
                 },
                 {
@@ -3974,7 +3974,7 @@
                     "last_commit": "2024-07-28T20:44:11Z",
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1693
+                    "stars": 1694
                   }
                 },
                 {
@@ -3989,7 +3989,7 @@
                     "last_commit": "2022-09-26T17:33:43Z",
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1632
+                    "stars": 1634
                   }
                 },
                 {
@@ -4004,7 +4004,7 @@
                     "last_commit": "2016-12-24T07:51:50Z",
                     "owner": "mwsrc",
                     "repo": "BetterAndroRAT",
-                    "stars": 541
+                    "stars": 542
                   }
                 },
                 {
@@ -4082,7 +4082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:24:04.041Z",
+    "last_updated": "2026-08-27T02:54:00.040Z",
     "original_repository": "alphaSeclab/awesome-rat",
     "original_repository_id": 230841003,
     "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
