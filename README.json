@@ -49,7 +49,7 @@
                     "last_commit": "2024-07-18T17:25:35Z",
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4731
+                    "stars": 4732
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
                 },
@@ -1312,10 +1312,10 @@
                     "archived": false,
                     "id": 166304026,
                     "language": "Go",
-                    "last_commit": "2026-08-28T01:04:20Z",
+                    "last_commit": "2026-08-28T18:27:31Z",
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11734
+                    "stars": 11742
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
                 },
@@ -1395,7 +1395,7 @@
                     "last_commit": "2023-08-22T03:20:46Z",
                     "owner": "lukebaggett",
                     "repo": "dnscat2-powershell",
-                    "stars": 437
+                    "stars": 438
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
                 },
@@ -1411,7 +1411,7 @@
                     "last_commit": "2017-11-20T08:53:25Z",
                     "owner": "0x09AL",
                     "repo": "DNS-Persist",
-                    "stars": 206
+                    "stars": 207
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
                 },
@@ -2695,7 +2695,7 @@
                     "last_commit": "2024-01-04T20:02:51Z",
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3659
+                    "stars": 3661
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
                 },
@@ -2823,7 +2823,7 @@
                     "last_commit": "2023-05-01T23:38:10Z",
                     "owner": "Bitwise-01",
                     "repo": "Loki",
-                    "stars": 626
+                    "stars": 627
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
                 },
@@ -4179,7 +4179,7 @@
                     "last_commit": "2021-08-12T21:23:08Z",
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5274
+                    "stars": 5277
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
                 },
@@ -4211,7 +4211,7 @@
                     "last_commit": "2024-07-28T20:44:11Z",
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1695
+                    "stars": 1696
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
                 },
@@ -4326,7 +4326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:56:58.174Z",
+    "last_updated": "2026-08-29T03:29:37.485Z",
     "original_repository_info": {
       "archived": false,
       "id": 230841003,
@@ -4334,7 +4334,7 @@
       "last_commit": "2020-02-17T09:23:02Z",
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2259
+      "stars": 2260
     },
     "original_repository_sha": "b9e233bccb355b4acd29fb6160af540139609620",
     "enhanced_repository": "enhansome/enhansome-rat",
