@@ -259,7 +259,7 @@
 
 ### <a id="dcb10cc6813a25815201b36bacdef198"></a>工具
 
-* \[**301**星]\[7d] \[C++] [yuanyuanxiang/simpleremoter](https://github.com/yuanyuanxiang/simpleremoter) ⭐ 1,347 | 🐛 2 | 🌐 C++ | 📅 2026-05-15 基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能
+* \[**301**星]\[7d] \[C++] [yuanyuanxiang/simpleremoter](https://github.com/yuanyuanxiang/simpleremoter) ⭐ 1,348 | 🐛 2 | 🌐 C++ | 📅 2026-05-15 基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能
 * \[**273**星]\[7y] \[C++] [sin5678/gh0st](https://github.com/sin5678/gh0st) ⭐ 560 | 🐛 1 | 🌐 C++ | 📅 2013-05-08 a open source remote administrator tool
 * \[**90**星]\[1m] \[C++] [zibility/remote](https://github.com/zibility/remote) ⭐ 231 | 🐛 1 | 🌐 C++ | 📅 2016-07-31 参考Gh0st源码，实现的一款PC远程协助软件，拥有远程Shell、文件管理、桌面管理、消息发送等功能。
 * \[**91**星]\[6y] \[C++] [igh0st/gh0st3.6\_src](https://github.com/igh0st/gh0st3.6_src) ⭐ 169 | 🐛 0 | 🌐 C++ | 📅 2014-04-29
@@ -1430,7 +1430,7 @@
 
 ### <a id="d70a62f77fa20a2219e81fa61527e644"></a>工具
 
-* \[**832**星]\[6d] \[Go] [bishopfox/sliver](https://github.com/bishopfox/sliver) ⭐ 11,742 | 🐛 225 | 🌐 Go | 📅 2026-08-28 一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS
+* \[**832**星]\[6d] \[Go] [bishopfox/sliver](https://github.com/bishopfox/sliver) ⭐ 11,743 | 🐛 225 | 🌐 Go | 📅 2026-08-28 一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS
 * \[**1855**星]\[8m] \[C++] [iagox86/dnscat2](https://github.com/iagox86/dnscat2) ⭐ 3,957 | 🐛 98 | 🌐 PHP | 📅 2024-03-14 在 DNS 协议上创建加密的 C\&C channel
 * \[**276**星]\[4m] \[Go] [sensepost/godoh](https://github.com/sensepost/godoh) ⭐ 808 | 🐛 3 | 🌐 Go | 📅 2023-12-19  A DNS-over-HTTPS Command & Control Proof of Concept
 * \[**277**星]\[1y] \[Py] [trycatchhcf/packetwhisper](https://github.com/trycatchhcf/packetwhisper) ⭐ 654 | 🐛 4 | 🌐 Python | 📅 2021-06-03 Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.
