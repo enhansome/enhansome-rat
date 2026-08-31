@@ -76,7 +76,7 @@
                     "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4732,
+                    "stars": 4733,
                     "topics": [
                       "c2",
                       "covenant",
@@ -253,7 +253,7 @@
                     "open_issues": 44,
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2415,
+                    "stars": 2416,
                     "topics": [
                       "backdoor",
                       "mac",
@@ -1838,11 +1838,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-29T21:09:57Z",
+                    "last_commit": "2026-08-30T17:09:22Z",
                     "open_issues": 226,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11748,
+                    "stars": 11756,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1879,7 +1879,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3958,
+                    "stars": 3959,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2481,7 +2481,7 @@
                     "open_issues": 25,
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2132,
+                    "stars": 2133,
                     "topics": [
                       "c2",
                       "csharp",
@@ -2851,7 +2851,7 @@
                     "open_issues": 1,
                     "owner": "shadow-workers",
                     "repo": "shadow-workers",
-                    "stars": 245,
+                    "stars": 246,
                     "topics": [
                       "c2",
                       "penetration-testing-tools",
@@ -5786,7 +5786,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3011,
+                    "stars": 3013,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -6185,7 +6185,7 @@
                     "open_issues": 2,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2043,
+                    "stars": 2044,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6286,7 +6286,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5278,
+                    "stars": 5279,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6498,7 +6498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:52:42.577Z",
+    "last_updated": "2026-08-31T00:11:40.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
