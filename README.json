@@ -23,7 +23,7 @@
                     "open_issues": 177,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 9000,
+                    "stars": 8999,
                     "topics": [
                       "android",
                       "backdoor",
@@ -76,7 +76,7 @@
                     "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4733,
+                    "stars": 4731,
                     "topics": [
                       "c2",
                       "covenant",
@@ -633,7 +633,7 @@
                     "open_issues": 0,
                     "owner": "holmesian",
                     "repo": "Gh0st-light",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1192,7 +1192,7 @@
                     "open_issues": 1,
                     "owner": "geek-repo",
                     "repo": "C2-Blockchain",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1838,11 +1838,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-31T19:40:55Z",
-                    "open_issues": 227,
+                    "last_commit": "2026-09-01T23:23:20Z",
+                    "open_issues": 229,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11765,
+                    "stars": 11768,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1879,7 +1879,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3962,
+                    "stars": 3963,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2234,7 +2234,7 @@
                     "open_issues": 3,
                     "owner": "threatexpress",
                     "repo": "cs2modrewrite",
-                    "stars": 608,
+                    "stars": 609,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2449,7 +2449,7 @@
                     "open_issues": 48,
                     "owner": "byt3bl33d3r",
                     "repo": "SILENTTRINITY",
-                    "stars": 2341,
+                    "stars": 2342,
                     "topics": [
                       "boolang",
                       "c-sharp",
@@ -2583,7 +2583,7 @@
                     "open_issues": 2,
                     "owner": "qsecure-labs",
                     "repo": "overlord",
-                    "stars": 637,
+                    "stars": 638,
                     "topics": [
                       "penetration-testing-framework",
                       "pentest",
@@ -3378,7 +3378,7 @@
                     "open_issues": 0,
                     "owner": "jacobsoo",
                     "repo": "amtracker",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3903,7 +3903,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3662,
+                    "stars": 3663,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4232,7 +4232,7 @@
                     "open_issues": 3,
                     "owner": "NYAN-x-CAT",
                     "repo": "Mass-RAT",
-                    "stars": 385,
+                    "stars": 384,
                     "topics": [
                       "admin",
                       "android",
@@ -4796,7 +4796,7 @@
                     "open_issues": 7,
                     "owner": "typetrait",
                     "repo": "pace",
-                    "stars": 83,
+                    "stars": 82,
                     "topics": [
                       "administration",
                       "contributions-welcome",
@@ -5786,7 +5786,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3014,
+                    "stars": 3016,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -6334,7 +6334,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1699,
+                    "stars": 1700,
                     "topics": [
                       "administrator",
                       "android",
@@ -6498,7 +6498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:58:47.773Z",
+    "last_updated": "2026-09-01T23:47:09.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6510,7 +6510,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2261,
+      "stars": 2262,
       "topics": [
         "c2",
         "command-and-control",
