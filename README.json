@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9909,
+                    "stars": 9908,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -348,7 +348,7 @@
                     "open_issues": 1,
                     "owner": "uknowsec",
                     "repo": "SharpDecryptPwd",
-                    "stars": 1270,
+                    "stars": 1271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1838,11 +1838,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-30T17:09:22Z",
-                    "open_issues": 226,
+                    "last_commit": "2026-08-31T19:40:55Z",
+                    "open_issues": 227,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11756,
+                    "stars": 11765,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1879,7 +1879,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3959,
+                    "stars": 3962,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2209,7 +2209,7 @@
                     "open_issues": 0,
                     "owner": "xx0hcd",
                     "repo": "Malleable-C2-Profiles",
-                    "stars": 895,
+                    "stars": 896,
                     "topics": [
                       "cobalt-strike",
                       "malleable-c2",
@@ -2534,7 +2534,7 @@
                     "open_issues": 2,
                     "owner": "trustedsec",
                     "repo": "trevorc2",
-                    "stars": 1344,
+                    "stars": 1345,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2924,7 +2924,7 @@
                     "open_issues": 0,
                     "owner": "watersalesman",
                     "repo": "aura-botnet",
-                    "stars": 143,
+                    "stars": 144,
                     "topics": [
                       "botnet",
                       "c-plus-plus",
@@ -3903,7 +3903,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3661,
+                    "stars": 3662,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4042,7 +4042,7 @@
                     "open_issues": 21,
                     "owner": "Mr-Un1k0d3r",
                     "repo": "ThunderShell",
-                    "stars": 770,
+                    "stars": 769,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4304,7 +4304,7 @@
                     "open_issues": 1,
                     "owner": "TheM4hd1",
                     "repo": "Vayne-RaT",
-                    "stars": 270,
+                    "stars": 271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5786,7 +5786,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3013,
+                    "stars": 3014,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -6181,8 +6181,8 @@
                     "id": 138925737,
                     "language": "Objective-C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-11T09:47:21Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-08-31T09:25:17Z",
+                    "open_issues": 1,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
                     "stars": 2044,
@@ -6286,7 +6286,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5279,
+                    "stars": 5282,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6334,7 +6334,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1697,
+                    "stars": 1699,
                     "topics": [
                       "administrator",
                       "android",
@@ -6368,7 +6368,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1634,
+                    "stars": 1635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6498,7 +6498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T00:11:40.026Z",
+    "last_updated": "2026-09-01T00:58:47.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6510,7 +6510,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2260,
+      "stars": 2261,
       "topics": [
         "c2",
         "command-and-control",
