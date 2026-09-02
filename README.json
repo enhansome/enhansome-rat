@@ -76,7 +76,7 @@
                     "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4731,
+                    "stars": 4730,
                     "topics": [
                       "c2",
                       "covenant",
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9908,
+                    "stars": 9909,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -543,7 +543,7 @@
                     "open_issues": 2,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1349,
+                    "stars": 1350,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -1838,8 +1838,8 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-01T23:23:20Z",
-                    "open_issues": 229,
+                    "last_commit": "2026-09-02T22:09:53Z",
+                    "open_issues": 230,
                     "owner": "BishopFox",
                     "repo": "sliver",
                     "stars": 11768,
@@ -1879,7 +1879,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3963,
+                    "stars": 3962,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2209,7 +2209,7 @@
                     "open_issues": 0,
                     "owner": "xx0hcd",
                     "repo": "Malleable-C2-Profiles",
-                    "stars": 896,
+                    "stars": 895,
                     "topics": [
                       "cobalt-strike",
                       "malleable-c2",
@@ -2513,7 +2513,7 @@
                     "open_issues": 35,
                     "owner": "ReversecLabs",
                     "repo": "C3",
-                    "stars": 1785,
+                    "stars": 1786,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2583,7 +2583,7 @@
                     "open_issues": 2,
                     "owner": "qsecure-labs",
                     "repo": "overlord",
-                    "stars": 638,
+                    "stars": 639,
                     "topics": [
                       "penetration-testing-framework",
                       "pentest",
@@ -2626,8 +2626,8 @@
                     "id": 186243682,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-11T10:54:01Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-09-02T22:58:42Z",
+                    "open_issues": 10,
                     "owner": "p3nt4",
                     "repo": "Nuages",
                     "stars": 545,
@@ -2740,7 +2740,7 @@
                     "open_issues": 11,
                     "owner": "not-sekiun",
                     "repo": "Consortium",
-                    "stars": 328,
+                    "stars": 327,
                     "topics": [
                       "adversary-simulation",
                       "c2",
@@ -4540,7 +4540,7 @@
                     "open_issues": 0,
                     "owner": "Dviros",
                     "repo": "RAT-via-Telegram",
-                    "stars": 135,
+                    "stars": 134,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5786,7 +5786,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3016,
+                    "stars": 3020,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -6185,7 +6185,7 @@
                     "open_issues": 1,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2044,
+                    "stars": 2047,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6286,7 +6286,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5282,
+                    "stars": 5283,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6313,7 +6313,7 @@
                     "open_issues": 52,
                     "owner": "wszf",
                     "repo": "androrat",
-                    "stars": 2040,
+                    "stars": 2039,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6368,7 +6368,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1635,
+                    "stars": 1636,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6498,7 +6498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:47:09.176Z",
+    "last_updated": "2026-09-02T23:51:26.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6510,7 +6510,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2262,
+      "stars": 2261,
       "topics": [
         "c2",
         "command-and-control",
