@@ -105,7 +105,7 @@
 
 ### <a id="05d2a0aed9499aea447e90668c8d5103"></a>工具
 
-* \[**1147**星]\[6d] \[C#] [cobbr/covenant](https://github.com/cobbr/covenant) ⭐ 4,730 | 🐛 89 | 🌐 C# | 📅 2024-07-18 Covenant is a collaborative .NET C2 framework for red teamers.
+* \[**1147**星]\[6d] \[C#] [cobbr/covenant](https://github.com/cobbr/covenant) ⭐ 4,732 | 🐛 89 | 🌐 C# | 📅 2024-07-18 Covenant is a collaborative .NET C2 framework for red teamers.
 * \[**95**星]\[9d] \[C#] [cobbr/elite](https://github.com/cobbr/elite) ⭐ 121 | 🐛 5 | 🌐 C# | 📅 2023-07-07 Elite is the client-side component of the Covenant project. Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 * \[**31**星]\[4m] \[C#] [cobbr/c2bridge](https://github.com/cobbr/c2bridge) ⭐ 71 | 🐛 1 | 🌐 C# | 📅 2021-02-13 C2Bridges allow developers to create new custom communication protocols and quickly utilize them within Covenant.
 
@@ -190,7 +190,7 @@
 
 ### <a id="941bae92e80ca3f9c21a232cc959eb67"></a>工具
 
-* \[**2568**星]\[6m] \[Go] [ne0nd0g/merlin](https://github.com/ne0nd0g/merlin) ⭐ 5,600 | 🐛 21 | 🌐 Go | 📅 2025-04-17 Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
+* \[**2568**星]\[6m] \[Go] [ne0nd0g/merlin](https://github.com/ne0nd0g/merlin) ⭐ 5,599 | 🐛 21 | 🌐 Go | 📅 2025-04-17 Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 
 ### <a id="5b3a7a286bac53bf26395ea5ffb6c590"></a>文章
 
@@ -1368,7 +1368,7 @@
 
 #### <a id="a2e73ce71da73fb1b4ab8cb52449d839"></a>工具
 
-* \[**318**星]\[1m] \[Py] [baderj/domain\_generation\_algorithms](https://github.com/baderj/domain_generation_algorithms) ⭐ 691 | 🐛 0 | 🌐 Python | 📅 2026-06-04 域名生成算法
+* \[**318**星]\[1m] \[Py] [baderj/domain\_generation\_algorithms](https://github.com/baderj/domain_generation_algorithms) ⭐ 692 | 🐛 0 | 🌐 Python | 📅 2026-06-04 域名生成算法
 * \[**220**星]\[17d] \[Scala] [sotera/spark-distributed-louvain-modularity](https://github.com/sotera/spark-distributed-louvain-modularity) ⭐ 317 | 🐛 15 | 🌐 Scala | 📅 2020-09-02 Spark / graphX implementation of the distributed louvain modularity algorithm
 * \[**209**星]\[3y] \[Py] [endgameinc/dga\_predict](https://github.com/endgameinc/dga_predict) ⭐ 271 | 🐛 5 | 🌐 Python | 📅 2018-08-25 Predicting Domain Generation Algorithms using LSTMs
 * \[**132**星]\[2m] \[Py] [andrewaeva/dga](https://github.com/andrewaeva/dga) ⭐ 226 | 🐛 0 | 🌐 Python | 📅 2017-07-31 The repository that contains the algorithms for generating domain names, dictionaries of malicious domain names. Developed to research the possibility of applying machine learning and neural networks to detect and classify malicious domains.
@@ -1430,7 +1430,7 @@
 
 ### <a id="d70a62f77fa20a2219e81fa61527e644"></a>工具
 
-* \[**832**星]\[6d] \[Go] [bishopfox/sliver](https://github.com/bishopfox/sliver) ⭐ 11,768 | 🐛 230 | 🌐 Go | 📅 2026-09-02 一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS
+* \[**832**星]\[6d] \[Go] [bishopfox/sliver](https://github.com/bishopfox/sliver) ⭐ 11,771 | 🐛 222 | 🌐 Go | 📅 2026-09-03 一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS
 * \[**1855**星]\[8m] \[C++] [iagox86/dnscat2](https://github.com/iagox86/dnscat2) ⭐ 3,962 | 🐛 98 | 🌐 PHP | 📅 2024-03-14 在 DNS 协议上创建加密的 C\&C channel
 * \[**276**星]\[4m] \[Go] [sensepost/godoh](https://github.com/sensepost/godoh) ⭐ 808 | 🐛 3 | 🌐 Go | 📅 2023-12-19  A DNS-over-HTTPS Command & Control Proof of Concept
 * \[**277**星]\[1y] \[Py] [trycatchhcf/packetwhisper](https://github.com/trycatchhcf/packetwhisper) ⭐ 654 | 🐛 4 | 🌐 Python | 📅 2021-06-03 Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.
@@ -1499,8 +1499,8 @@
 ### <a id="f587c1f0baaf7aa1d9e9c5fe533c7a6d"></a>工具
 
 * \[**165**星]\[6m] [threatexpress/malleable-c2](https://github.com/threatexpress/malleable-c2) ⭐ 1,766 | 🐛 4 | 📅 2023-12-13 Cobalt Strike Malleable C2 Design and Reference Guide
-* \[**462**星]\[2y] [rsmudge/malleable-c2-profiles](https://github.com/rsmudge/malleable-c2-profiles) ⭐ 1,593 | 🐛 2 | 📅 2021-05-18 Malleable C2 is a domain specific language to redefine indicators in Beacon's communication. This repository is a collection of Malleable C2 profiles that you may use. These profiles work with Cobalt Strike 3.x.
-* \[**105**星]\[5m] [xx0hcd/malleable-c2-profiles](https://github.com/xx0hcd/malleable-c2-profiles) ⭐ 895 | 🐛 0 | 📅 2022-10-28 Cobalt Strike - Malleable C2 Profiles. A collection of profiles used in different projects using Cobalt Strike
+* \[**462**星]\[2y] [rsmudge/malleable-c2-profiles](https://github.com/rsmudge/malleable-c2-profiles) ⭐ 1,592 | 🐛 2 | 📅 2021-05-18 Malleable C2 is a domain specific language to redefine indicators in Beacon's communication. This repository is a collection of Malleable C2 profiles that you may use. These profiles work with Cobalt Strike 3.x.
+* \[**105**星]\[5m] [xx0hcd/malleable-c2-profiles](https://github.com/xx0hcd/malleable-c2-profiles) ⭐ 894 | 🐛 0 | 📅 2022-10-28 Cobalt Strike - Malleable C2 Profiles. A collection of profiles used in different projects using Cobalt Strike
 * \[**160**星]\[11d] \[Py] [threatexpress/cs2modrewrite](https://github.com/threatexpress/cs2modrewrite) ⭐ 609 | 🐛 3 | 🌐 Python | 📅 2023-01-30 Convert Cobalt Strike profiles to modrewrite scripts
 * \[**195**星]\[1y] \[PS] [qax-a-team/cobaltstrike-toolset](https://github.com/QAX-A-Team/CobaltStrike-Toolset) ⭐ 593 | 🐛 2 | 🌐 PowerShell | 📅 2022-11-22 Aggressor Script, Kits, Malleable C2 Profiles, External C2 and so on
 * \[**217**星]\[2y] \[Py] [bluscreenofjeff/malleable-c2-randomizer](https://github.com/bluscreenofjeff/malleable-c2-randomizer) ⭐ 454 | 🐛 1 | 🌐 Python | 📅 2022-09-09 A script to randomize Cobalt Strike Malleable C2 profiles and reduce the chances of flagging signature-based detection controls
@@ -1530,14 +1530,14 @@
 
 ### <a id="dbd38a8d8a1e246cd8628a34002c5fe7"></a>新添加
 
-* \[**1135**星]\[13d] \[Boo] [byt3bl33d3r/silenttrinity](https://github.com/byt3bl33d3r/silenttrinity) ⭐ 2,342 | 🐛 48 | 🌐 Boo | 📅 2023-12-06 An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR
+* \[**1135**星]\[13d] \[Boo] [byt3bl33d3r/silenttrinity](https://github.com/byt3bl33d3r/silenttrinity) ⭐ 2,341 | 🐛 48 | 🌐 Boo | 📅 2023-12-06 An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR
 * \[**336**星]\[12d] \[PS] [nettitude/poshc2](https://github.com/nettitude/poshc2) ⭐ 2,133 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20 Python Server for PoshC2
-* \[**478**星]\[5m] \[C++] [fsecurelabs/c3](https://github.com/FSecureLABS/C3) ⭐ 1,786 | 🐛 35 | 🌐 C++ | 📅 2026-01-16 一个用于快速定制C2通道原型的框架，同时仍提供与现有攻击性工具包的集成。
+* \[**478**星]\[5m] \[C++] [fsecurelabs/c3](https://github.com/FSecureLABS/C3) ⭐ 1,785 | 🐛 35 | 🌐 C++ | 📅 2026-01-16 一个用于快速定制C2通道原型的框架，同时仍提供与现有攻击性工具包的集成。
 * \[**614**星]\[12d] \[Py] [trustedsec/trevorc2](https://github.com/trustedsec/trevorc2) ⭐ 1,345 | 🐛 2 | 🌐 C | 📅 2022-01-31 通过正常的可浏览的网站隐藏 C\&C 指令的客户端/服务器模型，因为时间间隔不同，检测变得更加困难，并且获取主机数据时不会使用 POST 请求
 * \[**130**星]\[6d] \[Py] [mhaskar/octopus](https://github.com/mhaskar/octopus) ⭐ 763 | 🐛 12 | 🌐 Python | 📅 2021-07-06 Open source pre-operation C2 server based on python and powershell
 * \[**31**星]\[16d] \[Py] [qsecure-labs/overlord](https://github.com/qsecure-labs/overlord) ⭐ 639 | 🐛 2 | 🌐 Python | 📅 2024-05-28 Overlord - Red Teaming Infrastructure Automation
 * \[**575**星]\[3m] \[PS] [nettitude/poshc2\_old](https://github.com/nettitude/poshc2_old) ⭐ 575 | 🐛 8 | 🌐 PowerShell | 📅 2019-11-11 Powershell C2 Server and Implants
-* \[**125**星]\[7d] \[JS] [p3nt4/nuages](https://github.com/p3nt4/nuages) ⭐ 545 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-02 A modular C2 framework
+* \[**125**星]\[7d] \[JS] [p3nt4/nuages](https://github.com/p3nt4/nuages) ⭐ 545 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-03 A modular C2 framework
 * \[**442**星]\[3y] \[CSS] [graniet/chromebackdoor](https://github.com/graniet/chromebackdoor) ⚠️ Archived 一个渗透测试工具PoC，使用MITB技术在启动后生成Windows可执行文件“ .exe”，并在大多数流行的浏览器上运行恶意扩展或脚本，并通过C\&C发送所有DOM数据。
 * \[**325**星]\[1y] \[C#] [spiderlabs/dohc2](https://github.com/spiderlabs/dohc2) ⚠️ Archived DoHC2 allows the ExternalC2 library from Ryan Hanson (
 * \[**273**星]\[4m] \[Py] [felixweyne/imaginaryc2](https://github.com/felixweyne/imaginaryc2) ⭐ 446 | 🐛 0 | 🌐 Python | 📅 2022-10-26 辅助对恶意软件进行行为（网络）分析，python
@@ -1554,7 +1554,7 @@
 * \[**67**星]\[5m] \[HTML] [project-prismatica/prismatica](https://github.com/project-prismatica/prismatica) ⭐ 102 | 🐛 4 | 🌐 HTML | 📅 2022-10-06 Responsive Command and Control System
 * \[**58**星]\[1y] \[C#] [mdsecactivebreach/browser-externalc2](https://github.com/mdsecactivebreach/browser-externalc2) ⭐ 100 | 🐛 1 | 🌐 C# | 📅 2019-02-24 External C2 Using IE COM Objects
 * \[**6**星]\[5m] \[Py] [m507/m-botnet](https://github.com/m507/m-botnet) ⚠️ Archived A C2 project that controls a self-propagating MS17-010 worm.
-* \[**38**星]\[12d] \[C#] [sf197/telegra\_csharp\_c2](https://github.com/sf197/telegra_csharp_c2) ⭐ 68 | 🐛 1 | 🌐 C# | 📅 2022-12-08 Command and Control for C# Writing
+* \[**38**星]\[12d] \[C#] [sf197/telegra\_csharp\_c2](https://github.com/sf197/telegra_csharp_c2) ⭐ 67 | 🐛 1 | 🌐 C# | 📅 2022-12-08 Command and Control for C# Writing
 * \[**48**星]\[3m] \[Shell] [professionallyevil/c4](https://github.com/professionallyevil/c4) ⭐ 64 | 🐛 20 | 🌐 Shell | 📅 2019-10-16 Cyberdelia, a Collection of Command and Control frameworks
 * \[**39**星]\[1y] \[PS] [outflanknl/doh\_c2\_trigger](https://github.com/outflanknl/doh_c2_trigger) ⭐ 53 | 🐛 0 | 🌐 PowerShell | 📅 2018-10-25 Code for blogpost:
 * \[**30**星]\[6y] \[PS] [enigma0x3/powershell-c2](https://github.com/enigma0x3/powershell-c2) ⭐ 50 | 🐛 0 | 🌐 PowerShell | 📅 2014-02-05
@@ -1868,7 +1868,7 @@
 
 ### <a id="964a3580a7a7f66571ee1d2c0f34f2d6"></a>新添加
 
-* \[**1473**星]\[3y] \[Py] [nathanlopez/stitch](https://github.com/nathanlopez/stitch) ⭐ 3,663 | 🐛 59 | 🌐 Python | 📅 2024-01-04 一个跨平台的远控框架，可为Windows，Mac OSX和Linux构建自定义的Payload
+* \[**1473**星]\[3y] \[Py] [nathanlopez/stitch](https://github.com/nathanlopez/stitch) ⭐ 3,662 | 🐛 59 | 🌐 Python | 📅 2024-01-04 一个跨平台的远控框架，可为Windows，Mac OSX和Linux构建自定义的Payload
 * \[**764**星]\[7d] \[C] [rdesktop/rdesktop](https://github.com/rdesktop/rdesktop) ⭐ 1,354 | 🐛 132 | 🌐 C | 📅 2026-05-16 rdesktop is an open source UNIX client for connecting to Windows Remote Desktop Services, capably of natively speaking Remote Desktop Protocol (RDP) in order to present the user's Windows desktop. rdesktop is known to work with Windows server version ranging from NT 4 terminal server to Windows 2012 R2.
 * \[**706**星]\[1y] \[PS] [arvanaghi/sessiongopher](https://github.com/Arvanaghi/SessionGopher) ⭐ 1,334 | 🐛 5 | 🌐 PowerShell | 📅 2022-11-22 使用WMI为远程访问工具（如WinSCP，PuTTY，SuperPuTTY，FileZilla和Microsoft远程桌面）提取保存的会话信息。PowerShell编写
 * \[**789**星]\[4m] \[Py] [kevthehermit/ratdecoders](https://github.com/kevthehermit/ratdecoders) ⭐ 1,120 | 🐛 25 | 🌐 Python | 📅 2024-07-16 Python Decoders for Common Remote Access Trojans
@@ -1989,7 +1989,7 @@
 
 ### <a id="674863bb36ce7a2f814934480c7fd3d2"></a>Apple
 
-* \[**430**星]\[9d] \[ObjC] [sap/macos-enterprise-privileges](https://github.com/sap/macos-enterprise-privileges) ⭐ 2,047 | 🐛 1 | 🌐 Objective-C | 📅 2026-08-31 For Mac users in an Enterprise environment this app ensures secure environment and yet gives the User control over administration of their machine by elevating their level of access to Administrator privilege on macOS X. Users can set the time frame using Preferences to perform specific tasks such as install or remove an application.
+* \[**430**星]\[9d] \[ObjC] [sap/macos-enterprise-privileges](https://github.com/sap/macos-enterprise-privileges) ⭐ 2,048 | 🐛 1 | 🌐 Objective-C | 📅 2026-08-31 For Mac users in an Enterprise environment this app ensures secure environment and yet gives the User control over administration of their machine by elevating their level of access to Administrator privilege on macOS X. Users can set the time frame using Preferences to perform specific tasks such as install or remove an application.
 * \[**74**星]\[1y] \[Py] [kdaoudieh/bella](https://github.com/kdaoudieh/bella) ⭐ 205 | 🐛 0 | 🌐 Python | 📅 2022-11-02 Bella is a pure python post-exploitation data mining tool & remote administration tool for macOS.
 * \[**75**星]\[4y] \[Pascal] [xlinshan/coldroot](https://github.com/xlinshan/coldroot) ⭐ 89 | 🐛 0 | 🌐 Pascal | 📅 2016-03-31 Mac OS Trojan (RAT) made with love <3
 * \[**21**星]\[2m] \[Py] [cys3c/evilosx](https://github.com/cys3c/evilosx) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2017-05-20 A pure python, post-exploitation, remote administration tool (RAT) for macOS / OS X.
@@ -1997,9 +1997,9 @@
 ### <a id="6ed48c90d1bd6a31a4ea7380f4f5768a"></a>Android
 
 * \[**1815**星]\[8m] \[Smali] [ahmyth/ahmyth-android-rat](https://github.com/ahmyth/ahmyth-android-rat) ⚠️ Archived Android Remote Administration Tool
-* \[**931**星]\[6y] \[Java] [wszf/androrat](https://github.com/wszf/androrat) ⭐ 2,039 | 🐛 52 | 🌐 Java | 📅 2023-04-12 Remote Administration Tool for Android
-* \[**172**星]\[2y] \[Java] [the404hacking/androrat](https://github.com/the404hacking/androrat) ⭐ 1,700 | 🐛 26 | 🌐 Java | 📅 2024-07-28 AndroRAT | Remote Administrator Tool for Android OS Hacking
-* \[**939**星]\[7y] [designativedave/androrat](https://github.com/designativedave/androrat) ⭐ 1,636 | 🐛 10 | 🌐 Java | 📅 2022-09-26 Remote Administration Tool for Android devices
+* \[**931**星]\[6y] \[Java] [wszf/androrat](https://github.com/wszf/androrat) ⭐ 2,040 | 🐛 52 | 🌐 Java | 📅 2023-04-12 Remote Administration Tool for Android
+* \[**172**星]\[2y] \[Java] [the404hacking/androrat](https://github.com/the404hacking/androrat) ⭐ 1,702 | 🐛 26 | 🌐 Java | 📅 2024-07-28 AndroRAT | Remote Administrator Tool for Android OS Hacking
+* \[**939**星]\[7y] [designativedave/androrat](https://github.com/designativedave/androrat) ⭐ 1,635 | 🐛 10 | 🌐 Java | 📅 2022-09-26 Remote Administration Tool for Android devices
 * \[**138**星]\[3y] \[Java] [mwsrc/betterandrorat](https://github.com/mwsrc/betterandrorat) ⭐ 542 | 🐛 5 | 🌐 Java | 📅 2016-12-24 Android Remote Access Trojan
 * \[**64**星]\[16d] \[Java] [globalpolicy/phonemonitor](https://github.com/globalpolicy/phonemonitor) ⭐ 266 | 🐛 11 | 🌐 Java | 📅 2023-01-29 A Remote Administration Tool for Android devices
 * \[**66**星]\[7y] \[Java] [ibrahimbalic/androidrat](https://github.com/ibrahimbalic/androidrat) ⭐ 161 | 🐛 5 | 🌐 Java | 📅 2013-08-09 Android RAT
@@ -2016,4 +2016,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
