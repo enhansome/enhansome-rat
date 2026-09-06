@@ -703,7 +703,7 @@
                     "open_issues": 4,
                     "owner": "mwsrc",
                     "repo": "njRAT",
-                    "stars": 312,
+                    "stars": 313,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -724,7 +724,7 @@
                     "open_issues": 0,
                     "owner": "NYAN-x-CAT",
                     "repo": "njRAT-0.7d-Stub-CSharp",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": [
                       "backdoor",
                       "client",
@@ -753,7 +753,7 @@
                     "open_issues": 2,
                     "owner": "Seep1959",
                     "repo": "njutils",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": [
                       "malware",
                       "njrat",
@@ -1842,7 +1842,7 @@
                     "open_issues": 221,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11783,
+                    "stars": 11791,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -2167,7 +2167,7 @@
                     "open_issues": 4,
                     "owner": "threatexpress",
                     "repo": "malleable-c2",
-                    "stars": 1766,
+                    "stars": 1767,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2449,7 +2449,7 @@
                     "open_issues": 48,
                     "owner": "byt3bl33d3r",
                     "repo": "SILENTTRINITY",
-                    "stars": 2341,
+                    "stars": 2342,
                     "topics": [
                       "boolang",
                       "c-sharp",
@@ -2481,7 +2481,7 @@
                     "open_issues": 25,
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2133,
+                    "stars": 2134,
                     "topics": [
                       "c2",
                       "csharp",
@@ -2555,7 +2555,7 @@
                     "open_issues": 12,
                     "owner": "mhaskar",
                     "repo": "Octopus",
-                    "stars": 763,
+                    "stars": 764,
                     "topics": [
                       "c2",
                       "pentesting",
@@ -2651,7 +2651,7 @@
                     "open_issues": 2,
                     "owner": "graniet",
                     "repo": "chromebackdoor",
-                    "stars": 513,
+                    "stars": 512,
                     "topics": [
                       "backdoor",
                       "chrome",
@@ -3903,7 +3903,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3663,
+                    "stars": 3664,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4262,7 +4262,7 @@
                     "open_issues": 2,
                     "owner": "b4rtik",
                     "repo": "RedPeanut",
-                    "stars": 330,
+                    "stars": 331,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4484,6 +4484,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "[95星][7y] [C#] ilikenwf/darkagent",
+                  "description": "DarkAgent Remote Administration Tool RAT by DragonHunter",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "DarkAgent Remote Administration Tool RAT by DragonHunter",
+                    "homepage": "http://www.hackforums.net/showthread.php?tid=708624",
+                    "id": 2706056,
+                    "language": "C#",
+                    "license": null,
+                    "last_commit": "2013-04-15T19:58:37Z",
+                    "open_issues": 1,
+                    "owner": "ilikenwf",
+                    "repo": "DarkAgent",
+                    "stars": 143,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:56:58.174Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "[44星][2y] [Shell] taherio/redi",
                   "description": "Automated script for setting up CobaltStrike redirectors (nginx reverse proxy, letsencrypt)",
                   "children": [],
@@ -4499,27 +4520,6 @@
                     "owner": "taherio",
                     "repo": "redi",
                     "stars": 143,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T05:56:58.174Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "[95星][7y] [C#] ilikenwf/darkagent",
-                  "description": "DarkAgent Remote Administration Tool RAT by DragonHunter",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "DarkAgent Remote Administration Tool RAT by DragonHunter",
-                    "homepage": "http://www.hackforums.net/showthread.php?tid=708624",
-                    "id": 2706056,
-                    "language": "C#",
-                    "license": null,
-                    "last_commit": "2013-04-15T19:58:37Z",
-                    "open_issues": 1,
-                    "owner": "ilikenwf",
-                    "repo": "DarkAgent",
-                    "stars": 142,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5786,7 +5786,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3022,
+                    "stars": 3021,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -6185,7 +6185,7 @@
                     "open_issues": 2,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2048,
+                    "stars": 2049,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6286,7 +6286,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5293,
+                    "stars": 5294,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6334,7 +6334,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1702,
+                    "stars": 1703,
                     "topics": [
                       "administrator",
                       "android",
@@ -6368,7 +6368,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1636,
+                    "stars": 1637,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6498,7 +6498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:33:23.241Z",
+    "last_updated": "2026-09-06T23:28:12.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
