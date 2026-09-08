@@ -23,7 +23,7 @@
                     "open_issues": 177,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 8999,
+                    "stars": 9000,
                     "topics": [
                       "android",
                       "backdoor",
@@ -543,7 +543,7 @@
                     "open_issues": 2,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1351,
+                    "stars": 1352,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -1248,7 +1248,7 @@
                     "open_issues": 2,
                     "owner": "nccgroup",
                     "repo": "gitpwnd",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1842,7 +1842,7 @@
                     "open_issues": 226,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11794,
+                    "stars": 11801,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -2513,7 +2513,7 @@
                     "open_issues": 35,
                     "owner": "ReversecLabs",
                     "repo": "C3",
-                    "stars": 1785,
+                    "stars": 1784,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2626,8 +2626,8 @@
                     "id": 186243682,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-07T07:24:01Z",
-                    "open_issues": 13,
+                    "last_commit": "2026-09-08T17:02:36Z",
+                    "open_issues": 14,
                     "owner": "p3nt4",
                     "repo": "Nuages",
                     "stars": 545,
@@ -3903,7 +3903,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3664,
+                    "stars": 3663,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4190,7 +4190,7 @@
                     "open_issues": 0,
                     "owner": "xdnice",
                     "repo": "PCShare",
-                    "stars": 569,
+                    "stars": 568,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4211,7 +4211,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "PlasmaRAT",
-                    "stars": 402,
+                    "stars": 403,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5589,10 +5589,10 @@
                     "description": "Apache RAT (Release Audit Tool) Gradle Plugin",
                     "homepage": null,
                     "id": 37669494,
-                    "language": "Kotlin",
+                    "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T15:49:53Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-09-08T22:45:56Z",
+                    "open_issues": 3,
                     "owner": "eskatos",
                     "repo": "creadur-rat-gradle",
                     "stars": 11,
@@ -5904,7 +5904,7 @@
                     "open_issues": 4,
                     "owner": "malwares",
                     "repo": "Remote-Access-Trojan",
-                    "stars": 753,
+                    "stars": 752,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6286,7 +6286,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5295,
+                    "stars": 5294,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6313,7 +6313,7 @@
                     "open_issues": 52,
                     "owner": "wszf",
                     "repo": "androrat",
-                    "stars": 2040,
+                    "stars": 2039,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6498,7 +6498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:58:56.518Z",
+    "last_updated": "2026-09-08T23:49:12.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6510,7 +6510,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2262,
+      "stars": 2263,
       "topics": [
         "c2",
         "command-and-control",
