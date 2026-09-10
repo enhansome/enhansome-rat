@@ -23,7 +23,7 @@
                     "open_issues": 177,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 9000,
+                    "stars": 9001,
                     "topics": [
                       "android",
                       "backdoor",
@@ -76,7 +76,7 @@
                     "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4734,
+                    "stars": 4735,
                     "topics": [
                       "c2",
                       "covenant",
@@ -253,7 +253,7 @@
                     "open_issues": 44,
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2417,
+                    "stars": 2418,
                     "topics": [
                       "backdoor",
                       "mac",
@@ -703,7 +703,7 @@
                     "open_issues": 4,
                     "owner": "mwsrc",
                     "repo": "njRAT",
-                    "stars": 314,
+                    "stars": 315,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -906,7 +906,7 @@
                     "open_issues": 3,
                     "owner": "mehulj94",
                     "repo": "BrainDamage",
-                    "stars": 714,
+                    "stars": 715,
                     "topics": [
                       "python",
                       "remote-admin-tool",
@@ -1838,11 +1838,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-09T01:01:51Z",
-                    "open_issues": 227,
+                    "last_commit": "2026-09-10T02:12:36Z",
+                    "open_issues": 230,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11808,
+                    "stars": 11814,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1879,7 +1879,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3966,
+                    "stars": 3965,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2188,7 +2188,7 @@
                     "open_issues": 2,
                     "owner": "rsmudge",
                     "repo": "Malleable-C2-Profiles",
-                    "stars": 1592,
+                    "stars": 1591,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2513,7 +2513,7 @@
                     "open_issues": 35,
                     "owner": "ReversecLabs",
                     "repo": "C3",
-                    "stars": 1786,
+                    "stars": 1787,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2534,7 +2534,7 @@
                     "open_issues": 2,
                     "owner": "trustedsec",
                     "repo": "trevorc2",
-                    "stars": 1345,
+                    "stars": 1344,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3903,7 +3903,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3665,
+                    "stars": 3667,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4009,7 +4009,7 @@
                     "open_issues": 21,
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1057,
+                    "stars": 1058,
                     "topics": [
                       "backdoor",
                       "botnet",
@@ -4042,7 +4042,7 @@
                     "open_issues": 21,
                     "owner": "Mr-Un1k0d3r",
                     "repo": "ThunderShell",
-                    "stars": 769,
+                    "stars": 770,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4211,7 +4211,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "PlasmaRAT",
-                    "stars": 404,
+                    "stars": 405,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4232,7 +4232,7 @@
                     "open_issues": 3,
                     "owner": "NYAN-x-CAT",
                     "repo": "Mass-RAT",
-                    "stars": 384,
+                    "stars": 385,
                     "topics": [
                       "admin",
                       "android",
@@ -4561,7 +4561,7 @@
                     "open_issues": 0,
                     "owner": "The404Hacking",
                     "repo": "Windows-Python-RAT",
-                    "stars": 117,
+                    "stars": 118,
                     "topics": [
                       "api",
                       "api-token",
@@ -4971,7 +4971,7 @@
                     "open_issues": 2,
                     "owner": "mwsrc",
                     "repo": "BetterRAT",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5102,7 +5102,7 @@
                     "open_issues": 0,
                     "owner": "mwsrc",
                     "repo": "Schwarze-Sonne-RAT",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5591,8 +5591,8 @@
                     "id": 37669494,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T22:45:56Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-09-10T21:13:25Z",
+                    "open_issues": 2,
                     "owner": "eskatos",
                     "repo": "creadur-rat-gradle",
                     "stars": 11,
@@ -5786,7 +5786,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3023,
+                    "stars": 3024,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -5851,7 +5851,7 @@
                     "open_issues": 0,
                     "owner": "NYAN-x-CAT",
                     "repo": "Lime-RAT",
-                    "stars": 1134,
+                    "stars": 1135,
                     "topics": [
                       "administration",
                       "backdoor",
@@ -6185,7 +6185,7 @@
                     "open_issues": 1,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2052,
+                    "stars": 2054,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6286,7 +6286,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5293,
+                    "stars": 5294,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6334,7 +6334,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1704,
+                    "stars": 1705,
                     "topics": [
                       "administrator",
                       "android",
@@ -6368,7 +6368,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1637,
+                    "stars": 1638,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6389,7 +6389,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "BetterAndroRAT",
-                    "stars": 542,
+                    "stars": 543,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6436,7 +6436,7 @@
                     "open_issues": 5,
                     "owner": "ibrahimbalic",
                     "repo": "AndroidRAT",
-                    "stars": 161,
+                    "stars": 162,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6498,7 +6498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:49:23.145Z",
+    "last_updated": "2026-09-10T23:42:49.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6510,7 +6510,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2264,
+      "stars": 2265,
       "topics": [
         "c2",
         "command-and-control",
