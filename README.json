@@ -76,7 +76,7 @@
                     "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4736,
+                    "stars": 4737,
                     "topics": [
                       "c2",
                       "covenant",
@@ -253,7 +253,7 @@
                     "open_issues": 44,
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2418,
+                    "stars": 2419,
                     "topics": [
                       "backdoor",
                       "mac",
@@ -543,7 +543,7 @@
                     "open_issues": 2,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1354,
+                    "stars": 1353,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -863,35 +863,6 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "[330星][8m] [Py] mvrozanti/rat-via-telegram",
-                  "description": "Windows Remote Administration Tool via Telegram",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Windows Remote Administration Tool via Telegram",
-                    "homepage": null,
-                    "id": 88452425,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2019-06-30T20:50:07Z",
-                    "open_issues": 27,
-                    "owner": "mvrozanti",
-                    "repo": "RAT-via-Telegram",
-                    "stars": 716,
-                    "topics": [
-                      "audio-recording",
-                      "keylogger",
-                      "proxy-server",
-                      "rat",
-                      "remote-admin-tool",
-                      "screen-capture",
-                      "telegram-bot"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T05:56:58.174Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "[648星][1y] [Py] mehulj94/braindamage",
                   "description": "使用Telegram做C&C服务器的远控",
                   "children": [],
@@ -912,6 +883,35 @@
                       "remote-admin-tool",
                       "security",
                       "tool"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:56:58.174Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[330星][8m] [Py] mvrozanti/rat-via-telegram",
+                  "description": "Windows Remote Administration Tool via Telegram",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "Windows Remote Administration Tool via Telegram",
+                    "homepage": null,
+                    "id": 88452425,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2019-06-30T20:50:07Z",
+                    "open_issues": 27,
+                    "owner": "mvrozanti",
+                    "repo": "RAT-via-Telegram",
+                    "stars": 715,
+                    "topics": [
+                      "audio-recording",
+                      "keylogger",
+                      "proxy-server",
+                      "rat",
+                      "remote-admin-tool",
+                      "screen-capture",
+                      "telegram-bot"
                     ]
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1838,11 +1838,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-11T23:48:46Z",
-                    "open_issues": 230,
+                    "last_commit": "2026-09-12T19:37:05Z",
+                    "open_issues": 231,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11817,
+                    "stars": 11819,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -3903,7 +3903,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3671,
+                    "stars": 3672,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4149,7 +4149,7 @@
                     "open_issues": 13,
                     "owner": "PushpenderIndia",
                     "repo": "thorse",
-                    "stars": 614,
+                    "stars": 615,
                     "topics": [
                       "hacking-tool",
                       "hacktoberfest",
@@ -4211,7 +4211,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "PlasmaRAT",
-                    "stars": 405,
+                    "stars": 406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5786,7 +5786,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3024,
+                    "stars": 3026,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -6185,7 +6185,7 @@
                     "open_issues": 1,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2054,
+                    "stars": 2055,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6286,7 +6286,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5294,
+                    "stars": 5295,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6313,7 +6313,7 @@
                     "open_issues": 52,
                     "owner": "wszf",
                     "repo": "androrat",
-                    "stars": 2042,
+                    "stars": 2043,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6498,7 +6498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:52:00.378Z",
+    "last_updated": "2026-09-12T23:43:50.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
