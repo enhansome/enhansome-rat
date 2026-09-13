@@ -76,7 +76,7 @@
                     "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4737,
+                    "stars": 4739,
                     "topics": [
                       "c2",
                       "covenant",
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9911,
+                    "stars": 9910,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -300,7 +300,7 @@
                     "open_issues": 21,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5601,
+                    "stars": 5602,
                     "topics": [
                       "agent",
                       "c2",
@@ -543,7 +543,7 @@
                     "open_issues": 2,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1353,
+                    "stars": 1354,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -612,7 +612,7 @@
                     "open_issues": 0,
                     "owner": "iGh0st",
                     "repo": "gh0st3.6_src",
-                    "stars": 169,
+                    "stars": 170,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -967,7 +967,7 @@
                     "open_issues": 0,
                     "owner": "PaulSec",
                     "repo": "twittor",
-                    "stars": 809,
+                    "stars": 810,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1838,11 +1838,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-12T19:37:05Z",
+                    "last_commit": "2026-09-13T00:38:53Z",
                     "open_issues": 231,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11819,
+                    "stars": 11826,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1879,7 +1879,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3965,
+                    "stars": 3966,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2105,7 +2105,7 @@
                     "open_issues": 2,
                     "owner": "Arno0x",
                     "repo": "WSC2",
-                    "stars": 432,
+                    "stars": 433,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2481,7 +2481,7 @@
                     "open_issues": 25,
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2135,
+                    "stars": 2136,
                     "topics": [
                       "c2",
                       "csharp",
@@ -2626,7 +2626,7 @@
                     "id": 186243682,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T00:06:01Z",
+                    "last_commit": "2026-09-13T07:20:38Z",
                     "open_issues": 15,
                     "owner": "p3nt4",
                     "repo": "Nuages",
@@ -2719,7 +2719,7 @@
                     "open_issues": 2,
                     "owner": "TreeHacks",
                     "repo": "botnet-hackpack",
-                    "stars": 405,
+                    "stars": 406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3903,7 +3903,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3672,
+                    "stars": 3673,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4009,7 +4009,7 @@
                     "open_issues": 21,
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1059,
+                    "stars": 1061,
                     "topics": [
                       "backdoor",
                       "botnet",
@@ -5883,7 +5883,7 @@
                     "open_issues": 1,
                     "owner": "RedSiege",
                     "repo": "WMImplant",
-                    "stars": 865,
+                    "stars": 866,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6185,7 +6185,7 @@
                     "open_issues": 1,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2055,
+                    "stars": 2056,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6286,7 +6286,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5295,
+                    "stars": 5296,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6334,7 +6334,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1708,
+                    "stars": 1710,
                     "topics": [
                       "administrator",
                       "android",
@@ -6498,7 +6498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:43:50.300Z",
+    "last_updated": "2026-09-13T23:52:35.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6510,7 +6510,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2266,
+      "stars": 2265,
       "topics": [
         "c2",
         "command-and-control",
