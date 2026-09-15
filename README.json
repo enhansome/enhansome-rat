@@ -1838,11 +1838,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-13T00:38:53Z",
-                    "open_issues": 231,
+                    "last_commit": "2026-09-14T14:34:14Z",
+                    "open_issues": 230,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11826,
+                    "stars": 11831,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1879,7 +1879,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3966,
+                    "stars": 3968,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3903,7 +3903,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3673,
+                    "stars": 3675,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4009,7 +4009,7 @@
                     "open_issues": 21,
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1061,
+                    "stars": 1062,
                     "topics": [
                       "backdoor",
                       "botnet",
@@ -4119,7 +4119,7 @@
                     "open_issues": 35,
                     "owner": "Bitwise-01",
                     "repo": "Loki",
-                    "stars": 627,
+                    "stars": 628,
                     "topics": [
                       "botnet",
                       "cryptography",
@@ -4417,27 +4417,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "[140星][1m] [Py] anhkgg/pyrat",
-                  "description": "基于python XmlRPC完成的远控开源项目，包括客户端和服务端（也叫控制端，后统称服务端）",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "PyRat，a rat by python xmlrpc",
-                    "homepage": null,
-                    "id": 126050960,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2018-03-23T08:26:34Z",
-                    "open_issues": 0,
-                    "owner": "anhkgg",
-                    "repo": "PyRat",
-                    "stars": 161,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T05:56:58.174Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "[22星][16d] [C#] rainkin1993/remote-access-trojan-database",
                   "description": "A database of RAT collected from Internet",
                   "children": [],
@@ -4458,6 +4437,27 @@
                       "remote-access-trojan",
                       "remote-administrator-tool"
                     ]
+                  },
+                  "first_seen": "2026-08-28T05:56:58.174Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[140星][1m] [Py] anhkgg/pyrat",
+                  "description": "基于python XmlRPC完成的远控开源项目，包括客户端和服务端（也叫控制端，后统称服务端）",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "PyRat，a rat by python xmlrpc",
+                    "homepage": null,
+                    "id": 126050960,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2018-03-23T08:26:34Z",
+                    "open_issues": 0,
+                    "owner": "anhkgg",
+                    "repo": "PyRat",
+                    "stars": 160,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
                 },
@@ -6286,7 +6286,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5296,
+                    "stars": 5297,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6334,7 +6334,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1710,
+                    "stars": 1711,
                     "topics": [
                       "administrator",
                       "android",
@@ -6368,7 +6368,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1639,
+                    "stars": 1640,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6498,7 +6498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:52:35.151Z",
+    "last_updated": "2026-09-15T00:16:41.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",

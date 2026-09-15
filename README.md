@@ -1430,8 +1430,8 @@
 
 ### <a id="d70a62f77fa20a2219e81fa61527e644"></a>工具
 
-* \[**832**星]\[6d] \[Go] [bishopfox/sliver](https://github.com/bishopfox/sliver) ⭐ 11,826 | 🐛 231 | 🌐 Go | 📅 2026-09-13 一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS
-* \[**1855**星]\[8m] \[C++] [iagox86/dnscat2](https://github.com/iagox86/dnscat2) ⭐ 3,966 | 🐛 98 | 🌐 PHP | 📅 2024-03-14 在 DNS 协议上创建加密的 C\&C channel
+* \[**832**星]\[6d] \[Go] [bishopfox/sliver](https://github.com/bishopfox/sliver) ⭐ 11,831 | 🐛 230 | 🌐 Go | 📅 2026-09-14 一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS
+* \[**1855**星]\[8m] \[C++] [iagox86/dnscat2](https://github.com/iagox86/dnscat2) ⭐ 3,968 | 🐛 98 | 🌐 PHP | 📅 2024-03-14 在 DNS 协议上创建加密的 C\&C channel
 * \[**276**星]\[4m] \[Go] [sensepost/godoh](https://github.com/sensepost/godoh) ⭐ 808 | 🐛 3 | 🌐 Go | 📅 2023-12-19  A DNS-over-HTTPS Command & Control Proof of Concept
 * \[**277**星]\[1y] \[Py] [trycatchhcf/packetwhisper](https://github.com/trycatchhcf/packetwhisper) ⭐ 656 | 🐛 4 | 🌐 Python | 📅 2021-06-03 Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.
 * \[**386**星]\[4y] \[Py] [ahhh/reverse\_dns\_shell](https://github.com/ahhh/reverse_dns_shell) ⭐ 507 | 🐛 1 | 🌐 Python | 📅 2015-10-10 使用DNS作为c2通道的python反向shell
@@ -1868,15 +1868,15 @@
 
 ### <a id="964a3580a7a7f66571ee1d2c0f34f2d6"></a>新添加
 
-* \[**1473**星]\[3y] \[Py] [nathanlopez/stitch](https://github.com/nathanlopez/stitch) ⭐ 3,673 | 🐛 59 | 🌐 Python | 📅 2024-01-04 一个跨平台的远控框架，可为Windows，Mac OSX和Linux构建自定义的Payload
+* \[**1473**星]\[3y] \[Py] [nathanlopez/stitch](https://github.com/nathanlopez/stitch) ⭐ 3,675 | 🐛 59 | 🌐 Python | 📅 2024-01-04 一个跨平台的远控框架，可为Windows，Mac OSX和Linux构建自定义的Payload
 * \[**764**星]\[7d] \[C] [rdesktop/rdesktop](https://github.com/rdesktop/rdesktop) ⭐ 1,353 | 🐛 132 | 🌐 C | 📅 2026-05-16 rdesktop is an open source UNIX client for connecting to Windows Remote Desktop Services, capably of natively speaking Remote Desktop Protocol (RDP) in order to present the user's Windows desktop. rdesktop is known to work with Windows server version ranging from NT 4 terminal server to Windows 2012 R2.
 * \[**706**星]\[1y] \[PS] [arvanaghi/sessiongopher](https://github.com/Arvanaghi/SessionGopher) ⭐ 1,335 | 🐛 5 | 🌐 PowerShell | 📅 2022-11-22 使用WMI为远程访问工具（如WinSCP，PuTTY，SuperPuTTY，FileZilla和Microsoft远程桌面）提取保存的会话信息。PowerShell编写
 * \[**789**星]\[4m] \[Py] [kevthehermit/ratdecoders](https://github.com/kevthehermit/ratdecoders) ⭐ 1,120 | 🐛 25 | 🌐 Python | 📅 2024-07-16 Python Decoders for Common Remote Access Trojans
-* \[**205**星]\[2y] \[C++] [ahxr/ghost](https://github.com/ahxr/ghost) ⭐ 1,061 | 🐛 21 | 🌐 C++ | 📅 2021-06-03 a light RAT that gives the server/attacker full remote access to the user's command-line interprete
+* \[**205**星]\[2y] \[C++] [ahxr/ghost](https://github.com/ahxr/ghost) ⭐ 1,062 | 🐛 21 | 🌐 C++ | 📅 2021-06-03 a light RAT that gives the server/attacker full remote access to the user's command-line interprete
 * \[**538**星]\[10d] \[JS] [mr-un1k0d3r/thundershell](https://github.com/mr-un1k0d3r/thundershell) ⚠️ Archived 通过HTTP请求进行通信的C＃RAT
 * \[**392**星]\[5m] \[C++] [werkamsus/lilith](https://github.com/werkamsus/lilith) ⭐ 750 | 🐛 5 | 🌐 C++ | 📅 2020-04-01 基于C ++开发的基于控制台的超轻量RAT
 * \[**297**星]\[2y] \[Py] [0xislamtaha/python-rootkit](https://github.com/0xIslamTaha/Python-Rootkit) ⭐ 639 | 🐛 0 | 🌐 Python | 📅 2024-10-29 Python远控，用于获取Meterpreter会话
-* \[**201**星]\[10d] \[Py] [pure-l0g1c/loki](https://github.com/pure-l0g1c/loki) ⭐ 627 | 🐛 35 | 🌐 Python | 📅 2023-05-01 远程访问工具， 使用 RSA-2048 + AES-256 保护通信安全
+* \[**201**星]\[10d] \[Py] [pure-l0g1c/loki](https://github.com/pure-l0g1c/loki) ⭐ 628 | 🐛 35 | 🌐 Python | 📅 2023-05-01 远程访问工具， 使用 RSA-2048 + AES-256 保护通信安全
 * \[**52**星]\[12d] \[Py] [technowlogy-pushpender/technowhorse](https://github.com/technowlogy-pushpender/technowhorse) ⭐ 615 | 🐛 13 | 🌐 Python | 📅 2023-12-02 TechNowHorse is a RAT (Remote Administrator Trojan) Generator for Windows/Linux systems written in Python 3.
 * \[**222**星]\[9d] \[C++] [xdnice/pcshare](https://github.com/xdnice/pcshare) ⭐ 568 | 🐛 0 | 🌐 C++ | 📅 2021-07-24 远程控制软件，可以监视目标机器屏幕、注册表、文件系统等。
 * \[**157**星]\[10d] \[Visual Basic] [mwsrc/plasmarat](https://github.com/mwsrc/PlasmaRAT) ⭐ 406 | 🐛 5 | 🌐 Visual Basic | 📅 2016-12-24 Remote Access Trojan(RAT), Miner, DDoS
@@ -1888,8 +1888,8 @@
 * \[**175**星]\[4y] \[C#] [alphadelta/secure-desktop](https://github.com/alphadelta/secure-desktop) ⭐ 247 | 🐛 4 | 🌐 C# | 📅 2021-09-08 Anti-keylogger/anti-rat application for Windows
 * \[**46**星]\[18d] \[Java] [m301/rdroid](https://github.com/m301/rdroid) ⭐ 247 | 🐛 7 | 🌐 Java | 📅 2018-04-27 \[Android RAT] Remotely manage your android phone using PHP Interface
 * \[**98**星]\[4m] \[JS] [securityrat/securityrat](https://github.com/securityrat/securityrat) ⭐ 191 | 🐛 16 | 🌐 JavaScript | 📅 2025-08-28 OWASP SecurityRAT (version 1.x) - Tool for handling security requirements in development
-* \[**140**星]\[1m] \[Py] [anhkgg/pyrat](https://github.com/anhkgg/pyrat) ⭐ 161 | 🐛 0 | 🌐 Python | 📅 2018-03-23 基于python XmlRPC完成的远控开源项目，包括客户端和服务端（也叫控制端，后统称服务端）
 * \[**22**星]\[16d] \[C#] [rainkin1993/remote-access-trojan-database](https://github.com/rainkin1993/remote-access-trojan-database) ⭐ 161 | 🐛 1 | 🌐 C# | 📅 2020-09-23 A database of RAT collected from Internet
+* \[**140**星]\[1m] \[Py] [anhkgg/pyrat](https://github.com/anhkgg/pyrat) ⭐ 160 | 🐛 0 | 🌐 Python | 📅 2018-03-23 基于python XmlRPC完成的远控开源项目，包括客户端和服务端（也叫控制端，后统称服务端）
 * \[**57**星]\[3y] \[Py] [m4sc3r4n0/spyrat](https://github.com/m4sc3r4n0/spyrat) ⭐ 149 | 🐛 3 | 🌐 Python | 📅 2020-07-28 Python Remote Access Trojan
 * \[**95**星]\[7y] \[C#] [ilikenwf/darkagent](https://github.com/ilikenwf/darkagent) ⭐ 143 | 🐛 1 | 🌐 C# | 📅 2013-04-15 DarkAgent Remote Administration Tool RAT by DragonHunter
 * \[**44**星]\[2y] \[Shell] [taherio/redi](https://github.com/taherio/redi) ⭐ 143 | 🐛 1 | 🌐 Shell | 📅 2017-10-31 Automated script for setting up CobaltStrike redirectors (nginx reverse proxy, letsencrypt)
@@ -1998,8 +1998,8 @@
 
 * \[**1815**星]\[8m] \[Smali] [ahmyth/ahmyth-android-rat](https://github.com/ahmyth/ahmyth-android-rat) ⚠️ Archived Android Remote Administration Tool
 * \[**931**星]\[6y] \[Java] [wszf/androrat](https://github.com/wszf/androrat) ⭐ 2,043 | 🐛 52 | 🌐 Java | 📅 2023-04-12 Remote Administration Tool for Android
-* \[**172**星]\[2y] \[Java] [the404hacking/androrat](https://github.com/the404hacking/androrat) ⭐ 1,710 | 🐛 26 | 🌐 Java | 📅 2024-07-28 AndroRAT | Remote Administrator Tool for Android OS Hacking
-* \[**939**星]\[7y] [designativedave/androrat](https://github.com/designativedave/androrat) ⭐ 1,639 | 🐛 10 | 🌐 Java | 📅 2022-09-26 Remote Administration Tool for Android devices
+* \[**172**星]\[2y] \[Java] [the404hacking/androrat](https://github.com/the404hacking/androrat) ⭐ 1,711 | 🐛 26 | 🌐 Java | 📅 2024-07-28 AndroRAT | Remote Administrator Tool for Android OS Hacking
+* \[**939**星]\[7y] [designativedave/androrat](https://github.com/designativedave/androrat) ⭐ 1,640 | 🐛 10 | 🌐 Java | 📅 2022-09-26 Remote Administration Tool for Android devices
 * \[**138**星]\[3y] \[Java] [mwsrc/betterandrorat](https://github.com/mwsrc/betterandrorat) ⭐ 545 | 🐛 5 | 🌐 Java | 📅 2016-12-24 Android Remote Access Trojan
 * \[**64**星]\[16d] \[Java] [globalpolicy/phonemonitor](https://github.com/globalpolicy/phonemonitor) ⭐ 266 | 🐛 11 | 🌐 Java | 📅 2023-01-29 A Remote Administration Tool for Android devices
 * \[**66**星]\[7y] \[Java] [ibrahimbalic/androidrat](https://github.com/ibrahimbalic/androidrat) ⭐ 162 | 🐛 5 | 🌐 Java | 📅 2013-08-09 Android RAT
@@ -2016,4 +2016,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
