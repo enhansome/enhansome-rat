@@ -23,7 +23,7 @@
                     "open_issues": 177,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 9000,
+                    "stars": 9001,
                     "topics": [
                       "android",
                       "backdoor",
@@ -76,7 +76,7 @@
                     "open_issues": 90,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4738,
+                    "stars": 4737,
                     "topics": [
                       "c2",
                       "covenant",
@@ -543,7 +543,7 @@
                     "open_issues": 2,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1356,
+                    "stars": 1361,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -1867,7 +1867,7 @@
                     "open_issues": 227,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11867,
+                    "stars": 11874,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -4034,7 +4034,7 @@
                     "open_issues": 21,
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1066,
+                    "stars": 1067,
                     "topics": [
                       "backdoor",
                       "botnet",
@@ -4649,7 +4649,7 @@
                     "open_issues": 3,
                     "owner": "Lithium876",
                     "repo": "ConTroll_Remote_Access_Trojan",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": [
                       "malware",
                       "malware-development",
@@ -5811,7 +5811,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3026,
+                    "stars": 3028,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -5929,7 +5929,7 @@
                     "open_issues": 4,
                     "owner": "malwares",
                     "repo": "Remote-Access-Trojan",
-                    "stars": 752,
+                    "stars": 753,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6210,7 +6210,7 @@
                     "open_issues": 1,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2064,
+                    "stars": 2066,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6311,7 +6311,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5300,
+                    "stars": 5301,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6435,7 +6435,7 @@
                     "open_issues": 11,
                     "owner": "globalpolicy",
                     "repo": "PhoneMonitor",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": [
                       "android",
                       "monitoring",
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:35:22.197Z",
+    "last_updated": "2026-09-22T23:59:09.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
