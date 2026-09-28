@@ -369,7 +369,7 @@
                     "open_issues": 3,
                     "owner": "vah13",
                     "repo": "extractTVpasswords",
-                    "stars": 463,
+                    "stars": 464,
                     "topics": [
                       "cplusplus",
                       "frida",
@@ -543,7 +543,7 @@
                     "open_issues": 2,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1365,
+                    "stars": 1366,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -1864,10 +1864,10 @@
                     "language": "Go",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-26T18:19:43Z",
-                    "open_issues": 226,
+                    "open_issues": 227,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11899,
+                    "stars": 11902,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -2054,7 +2054,7 @@
                     "id": 106653507,
                     "language": "Erlang",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-23T21:19:09Z",
+                    "last_commit": "2026-09-27T23:06:36Z",
                     "open_issues": 2,
                     "owner": "Homas",
                     "repo": "ioc2rpz",
@@ -2280,7 +2280,7 @@
                     "open_issues": 2,
                     "owner": "QAX-A-Team",
                     "repo": "CobaltStrike-Toolset",
-                    "stars": 594,
+                    "stars": 595,
                     "topics": [
                       "a-team",
                       "aggressor-scripts",
@@ -2559,7 +2559,7 @@
                     "open_issues": 2,
                     "owner": "trustedsec",
                     "repo": "trevorc2",
-                    "stars": 1347,
+                    "stars": 1346,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2651,8 +2651,8 @@
                     "id": 186243682,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-25T22:58:08Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-09-27T23:48:54Z",
+                    "open_issues": 2,
                     "owner": "p3nt4",
                     "repo": "Nuages",
                     "stars": 545,
@@ -4034,7 +4034,7 @@
                     "open_issues": 21,
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1067,
+                    "stars": 1068,
                     "topics": [
                       "backdoor",
                       "botnet",
@@ -4144,7 +4144,7 @@
                     "open_issues": 35,
                     "owner": "Bitwise-01",
                     "repo": "Loki",
-                    "stars": 627,
+                    "stars": 628,
                     "topics": [
                       "botnet",
                       "cryptography",
@@ -5876,7 +5876,7 @@
                     "open_issues": 0,
                     "owner": "NYAN-x-CAT",
                     "repo": "Lime-RAT",
-                    "stars": 1136,
+                    "stars": 1137,
                     "topics": [
                       "administration",
                       "backdoor",
@@ -6311,7 +6311,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5305,
+                    "stars": 5306,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6338,7 +6338,7 @@
                     "open_issues": 52,
                     "owner": "wszf",
                     "repo": "androrat",
-                    "stars": 2047,
+                    "stars": 2048,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6393,7 +6393,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1649,
+                    "stars": 1651,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6414,7 +6414,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "BetterAndroRAT",
-                    "stars": 545,
+                    "stars": 546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:13:31.061Z",
+    "last_updated": "2026-09-28T00:17:26.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6535,7 +6535,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2267,
+      "stars": 2268,
       "topics": [
         "c2",
         "command-and-control",
