@@ -23,7 +23,7 @@
                     "open_issues": 177,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 9001,
+                    "stars": 9000,
                     "topics": [
                       "android",
                       "backdoor",
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9905,
+                    "stars": 9904,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -253,7 +253,7 @@
                     "open_issues": 44,
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2418,
+                    "stars": 2419,
                     "topics": [
                       "backdoor",
                       "mac",
@@ -543,7 +543,7 @@
                     "open_issues": 2,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1366,
+                    "stars": 1367,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -1136,7 +1136,7 @@
                     "open_issues": 0,
                     "owner": "0x09AL",
                     "repo": "DropboxC2C",
-                    "stars": 153,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1660,7 +1660,7 @@
                         "open_issues": 35,
                         "owner": "360netlab",
                         "repo": "DGA",
-                        "stars": 189,
+                        "stars": 190,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1864,10 +1864,10 @@
                     "language": "Go",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-26T18:19:43Z",
-                    "open_issues": 227,
+                    "open_issues": 228,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11933,
+                    "stars": 11940,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1925,7 +1925,7 @@
                     "open_issues": 3,
                     "owner": "sensepost",
                     "repo": "godoh",
-                    "stars": 808,
+                    "stars": 807,
                     "topics": [
                       "c2",
                       "command-and-control",
@@ -2008,7 +2008,7 @@
                     "open_issues": 5,
                     "owner": "lukebaggett",
                     "repo": "dnscat2-powershell",
-                    "stars": 437,
+                    "stars": 436,
                     "topics": [
                       "penetration-testing",
                       "powershell",
@@ -2213,7 +2213,7 @@
                     "open_issues": 2,
                     "owner": "rsmudge",
                     "repo": "Malleable-C2-Profiles",
-                    "stars": 1588,
+                    "stars": 1587,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2655,7 +2655,7 @@
                     "open_issues": 1,
                     "owner": "p3nt4",
                     "repo": "Nuages",
-                    "stars": 546,
+                    "stars": 548,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2702,7 +2702,7 @@
                     "open_issues": 2,
                     "owner": "SpiderLabs",
                     "repo": "DoHC2",
-                    "stars": 450,
+                    "stars": 449,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3928,7 +3928,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3686,
+                    "stars": 3687,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -3985,7 +3985,7 @@
                     "open_issues": 5,
                     "owner": "Arvanaghi",
                     "repo": "SessionGopher",
-                    "stars": 1331,
+                    "stars": 1332,
                     "topics": [
                       "artifacts",
                       "pentesting",
@@ -4034,7 +4034,7 @@
                     "open_issues": 21,
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1068,
+                    "stars": 1069,
                     "topics": [
                       "backdoor",
                       "botnet",
@@ -4067,7 +4067,7 @@
                     "open_issues": 21,
                     "owner": "Mr-Un1k0d3r",
                     "repo": "ThunderShell",
-                    "stars": 768,
+                    "stars": 767,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4088,7 +4088,7 @@
                     "open_issues": 5,
                     "owner": "werkamsus",
                     "repo": "Lilith",
-                    "stars": 747,
+                    "stars": 748,
                     "topics": [
                       "administration",
                       "cplusplus",
@@ -4308,7 +4308,7 @@
                     "open_issues": 7,
                     "owner": "hussein-aitlahcen",
                     "repo": "BlackHole",
-                    "stars": 303,
+                    "stars": 302,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5572,6 +5572,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "[3星][1m] [Kotlin] eskatos/creadur-rat-gradle",
+                  "description": "Apache RAT (Release Audit Tool) Gradle Plugin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Apache RAT (Release Audit Tool) Gradle Plugin",
+                    "homepage": null,
+                    "id": 37669494,
+                    "language": "Java",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-11T09:58:31Z",
+                    "open_issues": 3,
+                    "owner": "eskatos",
+                    "repo": "creadur-rat-gradle",
+                    "stars": 12,
+                    "topics": [
+                      "apache",
+                      "gradle",
+                      "gradle-plugin",
+                      "rat",
+                      "release-audit"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:56:58.174Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "[4星][3m] [C++] melardev/xeytanwxcpp-rat",
                   "description": "Work in Progress. RAT written in C++ using wxWidgets",
                   "children": [],
@@ -5600,33 +5627,6 @@
                       "trojan",
                       "wx",
                       "wxwidgets"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T05:56:58.174Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "[3星][1m] [Kotlin] eskatos/creadur-rat-gradle",
-                  "description": "Apache RAT (Release Audit Tool) Gradle Plugin",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Apache RAT (Release Audit Tool) Gradle Plugin",
-                    "homepage": null,
-                    "id": 37669494,
-                    "language": "Java",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-09-11T09:58:31Z",
-                    "open_issues": 3,
-                    "owner": "eskatos",
-                    "repo": "creadur-rat-gradle",
-                    "stars": 11,
-                    "topics": [
-                      "apache",
-                      "gradle",
-                      "gradle-plugin",
-                      "rat",
-                      "release-audit"
                     ]
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6210,7 +6210,7 @@
                     "open_issues": 1,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2067,
+                    "stars": 2068,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6311,7 +6311,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5309,
+                    "stars": 5308,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6393,7 +6393,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1652,
+                    "stars": 1653,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:03:28.803Z",
+    "last_updated": "2026-10-01T01:03:25.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
