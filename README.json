@@ -76,7 +76,7 @@
                     "open_issues": 90,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4737,
+                    "stars": 4738,
                     "topics": [
                       "c2",
                       "covenant",
@@ -300,7 +300,7 @@
                     "open_issues": 20,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5607,
+                    "stars": 5608,
                     "topics": [
                       "agent",
                       "c2",
@@ -599,7 +599,7 @@
                 {
                   "node_type": "item",
                   "title": "[91星][6y] [C++] igh0st/gh0st3.6_src",
-                  "description": null,
+                  "description": "iGh0st/gh0st3.6_src",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1814,7 +1814,7 @@
                     {
                       "node_type": "item",
                       "title": "[4星][3m] [PHP] navytitanium/eitest-tools-scripts-iocs",
-                      "description": null,
+                      "description": "NavyTitanium/EITest-tools-scripts-IOCs",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1863,11 +1863,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-03T00:53:01Z",
-                    "open_issues": 227,
+                    "last_commit": "2026-10-03T01:00:45Z",
+                    "open_issues": 230,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11952,
+                    "stars": 11954,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -2474,7 +2474,7 @@
                     "open_issues": 48,
                     "owner": "byt3bl33d3r",
                     "repo": "SILENTTRINITY",
-                    "stars": 2344,
+                    "stars": 2345,
                     "topics": [
                       "boolang",
                       "c-sharp",
@@ -2506,7 +2506,7 @@
                     "open_issues": 25,
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2137,
+                    "stars": 2138,
                     "topics": [
                       "c2",
                       "csharp",
@@ -2559,7 +2559,7 @@
                     "open_issues": 2,
                     "owner": "trustedsec",
                     "repo": "trevorc2",
-                    "stars": 1346,
+                    "stars": 1347,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2580,7 +2580,7 @@
                     "open_issues": 12,
                     "owner": "mhaskar",
                     "repo": "Octopus",
-                    "stars": 768,
+                    "stars": 769,
                     "topics": [
                       "c2",
                       "pentesting",
@@ -3162,7 +3162,7 @@
                 {
                   "node_type": "item",
                   "title": "[30星][6y] [PS] enigma0x3/powershell-c2",
-                  "description": null,
+                  "description": "enigma0x3/Powershell-C2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3874,7 +3874,7 @@
                 {
                   "node_type": "item",
                   "title": "[0星][2y] boaxboax/ctf-quaorar",
-                  "description": null,
+                  "description": "boaxboax/ctf-Quaorar",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4174,7 +4174,7 @@
                     "open_issues": 13,
                     "owner": "PushpenderIndia",
                     "repo": "thorse",
-                    "stars": 614,
+                    "stars": 613,
                     "topics": [
                       "hacking-tool",
                       "hacktoberfest",
@@ -4215,7 +4215,7 @@
                     "open_issues": 0,
                     "owner": "xdnice",
                     "repo": "PCShare",
-                    "stars": 568,
+                    "stars": 569,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4329,7 +4329,7 @@
                     "open_issues": 1,
                     "owner": "TheM4hd1",
                     "repo": "Vayne-RaT",
-                    "stars": 270,
+                    "stars": 271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5286,7 +5286,7 @@
                 {
                   "node_type": "item",
                   "title": "[14星][2y] [Py] mitre/caldera-agent",
-                  "description": null,
+                  "description": "mitre/caldera-agent",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5465,7 +5465,7 @@
                 {
                   "node_type": "item",
                   "title": "[7星][6m] [Py] e-rror/hiroo",
-                  "description": null,
+                  "description": "cinaaaa/HIROO",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5521,7 +5521,7 @@
                 {
                   "node_type": "item",
                   "title": "[10星][12m] [Py] user696/mrrat",
-                  "description": null,
+                  "description": "user696/MrRAT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5661,7 +5661,7 @@
                 {
                   "node_type": "item",
                   "title": "[7星][2y] [C#] mitre/caldera-crater",
-                  "description": null,
+                  "description": "mitre/caldera-crater",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:55:11.546Z",
+    "last_updated": "2026-10-03T05:06:21.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6535,7 +6535,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2268,
+      "stars": 2269,
       "topics": [
         "c2",
         "command-and-control",
