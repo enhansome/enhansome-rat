@@ -23,7 +23,7 @@
                     "open_issues": 177,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 8999,
+                    "stars": 9000,
                     "topics": [
                       "android",
                       "backdoor",
@@ -300,7 +300,7 @@
                     "open_issues": 20,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5608,
+                    "stars": 5609,
                     "topics": [
                       "agent",
                       "c2",
@@ -1863,11 +1863,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-03T01:00:45Z",
-                    "open_issues": 230,
+                    "last_commit": "2026-10-03T20:45:51Z",
+                    "open_issues": 227,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11954,
+                    "stars": 11956,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1904,7 +1904,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3971,
+                    "stars": 3972,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2474,7 +2474,7 @@
                     "open_issues": 48,
                     "owner": "byt3bl33d3r",
                     "repo": "SILENTTRINITY",
-                    "stars": 2345,
+                    "stars": 2346,
                     "topics": [
                       "boolang",
                       "c-sharp",
@@ -3928,7 +3928,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3686,
+                    "stars": 3688,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -3985,7 +3985,7 @@
                     "open_issues": 5,
                     "owner": "Arvanaghi",
                     "repo": "SessionGopher",
-                    "stars": 1333,
+                    "stars": 1334,
                     "topics": [
                       "artifacts",
                       "pentesting",
@@ -4034,7 +4034,7 @@
                     "open_issues": 21,
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1069,
+                    "stars": 1070,
                     "topics": [
                       "backdoor",
                       "botnet",
@@ -6311,7 +6311,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5310,
+                    "stars": 5311,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6393,7 +6393,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1650,
+                    "stars": 1651,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6414,7 +6414,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "BetterAndroRAT",
-                    "stars": 545,
+                    "stars": 546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6461,7 +6461,7 @@
                     "open_issues": 5,
                     "owner": "ibrahimbalic",
                     "repo": "AndroidRAT",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:21.544Z",
+    "last_updated": "2026-10-04T00:21:08.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
