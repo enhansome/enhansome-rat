@@ -76,7 +76,7 @@
                     "open_issues": 90,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4742,
+                    "stars": 4741,
                     "topics": [
                       "c2",
                       "covenant",
@@ -124,7 +124,7 @@
                     "open_issues": 1,
                     "owner": "cobbr",
                     "repo": "C2Bridge",
-                    "stars": 70,
+                    "stars": 71,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9902,
+                    "stars": 9901,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -253,7 +253,7 @@
                     "open_issues": 44,
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2422,
+                    "stars": 2421,
                     "topics": [
                       "backdoor",
                       "mac",
@@ -1867,7 +1867,7 @@
                     "open_issues": 223,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11974,
+                    "stars": 11981,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -3928,7 +3928,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3690,
+                    "stars": 3691,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4329,7 +4329,7 @@
                     "open_issues": 1,
                     "owner": "TheM4hd1",
                     "repo": "Vayne-RaT",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4371,7 +4371,7 @@
                     "open_issues": 7,
                     "owner": "huntoai",
                     "repo": "rdroid",
-                    "stars": 249,
+                    "stars": 250,
                     "topics": [
                       "android",
                       "b4a",
@@ -4399,7 +4399,7 @@
                     "open_issues": 4,
                     "owner": "AlphaDelta",
                     "repo": "Secure-Desktop",
-                    "stars": 247,
+                    "stars": 248,
                     "topics": [
                       "c-sharp",
                       "csharp",
@@ -6311,7 +6311,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5313,
+                    "stars": 5312,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6338,7 +6338,7 @@
                     "open_issues": 52,
                     "owner": "wszf",
                     "repo": "androrat",
-                    "stars": 2049,
+                    "stars": 2051,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6359,7 +6359,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1733,
+                    "stars": 1735,
                     "topics": [
                       "administrator",
                       "android",
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:25:12.671Z",
+    "last_updated": "2026-10-07T01:12:31.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
