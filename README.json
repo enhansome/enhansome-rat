@@ -23,7 +23,7 @@
                     "open_issues": 177,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 9000,
+                    "stars": 8999,
                     "topics": [
                       "android",
                       "backdoor",
@@ -73,7 +73,7 @@
                     "language": "C#",
                     "license": "GPL-3.0",
                     "last_commit": "2024-07-18T17:25:35Z",
-                    "open_issues": 90,
+                    "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
                     "stars": 4741,
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9903,
+                    "stars": 9902,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -348,7 +348,7 @@
                     "open_issues": 1,
                     "owner": "uknowsec",
                     "repo": "SharpDecryptPwd",
-                    "stars": 1272,
+                    "stars": 1271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -543,7 +543,7 @@
                     "open_issues": 2,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1373,
+                    "stars": 1377,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -1863,11 +1863,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-06T00:50:57Z",
-                    "open_issues": 223,
+                    "last_commit": "2026-10-08T16:07:48Z",
+                    "open_issues": 224,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 11991,
+                    "stars": 11996,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1904,7 +1904,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3977,
+                    "stars": 3978,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1925,7 +1925,7 @@
                     "open_issues": 3,
                     "owner": "sensepost",
                     "repo": "godoh",
-                    "stars": 807,
+                    "stars": 806,
                     "topics": [
                       "c2",
                       "command-and-control",
@@ -2702,7 +2702,7 @@
                     "open_issues": 2,
                     "owner": "SpiderLabs",
                     "repo": "DoHC2",
-                    "stars": 449,
+                    "stars": 448,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4034,7 +4034,7 @@
                     "open_issues": 22,
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1071,
+                    "stars": 1073,
                     "topics": [
                       "backdoor",
                       "botnet",
@@ -4236,7 +4236,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "PlasmaRAT",
-                    "stars": 406,
+                    "stars": 407,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4257,7 +4257,7 @@
                     "open_issues": 3,
                     "owner": "NYAN-x-CAT",
                     "repo": "Mass-RAT",
-                    "stars": 385,
+                    "stars": 386,
                     "topics": [
                       "admin",
                       "android",
@@ -4442,6 +4442,31 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "[22星][16d] [C#] rainkin1993/remote-access-trojan-database",
+                  "description": "A database of RAT collected from Internet",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A database of RAT collected from Internet",
+                    "homepage": null,
+                    "id": 160879597,
+                    "language": "C#",
+                    "license": null,
+                    "last_commit": "2020-09-23T11:32:29Z",
+                    "open_issues": 1,
+                    "owner": "rainkin1993",
+                    "repo": "Remote-Access-Trojan-Database",
+                    "stars": 161,
+                    "topics": [
+                      "rat",
+                      "remote-access-trojan",
+                      "remote-administrator-tool"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:56:58.174Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "[140星][1m] [Py] anhkgg/pyrat",
                   "description": "基于python XmlRPC完成的远控开源项目，包括客户端和服务端（也叫控制端，后统称服务端）",
                   "children": [],
@@ -4458,31 +4483,6 @@
                     "repo": "PyRat",
                     "stars": 160,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T05:56:58.174Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "[22星][16d] [C#] rainkin1993/remote-access-trojan-database",
-                  "description": "A database of RAT collected from Internet",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A database of RAT collected from Internet",
-                    "homepage": null,
-                    "id": 160879597,
-                    "language": "C#",
-                    "license": null,
-                    "last_commit": "2020-09-23T11:32:29Z",
-                    "open_issues": 1,
-                    "owner": "rainkin1993",
-                    "repo": "Remote-Access-Trojan-Database",
-                    "stars": 160,
-                    "topics": [
-                      "rat",
-                      "remote-access-trojan",
-                      "remote-administrator-tool"
-                    ]
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
                 },
@@ -5811,7 +5811,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3036,
+                    "stars": 3041,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -5842,7 +5842,7 @@
                     "open_issues": 8,
                     "owner": "Viralmaniar",
                     "repo": "Powershell-RAT",
-                    "stars": 1218,
+                    "stars": 1219,
                     "topics": [
                       "backdoor",
                       "fud",
@@ -5929,7 +5929,7 @@
                     "open_issues": 4,
                     "owner": "malwares",
                     "repo": "Remote-Access-Trojan",
-                    "stars": 750,
+                    "stars": 751,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6206,11 +6206,11 @@
                     "id": 138925737,
                     "language": "Objective-C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T13:20:43Z",
+                    "last_commit": "2026-10-08T08:24:51Z",
                     "open_issues": 1,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2072,
+                    "stars": 2076,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6359,7 +6359,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1736,
+                    "stars": 1737,
                     "topics": [
                       "administrator",
                       "android",
@@ -6393,7 +6393,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1654,
+                    "stars": 1656,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:33:04.608Z",
+    "last_updated": "2026-10-09T01:44:22.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
