@@ -23,7 +23,7 @@
                     "open_issues": 177,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 9000,
+                    "stars": 9004,
                     "topics": [
                       "android",
                       "backdoor",
@@ -76,7 +76,7 @@
                     "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4742,
+                    "stars": 4743,
                     "topics": [
                       "c2",
                       "covenant",
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9904,
+                    "stars": 9906,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -253,7 +253,7 @@
                     "open_issues": 44,
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2420,
+                    "stars": 2421,
                     "topics": [
                       "backdoor",
                       "mac",
@@ -300,7 +300,7 @@
                     "open_issues": 21,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5611,
+                    "stars": 5614,
                     "topics": [
                       "agent",
                       "c2",
@@ -348,7 +348,7 @@
                     "open_issues": 1,
                     "owner": "uknowsec",
                     "repo": "SharpDecryptPwd",
-                    "stars": 1271,
+                    "stars": 1272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -543,7 +543,7 @@
                     "open_issues": 2,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1377,
+                    "stars": 1378,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -967,7 +967,7 @@
                     "open_issues": 0,
                     "owner": "PaulSec",
                     "repo": "twittor",
-                    "stars": 811,
+                    "stars": 812,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1171,7 +1171,7 @@
                     "open_issues": 1,
                     "owner": "xpn",
                     "repo": "BlockchainC2",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1227,7 +1227,7 @@
                     "open_issues": 0,
                     "owner": "mthbernardes",
                     "repo": "GTRS",
-                    "stars": 622,
+                    "stars": 623,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1248,7 +1248,7 @@
                     "open_issues": 2,
                     "owner": "nccgroup",
                     "repo": "gitpwnd",
-                    "stars": 147,
+                    "stars": 145,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1864,10 +1864,10 @@
                     "language": "Go",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-12T19:48:40Z",
-                    "open_issues": 229,
+                    "open_issues": 231,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 12100,
+                    "stars": 12113,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1904,7 +1904,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3980,
+                    "stars": 3977,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1925,7 +1925,7 @@
                     "open_issues": 3,
                     "owner": "sensepost",
                     "repo": "godoh",
-                    "stars": 805,
+                    "stars": 806,
                     "topics": [
                       "c2",
                       "command-and-control",
@@ -2192,7 +2192,7 @@
                     "open_issues": 4,
                     "owner": "threatexpress",
                     "repo": "malleable-c2",
-                    "stars": 1765,
+                    "stars": 1766,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2213,7 +2213,7 @@
                     "open_issues": 2,
                     "owner": "rsmudge",
                     "repo": "Malleable-C2-Profiles",
-                    "stars": 1589,
+                    "stars": 1590,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2234,7 +2234,7 @@
                     "open_issues": 0,
                     "owner": "xx0hcd",
                     "repo": "Malleable-C2-Profiles",
-                    "stars": 893,
+                    "stars": 894,
                     "topics": [
                       "cobalt-strike",
                       "malleable-c2",
@@ -2280,7 +2280,7 @@
                     "open_issues": 2,
                     "owner": "QAX-A-Team",
                     "repo": "CobaltStrike-Toolset",
-                    "stars": 596,
+                    "stars": 597,
                     "topics": [
                       "a-team",
                       "aggressor-scripts",
@@ -2351,7 +2351,7 @@
                     "open_issues": 12,
                     "owner": "Und3rf10w",
                     "repo": "external_c2_framework",
-                    "stars": 238,
+                    "stars": 239,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2393,7 +2393,7 @@
                     "open_issues": 0,
                     "owner": "outflanknl",
                     "repo": "external_c2",
-                    "stars": 141,
+                    "stars": 142,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2464,7 +2464,7 @@
                   "description": "An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR",
                     "homepage": null,
                     "id": 150286546,
@@ -2474,7 +2474,7 @@
                     "open_issues": 48,
                     "owner": "byt3bl33d3r",
                     "repo": "SILENTTRINITY",
-                    "stars": 2347,
+                    "stars": 2348,
                     "topics": [
                       "boolang",
                       "c-sharp",
@@ -2506,7 +2506,7 @@
                     "open_issues": 25,
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2137,
+                    "stars": 2138,
                     "topics": [
                       "c2",
                       "csharp",
@@ -2538,7 +2538,7 @@
                     "open_issues": 35,
                     "owner": "ReversecLabs",
                     "repo": "C3",
-                    "stars": 1788,
+                    "stars": 1790,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2559,7 +2559,7 @@
                     "open_issues": 2,
                     "owner": "trustedsec",
                     "repo": "trevorc2",
-                    "stars": 1348,
+                    "stars": 1349,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2655,7 +2655,7 @@
                     "open_issues": 2,
                     "owner": "p3nt4",
                     "repo": "Nuages",
-                    "stars": 549,
+                    "stars": 550,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3928,7 +3928,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3693,
+                    "stars": 3696,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4067,7 +4067,7 @@
                     "open_issues": 21,
                     "owner": "Mr-Un1k0d3r",
                     "repo": "ThunderShell",
-                    "stars": 767,
+                    "stars": 768,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4215,7 +4215,7 @@
                     "open_issues": 0,
                     "owner": "xdnice",
                     "repo": "PCShare",
-                    "stars": 570,
+                    "stars": 572,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4287,7 +4287,7 @@
                     "open_issues": 2,
                     "owner": "b4rtik",
                     "repo": "RedPeanut",
-                    "stars": 329,
+                    "stars": 330,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5053,6 +5053,37 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "[18星][3y] [Py] landonpowell/orwell-rat-and-botnet",
+                  "description": "Orwell is a RAT and Botnet designed as a trio of programs by Landon Powell.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Orwell is a RAT and Botnet designed as a trio of programs.",
+                    "homepage": "https://seafour.club/#Not_related_to_Orwell_but_still_a_lot_of_fun",
+                    "id": 60602866,
+                    "language": "Python",
+                    "license": "CC0-1.0",
+                    "last_commit": "2017-05-22T20:44:39Z",
+                    "open_issues": 0,
+                    "owner": "correcthorsebatterystaple-sudo",
+                    "repo": "Orwell-RAT-and-Botnet",
+                    "stars": 32,
+                    "topics": [
+                      "botnet",
+                      "hack",
+                      "infosec",
+                      "orwell",
+                      "rat",
+                      "remote-access",
+                      "remote-admin-tool",
+                      "security",
+                      "trio"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:56:58.174Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "[7星][1y] [JS] roccomuso/netrat",
                   "description": "Damn easy multiplatform Node.js RAT generator.",
                   "children": [],
@@ -5076,37 +5107,6 @@
                       "js",
                       "nodejs",
                       "rat"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T05:56:58.174Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "[18星][3y] [Py] landonpowell/orwell-rat-and-botnet",
-                  "description": "Orwell is a RAT and Botnet designed as a trio of programs by Landon Powell.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Orwell is a RAT and Botnet designed as a trio of programs.",
-                    "homepage": "https://seafour.club/#Not_related_to_Orwell_but_still_a_lot_of_fun",
-                    "id": 60602866,
-                    "language": "Python",
-                    "license": "CC0-1.0",
-                    "last_commit": "2017-05-22T20:44:39Z",
-                    "open_issues": 0,
-                    "owner": "correcthorsebatterystaple-sudo",
-                    "repo": "Orwell-RAT-and-Botnet",
-                    "stars": 31,
-                    "topics": [
-                      "botnet",
-                      "hack",
-                      "infosec",
-                      "orwell",
-                      "rat",
-                      "remote-access",
-                      "remote-admin-tool",
-                      "security",
-                      "trio"
                     ]
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5583,7 +5583,7 @@
                     "language": "Java",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-11T09:58:31Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "eskatos",
                     "repo": "creadur-rat-gradle",
                     "stars": 12,
@@ -5908,7 +5908,7 @@
                     "open_issues": 1,
                     "owner": "RedSiege",
                     "repo": "WMImplant",
-                    "stars": 866,
+                    "stars": 867,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6210,7 +6210,7 @@
                     "open_issues": 1,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2082,
+                    "stars": 2084,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6311,7 +6311,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5320,
+                    "stars": 5323,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6359,7 +6359,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1739,
+                    "stars": 1740,
                     "topics": [
                       "administrator",
                       "android",
@@ -6414,7 +6414,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "BetterAndroRAT",
-                    "stars": 547,
+                    "stars": 548,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:50:04.549Z",
+    "last_updated": "2026-10-14T00:51:06.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6535,7 +6535,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2273,
+      "stars": 2276,
       "topics": [
         "c2",
         "command-and-control",
