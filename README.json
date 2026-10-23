@@ -76,7 +76,7 @@
                     "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4746,
+                    "stars": 4745,
                     "topics": [
                       "c2",
                       "covenant",
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9905,
+                    "stars": 9904,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -253,7 +253,7 @@
                     "open_issues": 44,
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2425,
+                    "stars": 2424,
                     "topics": [
                       "backdoor",
                       "mac",
@@ -300,7 +300,7 @@
                     "open_issues": 21,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5620,
+                    "stars": 5619,
                     "topics": [
                       "agent",
                       "c2",
@@ -543,7 +543,7 @@
                     "open_issues": 3,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1385,
+                    "stars": 1388,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -1863,11 +1863,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-21T22:30:22Z",
-                    "open_issues": 232,
+                    "last_commit": "2026-10-22T23:08:40Z",
+                    "open_issues": 241,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 12154,
+                    "stars": 12162,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1904,7 +1904,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3981,
+                    "stars": 3982,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2280,7 +2280,7 @@
                     "open_issues": 2,
                     "owner": "QAX-A-Team",
                     "repo": "CobaltStrike-Toolset",
-                    "stars": 597,
+                    "stars": 596,
                     "topics": [
                       "a-team",
                       "aggressor-scripts",
@@ -2393,7 +2393,7 @@
                     "open_issues": 0,
                     "owner": "outflanknl",
                     "repo": "external_c2",
-                    "stars": 142,
+                    "stars": 141,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2744,7 +2744,7 @@
                     "open_issues": 2,
                     "owner": "TreeHacks",
                     "repo": "botnet-hackpack",
-                    "stars": 407,
+                    "stars": 408,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3455,27 +3455,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "[18星][5y] [PS] et0x/c2",
-                  "description": "Methods of C2",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Methods of C2",
-                    "homepage": "http://www.rwnin.net",
-                    "id": 34495198,
-                    "language": "PowerShell",
-                    "license": null,
-                    "last_commit": "2015-07-15T16:12:16Z",
-                    "open_issues": 2,
-                    "owner": "et0x",
-                    "repo": "C2",
-                    "stars": 21,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T05:56:58.174Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "[17星][4m] stvemillertime/absolutely-positively-not-hacking-back-with-pcap",
                   "description": "Streaming Unexpected Network Byte Sequences with High Probability of Blue Screening or Otherwise Crashing Attacker Command-and-Control Nodes",
                   "children": [],
@@ -3490,6 +3469,27 @@
                     "open_issues": 0,
                     "owner": "stvemillertime",
                     "repo": "Absolutely-Positively-NOT-Hacking-Back-with-Pcap",
+                    "stars": 22,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:56:58.174Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[18星][5y] [PS] et0x/c2",
+                  "description": "Methods of C2",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Methods of C2",
+                    "homepage": "http://www.rwnin.net",
+                    "id": 34495198,
+                    "language": "PowerShell",
+                    "license": null,
+                    "last_commit": "2015-07-15T16:12:16Z",
+                    "open_issues": 2,
+                    "owner": "et0x",
+                    "repo": "C2",
                     "stars": 21,
                     "topics": []
                   },
@@ -3928,7 +3928,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3702,
+                    "stars": 3703,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4034,7 +4034,7 @@
                     "open_issues": 22,
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1076,
+                    "stars": 1075,
                     "topics": [
                       "backdoor",
                       "botnet",
@@ -4371,7 +4371,7 @@
                     "open_issues": 7,
                     "owner": "huntoai",
                     "repo": "rdroid",
-                    "stars": 251,
+                    "stars": 253,
                     "topics": [
                       "android",
                       "b4a",
@@ -4800,7 +4800,7 @@
                     "open_issues": 1,
                     "owner": "Sh1n0g1",
                     "repo": "ShinoBOT",
-                    "stars": 84,
+                    "stars": 83,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5357,33 +5357,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "[7星][2y] [C#] advancedhacker101/android-c-sharp-rat-server",
-                  "description": "This is a plugin for the c# R.A.T server providing extension to android based phone systems",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "This is a plugin for the c# R.A.T server providing extension to android based phone systems",
-                    "homepage": null,
-                    "id": 99407238,
-                    "language": "C#",
-                    "license": "NOASSERTION",
-                    "last_commit": "2018-03-02T07:32:09Z",
-                    "open_issues": 2,
-                    "owner": "AdvancedHacker101",
-                    "repo": "android-c-sharp-rat-server",
-                    "stars": 20,
-                    "topics": [
-                      "android",
-                      "c-sharp",
-                      "rat",
-                      "server",
-                      "windows-7"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T05:56:58.174Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "[5星][17d] [C++] melardev/xeytanwin32-rat",
                   "description": "WORK IN PROGRESS. RAT written in C++ using Win32 API",
                   "children": [],
@@ -5410,6 +5383,33 @@
                       "trojan",
                       "win32",
                       "win32api"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:56:58.174Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[7星][2y] [C#] advancedhacker101/android-c-sharp-rat-server",
+                  "description": "This is a plugin for the c# R.A.T server providing extension to android based phone systems",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This is a plugin for the c# R.A.T server providing extension to android based phone systems",
+                    "homepage": null,
+                    "id": 99407238,
+                    "language": "C#",
+                    "license": "NOASSERTION",
+                    "last_commit": "2018-03-02T07:32:09Z",
+                    "open_issues": 2,
+                    "owner": "AdvancedHacker101",
+                    "repo": "android-c-sharp-rat-server",
+                    "stars": 19,
+                    "topics": [
+                      "android",
+                      "c-sharp",
+                      "rat",
+                      "server",
+                      "windows-7"
                     ]
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5811,7 +5811,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3051,
+                    "stars": 3052,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -6206,11 +6206,11 @@
                     "id": 138925737,
                     "language": "Objective-C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T10:52:37Z",
+                    "last_commit": "2026-10-22T06:52:08Z",
                     "open_issues": 2,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2096,
+                    "stars": 2099,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6393,7 +6393,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1659,
+                    "stars": 1662,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6414,7 +6414,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "BetterAndroRAT",
-                    "stars": 550,
+                    "stars": 551,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6523,7 +6523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:25:43.733Z",
+    "last_updated": "2026-10-23T00:23:15.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
