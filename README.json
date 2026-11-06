@@ -23,7 +23,7 @@
                     "open_issues": 176,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 9004,
+                    "stars": 9005,
                     "topics": [
                       "android",
                       "backdoor",
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9904,
+                    "stars": 9901,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -253,7 +253,7 @@
                     "open_issues": 44,
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2424,
+                    "stars": 2427,
                     "topics": [
                       "backdoor",
                       "mac",
@@ -300,7 +300,7 @@
                     "open_issues": 20,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5626,
+                    "stars": 5628,
                     "topics": [
                       "agent",
                       "c2",
@@ -348,7 +348,7 @@
                     "open_issues": 1,
                     "owner": "uknowsec",
                     "repo": "SharpDecryptPwd",
-                    "stars": 1270,
+                    "stars": 1271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -543,7 +543,7 @@
                     "open_issues": 3,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1403,
+                    "stars": 1404,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -570,7 +570,7 @@
                     "open_issues": 1,
                     "owner": "sin5678",
                     "repo": "gh0st",
-                    "stars": 559,
+                    "stars": 558,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1863,11 +1863,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-04T23:15:35Z",
+                    "last_commit": "2026-11-05T17:51:59Z",
                     "open_issues": 230,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 12232,
+                    "stars": 12238,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -2655,7 +2655,7 @@
                     "open_issues": 5,
                     "owner": "p3nt4",
                     "repo": "Nuages",
-                    "stars": 553,
+                    "stars": 554,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3907,7 +3907,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3715,
+                    "stars": 3717,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -3964,7 +3964,7 @@
                     "open_issues": 5,
                     "owner": "Arvanaghi",
                     "repo": "SessionGopher",
-                    "stars": 1346,
+                    "stars": 1347,
                     "topics": [
                       "artifacts",
                       "pentesting",
@@ -4287,7 +4287,7 @@
                     "open_issues": 7,
                     "owner": "hussein-aitlahcen",
                     "repo": "BlackHole",
-                    "stars": 301,
+                    "stars": 300,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5336,6 +5336,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "[7星][2y] [C#] advancedhacker101/android-c-sharp-rat-server",
+                  "description": "This is a plugin for the c# R.A.T server providing extension to android based phone systems",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This is a plugin for the c# R.A.T server providing extension to android based phone systems",
+                    "homepage": null,
+                    "id": 99407238,
+                    "language": "C#",
+                    "license": "NOASSERTION",
+                    "last_commit": "2018-03-02T07:32:09Z",
+                    "open_issues": 2,
+                    "owner": "AdvancedHacker101",
+                    "repo": "android-c-sharp-rat-server",
+                    "stars": 20,
+                    "topics": [
+                      "android",
+                      "c-sharp",
+                      "rat",
+                      "server",
+                      "windows-7"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T05:56:58.174Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "[5星][17d] [C++] melardev/xeytanwin32-rat",
                   "description": "WORK IN PROGRESS. RAT written in C++ using Win32 API",
                   "children": [],
@@ -5362,33 +5389,6 @@
                       "trojan",
                       "win32",
                       "win32api"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T05:56:58.174Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "[7星][2y] [C#] advancedhacker101/android-c-sharp-rat-server",
-                  "description": "This is a plugin for the c# R.A.T server providing extension to android based phone systems",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "This is a plugin for the c# R.A.T server providing extension to android based phone systems",
-                    "homepage": null,
-                    "id": 99407238,
-                    "language": "C#",
-                    "license": "NOASSERTION",
-                    "last_commit": "2018-03-02T07:32:09Z",
-                    "open_issues": 2,
-                    "owner": "AdvancedHacker101",
-                    "repo": "android-c-sharp-rat-server",
-                    "stars": 19,
-                    "topics": [
-                      "android",
-                      "c-sharp",
-                      "rat",
-                      "server",
-                      "windows-7"
                     ]
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5790,7 +5790,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3067,
+                    "stars": 3068,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -5821,7 +5821,7 @@
                     "open_issues": 9,
                     "owner": "Viralmaniar",
                     "repo": "Powershell-RAT",
-                    "stars": 1231,
+                    "stars": 1232,
                     "topics": [
                       "backdoor",
                       "fud",
@@ -6287,10 +6287,10 @@
                     "language": "Smali",
                     "license": "GPL-3.0",
                     "last_commit": "2021-08-12T21:23:08Z",
-                    "open_issues": 208,
+                    "open_issues": 207,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5349,
+                    "stars": 5348,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6317,7 +6317,7 @@
                     "open_issues": 53,
                     "owner": "wszf",
                     "repo": "androrat",
-                    "stars": 2061,
+                    "stars": 2060,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6414,7 +6414,7 @@
                     "open_issues": 11,
                     "owner": "globalpolicy",
                     "repo": "PhoneMonitor",
-                    "stars": 271,
+                    "stars": 270,
                     "topics": [
                       "android",
                       "monitoring",
@@ -6502,7 +6502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:59:10.042Z",
+    "last_updated": "2026-11-06T01:58:52.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
