@@ -159,7 +159,7 @@
                     "open_issues": 8,
                     "owner": "Coalfire-Research",
                     "repo": "Slackor",
-                    "stars": 459,
+                    "stars": 458,
                     "topics": [
                       "c2",
                       "command-and-control",
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9901,
+                    "stars": 9900,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -300,7 +300,7 @@
                     "open_issues": 20,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5628,
+                    "stars": 5627,
                     "topics": [
                       "agent",
                       "c2",
@@ -543,7 +543,7 @@
                     "open_issues": 3,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1404,
+                    "stars": 1406,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -967,7 +967,7 @@
                     "open_issues": 0,
                     "owner": "PaulSec",
                     "repo": "twittor",
-                    "stars": 813,
+                    "stars": 812,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1029,7 +1029,7 @@
                     "open_issues": 5,
                     "owner": "byt3bl33d3r",
                     "repo": "gcat",
-                    "stars": 1351,
+                    "stars": 1350,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1359,7 +1359,7 @@
                     "open_issues": 1,
                     "owner": "NetSPI",
                     "repo": "SQLC2",
-                    "stars": 76,
+                    "stars": 75,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1639,7 +1639,7 @@
                         "open_issues": 0,
                         "owner": "andrewaeva",
                         "repo": "DGA",
-                        "stars": 224,
+                        "stars": 223,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1706,7 +1706,7 @@
                         "open_issues": 5,
                         "owner": "philarkwright",
                         "repo": "DGA-Detection",
-                        "stars": 56,
+                        "stars": 55,
                         "topics": [
                           "botnet-detection",
                           "dga",
@@ -1863,11 +1863,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-05T17:51:59Z",
-                    "open_issues": 230,
+                    "last_commit": "2026-11-06T23:32:32Z",
+                    "open_issues": 229,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 12238,
+                    "stars": 12248,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1904,7 +1904,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3988,
+                    "stars": 3989,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1925,7 +1925,7 @@
                     "open_issues": 3,
                     "owner": "sensepost",
                     "repo": "godoh",
-                    "stars": 804,
+                    "stars": 803,
                     "topics": [
                       "c2",
                       "command-and-control",
@@ -2130,7 +2130,7 @@
                     "open_issues": 2,
                     "owner": "Arno0x",
                     "repo": "WSC2",
-                    "stars": 434,
+                    "stars": 433,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2330,7 +2330,7 @@
                     "open_issues": 1,
                     "owner": "ryhanson",
                     "repo": "ExternalC2",
-                    "stars": 290,
+                    "stars": 292,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2474,7 +2474,7 @@
                     "open_issues": 48,
                     "owner": "byt3bl33d3r",
                     "repo": "SILENTTRINITY",
-                    "stars": 2347,
+                    "stars": 2346,
                     "topics": [
                       "boolang",
                       "c-sharp",
@@ -2559,7 +2559,7 @@
                     "open_issues": 2,
                     "owner": "trustedsec",
                     "repo": "trevorc2",
-                    "stars": 1346,
+                    "stars": 1345,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2580,7 +2580,7 @@
                     "open_issues": 12,
                     "owner": "mhaskar",
                     "repo": "Octopus",
-                    "stars": 766,
+                    "stars": 765,
                     "topics": [
                       "c2",
                       "pentesting",
@@ -2676,7 +2676,7 @@
                     "open_issues": 2,
                     "owner": "graniet",
                     "repo": "chromebackdoor",
-                    "stars": 512,
+                    "stars": 511,
                     "topics": [
                       "backdoor",
                       "chrome",
@@ -2799,7 +2799,7 @@
                     "open_issues": 6,
                     "owner": "Ziconius",
                     "repo": "FudgeC2",
-                    "stars": 253,
+                    "stars": 252,
                     "topics": [
                       "c2",
                       "command-and-control",
@@ -2876,7 +2876,7 @@
                     "open_issues": 1,
                     "owner": "shadow-workers",
                     "repo": "shadow-workers",
-                    "stars": 245,
+                    "stars": 244,
                     "topics": [
                       "c2",
                       "penetration-testing-tools",
@@ -2928,7 +2928,7 @@
                     "open_issues": 2,
                     "owner": "pjlantz",
                     "repo": "Hale",
-                    "stars": 202,
+                    "stars": 201,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3028,7 +3028,7 @@
                     "open_issues": 4,
                     "owner": "Project-Prismatica",
                     "repo": "Prismatica",
-                    "stars": 103,
+                    "stars": 101,
                     "topics": [
                       "c2",
                       "cybersecurity",
@@ -3202,7 +3202,7 @@
                     "open_issues": 4,
                     "owner": "degenerat3",
                     "repo": "meteor",
-                    "stars": 45,
+                    "stars": 44,
                     "topics": [
                       "c2",
                       "command-and-control",
@@ -3347,27 +3347,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "[16星][10m] [Py] daniel-infosec/wikipedia-c2",
-                  "description": "POC for utilizing wikipedia API for Command and Control",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "POC for utilizing wikipedia API for Command and Control",
-                    "homepage": null,
-                    "id": 181242941,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2022-12-08T04:58:50Z",
-                    "open_issues": 2,
-                    "owner": "daniel-infosec",
-                    "repo": "wikipedia-c2",
-                    "stars": 29,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T05:56:58.174Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "[11星][4m] [Py] jacobsoo/amtracker",
                   "description": "Android Malware Tracker",
                   "children": [],
@@ -3382,6 +3361,27 @@
                     "open_issues": 0,
                     "owner": "jacobsoo",
                     "repo": "amtracker",
+                    "stars": 30,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T05:56:58.174Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "[16星][10m] [Py] daniel-infosec/wikipedia-c2",
+                  "description": "POC for utilizing wikipedia API for Command and Control",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "POC for utilizing wikipedia API for Command and Control",
+                    "homepage": null,
+                    "id": 181242941,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2022-12-08T04:58:50Z",
+                    "open_issues": 2,
+                    "owner": "daniel-infosec",
+                    "repo": "wikipedia-c2",
                     "stars": 29,
                     "topics": []
                   },
@@ -3907,7 +3907,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3717,
+                    "stars": 3719,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -3964,7 +3964,7 @@
                     "open_issues": 5,
                     "owner": "Arvanaghi",
                     "repo": "SessionGopher",
-                    "stars": 1347,
+                    "stars": 1346,
                     "topics": [
                       "artifacts",
                       "pentesting",
@@ -4046,7 +4046,7 @@
                     "open_issues": 21,
                     "owner": "Mr-Un1k0d3r",
                     "repo": "ThunderShell",
-                    "stars": 769,
+                    "stars": 768,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4153,7 +4153,7 @@
                     "open_issues": 13,
                     "owner": "PushpenderIndia",
                     "repo": "thorse",
-                    "stars": 616,
+                    "stars": 617,
                     "topics": [
                       "hacking-tool",
                       "hacktoberfest",
@@ -5821,7 +5821,7 @@
                     "open_issues": 9,
                     "owner": "Viralmaniar",
                     "repo": "Powershell-RAT",
-                    "stars": 1232,
+                    "stars": 1233,
                     "topics": [
                       "backdoor",
                       "fud",
@@ -5887,7 +5887,7 @@
                     "open_issues": 1,
                     "owner": "RedSiege",
                     "repo": "WMImplant",
-                    "stars": 868,
+                    "stars": 867,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6189,7 +6189,7 @@
                     "open_issues": 2,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2106,
+                    "stars": 2108,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6214,7 +6214,7 @@
                     "open_issues": 0,
                     "owner": "00xglitch",
                     "repo": "Bella",
-                    "stars": 208,
+                    "stars": 207,
                     "topics": [
                       "data-mining",
                       "macos",
@@ -6290,7 +6290,7 @@
                     "open_issues": 207,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5348,
+                    "stars": 5350,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6338,7 +6338,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1750,
+                    "stars": 1751,
                     "topics": [
                       "administrator",
                       "android",
@@ -6502,7 +6502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:58:52.630Z",
+    "last_updated": "2026-11-07T01:35:51.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6514,7 +6514,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2286,
+      "stars": 2287,
       "topics": [
         "c2",
         "command-and-control",
