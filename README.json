@@ -23,7 +23,7 @@
                     "open_issues": 176,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 9006,
+                    "stars": 9005,
                     "topics": [
                       "android",
                       "backdoor",
@@ -76,7 +76,7 @@
                     "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4748,
+                    "stars": 4750,
                     "topics": [
                       "c2",
                       "covenant",
@@ -300,7 +300,7 @@
                     "open_issues": 20,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5629,
+                    "stars": 5632,
                     "topics": [
                       "agent",
                       "c2",
@@ -348,7 +348,7 @@
                     "open_issues": 1,
                     "owner": "uknowsec",
                     "repo": "SharpDecryptPwd",
-                    "stars": 1271,
+                    "stars": 1272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -703,7 +703,7 @@
                     "open_issues": 4,
                     "owner": "mwsrc",
                     "repo": "njRAT",
-                    "stars": 314,
+                    "stars": 315,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1639,7 +1639,7 @@
                         "open_issues": 0,
                         "owner": "andrewaeva",
                         "repo": "DGA",
-                        "stars": 223,
+                        "stars": 222,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1864,10 +1864,10 @@
                     "language": "Go",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-08T17:31:01Z",
-                    "open_issues": 229,
+                    "open_issues": 230,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 12306,
+                    "stars": 12310,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1904,7 +1904,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3989,
+                    "stars": 3988,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1987,7 +1987,7 @@
                     "open_issues": 1,
                     "owner": "ahhh",
                     "repo": "Reverse_DNS_Shell",
-                    "stars": 508,
+                    "stars": 509,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2506,7 +2506,7 @@
                     "open_issues": 25,
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2136,
+                    "stars": 2138,
                     "topics": [
                       "c2",
                       "csharp",
@@ -3907,7 +3907,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3716,
+                    "stars": 3717,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -4215,7 +4215,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "PlasmaRAT",
-                    "stars": 406,
+                    "stars": 408,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4435,7 +4435,7 @@
                     "open_issues": 1,
                     "owner": "rainkin1993",
                     "repo": "Remote-Access-Trojan-Database",
-                    "stars": 162,
+                    "stars": 163,
                     "topics": [
                       "rat",
                       "remote-access-trojan",
@@ -5790,7 +5790,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3071,
+                    "stars": 3075,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -5908,7 +5908,7 @@
                     "open_issues": 4,
                     "owner": "malwares",
                     "repo": "Remote-Access-Trojan",
-                    "stars": 759,
+                    "stars": 761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6189,7 +6189,7 @@
                     "open_issues": 2,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2110,
+                    "stars": 2111,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6502,7 +6502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:42:01.988Z",
+    "last_updated": "2026-11-12T02:41:12.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
