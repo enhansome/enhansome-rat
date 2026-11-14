@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9901,
+                    "stars": 9905,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -253,7 +253,7 @@
                     "open_issues": 44,
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2427,
+                    "stars": 2428,
                     "topics": [
                       "backdoor",
                       "mac",
@@ -300,7 +300,7 @@
                     "open_issues": 20,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5631,
+                    "stars": 5632,
                     "topics": [
                       "agent",
                       "c2",
@@ -348,7 +348,7 @@
                     "open_issues": 1,
                     "owner": "uknowsec",
                     "repo": "SharpDecryptPwd",
-                    "stars": 1272,
+                    "stars": 1273,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -369,7 +369,7 @@
                     "open_issues": 3,
                     "owner": "vah13",
                     "repo": "extractTVpasswords",
-                    "stars": 466,
+                    "stars": 468,
                     "topics": [
                       "cplusplus",
                       "frida",
@@ -543,7 +543,7 @@
                     "open_issues": 3,
                     "owner": "yuanyuanxiang",
                     "repo": "SimpleRemoter",
-                    "stars": 1405,
+                    "stars": 1407,
                     "topics": [
                       "management-system",
                       "monitoring-tool",
@@ -612,7 +612,7 @@
                     "open_issues": 0,
                     "owner": "iGh0st",
                     "repo": "gh0st3.6_src",
-                    "stars": 169,
+                    "stars": 170,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -1867,7 +1867,7 @@
                     "open_issues": 231,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 12321,
+                    "stars": 12326,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -2192,7 +2192,7 @@
                     "open_issues": 4,
                     "owner": "threatexpress",
                     "repo": "malleable-c2",
-                    "stars": 1767,
+                    "stars": 1768,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2506,7 +2506,7 @@
                     "open_issues": 26,
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2139,
+                    "stars": 2141,
                     "topics": [
                       "c2",
                       "csharp",
@@ -2538,7 +2538,7 @@
                     "open_issues": 35,
                     "owner": "ReversecLabs",
                     "repo": "C3",
-                    "stars": 1791,
+                    "stars": 1792,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2655,7 +2655,7 @@
                     "open_issues": 5,
                     "owner": "p3nt4",
                     "repo": "Nuages",
-                    "stars": 554,
+                    "stars": 555,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3907,7 +3907,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3716,
+                    "stars": 3718,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -3992,7 +3992,7 @@
                     "open_issues": 25,
                     "owner": "kevthehermit",
                     "repo": "RATDecoders",
-                    "stars": 1124,
+                    "stars": 1125,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5790,7 +5790,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3076,
+                    "stars": 3078,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -5908,7 +5908,7 @@
                     "open_issues": 4,
                     "owner": "malwares",
                     "repo": "Remote-Access-Trojan",
-                    "stars": 761,
+                    "stars": 764,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6290,7 +6290,7 @@
                     "open_issues": 207,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5351,
+                    "stars": 5352,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6372,7 +6372,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1666,
+                    "stars": 1667,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6393,7 +6393,7 @@
                     "open_issues": 5,
                     "owner": "mwsrc",
                     "repo": "BetterAndroRAT",
-                    "stars": 553,
+                    "stars": 554,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6502,7 +6502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:22:28.121Z",
+    "last_updated": "2026-11-14T01:58:03.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
