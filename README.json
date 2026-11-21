@@ -76,7 +76,7 @@
                     "open_issues": 89,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4751,
+                    "stars": 4752,
                     "topics": [
                       "c2",
                       "covenant",
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9906,
+                    "stars": 9907,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -1570,7 +1570,7 @@
                         "open_issues": 0,
                         "owner": "baderj",
                         "repo": "domain_generation_algorithms",
-                        "stars": 691,
+                        "stars": 692,
                         "topics": [
                           "dga",
                           "domain-generation-algorithm",
@@ -1863,11 +1863,11 @@
                     "id": 166304026,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-17T01:03:40Z",
+                    "last_commit": "2026-11-20T22:54:13Z",
                     "open_issues": 234,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 12377,
+                    "stars": 12386,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1904,7 +1904,7 @@
                     "open_issues": 98,
                     "owner": "iagox86",
                     "repo": "dnscat2",
-                    "stars": 3991,
+                    "stars": 3992,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -2506,7 +2506,7 @@
                     "open_issues": 26,
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2142,
+                    "stars": 2143,
                     "topics": [
                       "c2",
                       "csharp",
@@ -2608,7 +2608,7 @@
                     "open_issues": 2,
                     "owner": "qsecure-labs",
                     "repo": "overlord",
-                    "stars": 638,
+                    "stars": 639,
                     "topics": [
                       "penetration-testing-framework",
                       "pentest",
@@ -2655,7 +2655,7 @@
                     "open_issues": 6,
                     "owner": "p3nt4",
                     "repo": "Nuages",
-                    "stars": 556,
+                    "stars": 557,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -4013,7 +4013,7 @@
                     "open_issues": 22,
                     "owner": "AHXR",
                     "repo": "ghost",
-                    "stars": 1082,
+                    "stars": 1083,
                     "topics": [
                       "backdoor",
                       "botnet",
@@ -4236,7 +4236,7 @@
                     "open_issues": 3,
                     "owner": "NYAN-x-CAT",
                     "repo": "Mass-RAT",
-                    "stars": 390,
+                    "stars": 391,
                     "topics": [
                       "admin",
                       "android",
@@ -5790,7 +5790,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3087,
+                    "stars": 3089,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -5855,7 +5855,7 @@
                     "open_issues": 0,
                     "owner": "NYAN-x-CAT",
                     "repo": "Lime-RAT",
-                    "stars": 1135,
+                    "stars": 1136,
                     "topics": [
                       "administration",
                       "backdoor",
@@ -6185,7 +6185,7 @@
                     "id": 138925737,
                     "language": "Objective-C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T15:09:24Z",
+                    "last_commit": "2026-11-20T11:02:17Z",
                     "open_issues": 0,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
@@ -6372,7 +6372,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1670,
+                    "stars": 1671,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6502,7 +6502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:49:30.839Z",
+    "last_updated": "2026-11-21T02:58:21.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
