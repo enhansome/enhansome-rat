@@ -105,7 +105,7 @@
 
 ### <a id="05d2a0aed9499aea447e90668c8d5103"></a>工具
 
-* \[**1147**星]\[6d] \[C#] [cobbr/covenant](https://github.com/cobbr/covenant) ⭐ 4,752 | 🐛 89 | 🌐 C# | 📅 2024-07-18 Covenant is a collaborative .NET C2 framework for red teamers.
+* \[**1147**星]\[6d] \[C#] [cobbr/covenant](https://github.com/cobbr/covenant) ⭐ 4,753 | 🐛 90 | 🌐 C# | 📅 2024-07-18 Covenant is a collaborative .NET C2 framework for red teamers.
 * \[**95**星]\[9d] \[C#] [cobbr/elite](https://github.com/cobbr/elite) ⭐ 121 | 🐛 5 | 🌐 C# | 📅 2023-07-07 Elite is the client-side component of the Covenant project. Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 * \[**31**星]\[4m] \[C#] [cobbr/c2bridge](https://github.com/cobbr/c2bridge) ⭐ 71 | 🐛 1 | 🌐 C# | 📅 2021-02-13 C2Bridges allow developers to create new custom communication protocols and quickly utilize them within Covenant.
 
@@ -170,7 +170,7 @@
 
 ### <a id="a69f3baa491547ddf6a628cda168b492"></a>工具
 
-* \[**1376**星]\[2y] \[Py] [marten4n6/evilosx](https://github.com/marten4n6/evilosx) ⭐ 2,426 | 🐛 44 | 🌐 Python | 📅 2021-02-10 An evil RAT (Remote Administration Tool) for macOS / OS X.
+* \[**1376**星]\[2y] \[Py] [marten4n6/evilosx](https://github.com/marten4n6/evilosx) ⭐ 2,427 | 🐛 44 | 🌐 Python | 📅 2021-02-10 An evil RAT (Remote Administration Tool) for macOS / OS X.
 
 ### <a id="375dc16ed1cf6be4274da55140784610"></a>文章
 
@@ -259,7 +259,7 @@
 
 ### <a id="dcb10cc6813a25815201b36bacdef198"></a>工具
 
-* \[**301**星]\[7d] \[C++] [yuanyuanxiang/simpleremoter](https://github.com/yuanyuanxiang/simpleremoter) ⭐ 1,407 | 🐛 3 | 🌐 C++ | 📅 2026-10-21 基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能
+* \[**301**星]\[7d] \[C++] [yuanyuanxiang/simpleremoter](https://github.com/yuanyuanxiang/simpleremoter) ⭐ 1,408 | 🐛 3 | 🌐 C++ | 📅 2026-10-21 基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能
 * \[**273**星]\[7y] \[C++] [sin5678/gh0st](https://github.com/sin5678/gh0st) ⭐ 558 | 🐛 1 | 🌐 C++ | 📅 2013-05-08 a open source remote administrator tool
 * \[**90**星]\[1m] \[C++] [zibility/remote](https://github.com/zibility/remote) ⭐ 233 | 🐛 1 | 🌐 C++ | 📅 2016-07-31 参考Gh0st源码，实现的一款PC远程协助软件，拥有远程Shell、文件管理、桌面管理、消息发送等功能。
 * \[**91**星]\[6y] \[C++] [igh0st/gh0st3.6\_src](https://github.com/igh0st/gh0st3.6_src) ⭐ 170 | 🐛 0 | 🌐 C++ | 📅 2014-04-29
@@ -1430,9 +1430,9 @@
 
 ### <a id="d70a62f77fa20a2219e81fa61527e644"></a>工具
 
-* \[**832**星]\[6d] \[Go] [bishopfox/sliver](https://github.com/bishopfox/sliver) ⭐ 12,386 | 🐛 234 | 🌐 Go | 📅 2026-11-20 一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS
-* \[**1855**星]\[8m] \[C++] [iagox86/dnscat2](https://github.com/iagox86/dnscat2) ⭐ 3,992 | 🐛 98 | 🌐 PHP | 📅 2024-03-14 在 DNS 协议上创建加密的 C\&C channel
-* \[**276**星]\[4m] \[Go] [sensepost/godoh](https://github.com/sensepost/godoh) ⭐ 804 | 🐛 3 | 🌐 Go | 📅 2023-12-19  A DNS-over-HTTPS Command & Control Proof of Concept
+* \[**832**星]\[6d] \[Go] [bishopfox/sliver](https://github.com/bishopfox/sliver) ⭐ 12,393 | 🐛 236 | 🌐 Go | 📅 2026-11-21 一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS
+* \[**1855**星]\[8m] \[C++] [iagox86/dnscat2](https://github.com/iagox86/dnscat2) ⭐ 3,991 | 🐛 98 | 🌐 PHP | 📅 2024-03-14 在 DNS 协议上创建加密的 C\&C channel
+* \[**276**星]\[4m] \[Go] [sensepost/godoh](https://github.com/sensepost/godoh) ⭐ 805 | 🐛 3 | 🌐 Go | 📅 2023-12-19  A DNS-over-HTTPS Command & Control Proof of Concept
 * \[**277**星]\[1y] \[Py] [trycatchhcf/packetwhisper](https://github.com/trycatchhcf/packetwhisper) ⭐ 657 | 🐛 4 | 🌐 Python | 📅 2021-06-03 Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.
 * \[**386**星]\[4y] \[Py] [ahhh/reverse\_dns\_shell](https://github.com/ahhh/reverse_dns_shell) ⭐ 508 | 🐛 1 | 🌐 Python | 📅 2015-10-10 使用DNS作为c2通道的python反向shell
 * \[**225**星]\[2y] \[PS] [lukebaggett/dnscat2-powershell](https://github.com/lukebaggett/dnscat2-powershell) ⚠️ Archived A Powershell client for dnscat2, an encrypted DNS command and control tool.
@@ -1896,7 +1896,7 @@
 * \[**129**星]\[2y] \[Py] [dviros/rat-via-telegram](https://github.com/dviros/rat-via-telegram) ⭐ 135 | 🐛 0 | 🌐 Python | 📅 2018-03-13 使用Telegram控制已经攻克的Windows主机
 * \[**29**星]\[1m] \[Py] [the404hacking/windows-python-rat](https://github.com/the404hacking/windows-python-rat) ⭐ 120 | 🐛 0 | 🌐 Python | 📅 2020-04-11 A New Microsoft Windows Remote Administrator Tool \[RAT] with Python by Sir.4m1R.
 * \[**39**星]\[1m] \[Shell] [samyk/easel-driver](https://github.com/samyk/easel-driver) ⭐ 109 | 🐛 2 | 🌐 Shell | 📅 2024-08-12 Easel driver for Linux (and Mac/Windows) + remote access to CNC controller
-* \[**19**星]\[7d] \[Py] [lithium95/controll\_remote\_access\_trojan](https://github.com/lithium95/controll_remote_access_trojan) ⭐ 105 | 🐛 3 | 🌐 Python | 📅 2017-12-17 Created a VERY SIMPLE remote access Trojan that will establish administrative control over any windows machine it compromises.
+* \[**19**星]\[7d] \[Py] [lithium95/controll\_remote\_access\_trojan](https://github.com/lithium95/controll_remote_access_trojan) ⭐ 106 | 🐛 3 | 🌐 Python | 📅 2017-12-17 Created a VERY SIMPLE remote access Trojan that will establish administrative control over any windows machine it compromises.
 * \[**80**星]\[4y] \[C++] [rwhitcroft/dnschan](https://github.com/rwhitcroft/dnschan) ⭐ 98 | 🐛 2 | 🌐 C++ | 📅 2015-12-23 使用DNS通信的远程访问木马
 * \[**46**星]\[1m] \[Pascal] [0x48piraj/malwarex](https://github.com/0x48piraj/malwarex) ⭐ 95 | 🐛 3 | 🌐 Pascal | 📅 2023-11-04 Collection of killers
 * \[**41**星]\[3y] \[C] [killswitch-gui/hotload-driver](https://github.com/killswitch-gui/hotload-driver) ⭐ 89 | 🐛 0 | 🌐 C | 📅 2016-09-11 C++
@@ -1961,8 +1961,8 @@
 
 ### <a id="1da695fd3dec80b88aadb1b7c724330f"></a>Windows
 
-* \[**360**星]\[8d] \[C#] [nyan-x-cat/asyncrat-c-sharp](https://github.com/nyan-x-cat/asyncrat-c-sharp) ⭐ 3,089 | 🐛 129 | 🌐 C# | 📅 2023-10-16 Open-Source Remote Administration Tool For Windows C# (RAT)
-* \[**493**星]\[6m] \[Py] [viralmaniar/powershell-rat](https://github.com/viralmaniar/powershell-rat) ⭐ 1,236 | 🐛 9 | 🌐 Python | 📅 2022-10-20 Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.
+* \[**360**星]\[8d] \[C#] [nyan-x-cat/asyncrat-c-sharp](https://github.com/nyan-x-cat/asyncrat-c-sharp) ⭐ 3,088 | 🐛 129 | 🌐 C# | 📅 2023-10-16 Open-Source Remote Administration Tool For Windows C# (RAT)
+* \[**493**星]\[6m] \[Py] [viralmaniar/powershell-rat](https://github.com/viralmaniar/powershell-rat) ⭐ 1,237 | 🐛 9 | 🌐 Python | 📅 2022-10-20 Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.
 * \[**518**星]\[8m] \[Visual Basic .NET] [nyan-x-cat/lime-rat](https://github.com/nyan-x-cat/lime-rat) ⚠️ Archived LimeRAT | Simple, yet powerful remote administration tool for Windows (RAT)
 * \[**610**星]\[1y] \[PS] [fortynorthsecurity/wmimplant](https://github.com/FortyNorthSecurity/WMImplant) ⭐ 868 | 🐛 1 | 🌐 PowerShell | 📅 2024-06-25 This is a PowerShell based tool that is designed to act like a RAT. Its interface is that of a shell where any command that is supported is translated into a WMI-equivalent for use on a network/remote machine. WMImplant is WMI based.
 * \[**340**星]\[3y] \[Pascal] [malwares/remote-access-trojan](https://github.com/malwares/remote-access-trojan) ⭐ 764 | 🐛 4 | 🌐 Pascal | 📅 2016-12-28 Windows Remote-Access-Trojan
@@ -2016,4 +2016,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
