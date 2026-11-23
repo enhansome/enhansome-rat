@@ -105,7 +105,7 @@
 
 ### <a id="05d2a0aed9499aea447e90668c8d5103"></a>工具
 
-* \[**1147**星]\[6d] \[C#] [cobbr/covenant](https://github.com/cobbr/covenant) ⭐ 4,753 | 🐛 90 | 🌐 C# | 📅 2024-07-18 Covenant is a collaborative .NET C2 framework for red teamers.
+* \[**1147**星]\[6d] \[C#] [cobbr/covenant](https://github.com/cobbr/covenant) ⭐ 4,754 | 🐛 90 | 🌐 C# | 📅 2024-07-18 Covenant is a collaborative .NET C2 framework for red teamers.
 * \[**95**星]\[9d] \[C#] [cobbr/elite](https://github.com/cobbr/elite) ⭐ 121 | 🐛 5 | 🌐 C# | 📅 2023-07-07 Elite is the client-side component of the Covenant project. Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 * \[**31**星]\[4m] \[C#] [cobbr/c2bridge](https://github.com/cobbr/c2bridge) ⭐ 71 | 🐛 1 | 🌐 C# | 📅 2021-02-13 C2Bridges allow developers to create new custom communication protocols and quickly utilize them within Covenant.
 
@@ -190,7 +190,7 @@
 
 ### <a id="941bae92e80ca3f9c21a232cc959eb67"></a>工具
 
-* \[**2568**星]\[6m] \[Go] [ne0nd0g/merlin](https://github.com/ne0nd0g/merlin) ⭐ 5,635 | 🐛 20 | 🌐 Go | 📅 2026-10-15 Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
+* \[**2568**星]\[6m] \[Go] [ne0nd0g/merlin](https://github.com/ne0nd0g/merlin) ⭐ 5,637 | 🐛 20 | 🌐 Go | 📅 2026-10-15 Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 
 ### <a id="5b3a7a286bac53bf26395ea5ffb6c590"></a>文章
 
@@ -1430,7 +1430,7 @@
 
 ### <a id="d70a62f77fa20a2219e81fa61527e644"></a>工具
 
-* \[**832**星]\[6d] \[Go] [bishopfox/sliver](https://github.com/bishopfox/sliver) ⭐ 12,393 | 🐛 236 | 🌐 Go | 📅 2026-11-21 一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS
+* \[**832**星]\[6d] \[Go] [bishopfox/sliver](https://github.com/bishopfox/sliver) ⭐ 12,401 | 🐛 236 | 🌐 Go | 📅 2026-11-21 一个通用的跨平台植入程序框架，该框架C3支持Mutual-TLS，HTTP（S）和DNS
 * \[**1855**星]\[8m] \[C++] [iagox86/dnscat2](https://github.com/iagox86/dnscat2) ⭐ 3,991 | 🐛 98 | 🌐 PHP | 📅 2024-03-14 在 DNS 协议上创建加密的 C\&C channel
 * \[**276**星]\[4m] \[Go] [sensepost/godoh](https://github.com/sensepost/godoh) ⭐ 805 | 🐛 3 | 🌐 Go | 📅 2023-12-19  A DNS-over-HTTPS Command & Control Proof of Concept
 * \[**277**星]\[1y] \[Py] [trycatchhcf/packetwhisper](https://github.com/trycatchhcf/packetwhisper) ⭐ 657 | 🐛 4 | 🌐 Python | 📅 2021-06-03 Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.
@@ -1531,7 +1531,7 @@
 ### <a id="dbd38a8d8a1e246cd8628a34002c5fe7"></a>新添加
 
 * \[**1135**星]\[13d] \[Boo] [byt3bl33d3r/silenttrinity](https://github.com/byt3bl33d3r/silenttrinity) ⚠️ Archived An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR
-* \[**336**星]\[12d] \[PS] [nettitude/poshc2](https://github.com/nettitude/poshc2) ⭐ 2,143 | 🐛 26 | 🌐 PowerShell | 📅 2025-11-20 Python Server for PoshC2
+* \[**336**星]\[12d] \[PS] [nettitude/poshc2](https://github.com/nettitude/poshc2) ⭐ 2,144 | 🐛 26 | 🌐 PowerShell | 📅 2025-11-20 Python Server for PoshC2
 * \[**478**星]\[5m] \[C++] [fsecurelabs/c3](https://github.com/FSecureLABS/C3) ⭐ 1,792 | 🐛 35 | 🌐 C++ | 📅 2026-01-16 一个用于快速定制C2通道原型的框架，同时仍提供与现有攻击性工具包的集成。
 * \[**614**星]\[12d] \[Py] [trustedsec/trevorc2](https://github.com/trustedsec/trevorc2) ⭐ 1,345 | 🐛 2 | 🌐 C | 📅 2022-01-31 通过正常的可浏览的网站隐藏 C\&C 指令的客户端/服务器模型，因为时间间隔不同，检测变得更加困难，并且获取主机数据时不会使用 POST 请求
 * \[**130**星]\[6d] \[Py] [mhaskar/octopus](https://github.com/mhaskar/octopus) ⭐ 767 | 🐛 12 | 🌐 Python | 📅 2021-07-06 Open source pre-operation C2 server based on python and powershell
@@ -1549,7 +1549,7 @@
 * \[**205**星]\[3y] \[Py] [countercept/doublepulsar-c2-traffic-decryptor](https://github.com/countercept/doublepulsar-c2-traffic-decryptor) ⭐ 225 | 🐛 0 | 🌐 Python | 📅 2017-04-17 处理PCAP文件，解密发送到DOUBLEPULSAR implant的C2流量
 * \[**136**星]\[2y] \[Py] [pjlantz/hale](https://github.com/pjlantz/hale) ⭐ 201 | 🐛 2 | 🌐 Python | 📅 2022-05-23 Botnet command & control monitor
 * \[**79**星]\[9m] \[C++] [watersalesman/aura-botnet](https://github.com/watersalesman/aura-botnet) ⭐ 144 | 🐛 0 | 🌐 C++ | 📅 2019-05-30 A super portable botnet framework with a Django-based C2 server. The client is written in C++, with alternate clients written in Rust, Bash, and Powershell.
-* \[**83**星]\[5y] \[Py] [maldroid/maldrolyzer](https://github.com/maldroid/maldrolyzer) ⭐ 116 | 🐛 5 | 🌐 Python | 📅 2015-05-07 Simple framework to extract "actionable" data from Android malware (C\&Cs, phone numbers etc.)
+* \[**83**星]\[5y] \[Py] [maldroid/maldrolyzer](https://github.com/maldroid/maldrolyzer) ⭐ 117 | 🐛 5 | 🌐 Python | 📅 2015-05-07 Simple framework to extract "actionable" data from Android malware (C\&Cs, phone numbers etc.)
 * \[**56**星]\[2y] \[Go] [averagesecurityguy/c2](https://github.com/averagesecurityguy/c2) ⭐ 104 | 🐛 0 | 🌐 Go | 📅 2018-02-13 A simple, extensible C\&C beaconing system.
 * \[**67**星]\[5m] \[HTML] [project-prismatica/prismatica](https://github.com/project-prismatica/prismatica) ⭐ 101 | 🐛 4 | 🌐 HTML | 📅 2022-10-06 Responsive Command and Control System
 * \[**6**星]\[5m] \[Py] [m507/m-botnet](https://github.com/m507/m-botnet) ⚠️ Archived A C2 project that controls a self-propagating MS17-010 worm.
@@ -1868,8 +1868,8 @@
 
 ### <a id="964a3580a7a7f66571ee1d2c0f34f2d6"></a>新添加
 
-* \[**1473**星]\[3y] \[Py] [nathanlopez/stitch](https://github.com/nathanlopez/stitch) ⭐ 3,722 | 🐛 59 | 🌐 Python | 📅 2024-01-04 一个跨平台的远控框架，可为Windows，Mac OSX和Linux构建自定义的Payload
-* \[**764**星]\[7d] \[C] [rdesktop/rdesktop](https://github.com/rdesktop/rdesktop) ⭐ 1,355 | 🐛 133 | 🌐 C | 📅 2026-05-16 rdesktop is an open source UNIX client for connecting to Windows Remote Desktop Services, capably of natively speaking Remote Desktop Protocol (RDP) in order to present the user's Windows desktop. rdesktop is known to work with Windows server version ranging from NT 4 terminal server to Windows 2012 R2.
+* \[**1473**星]\[3y] \[Py] [nathanlopez/stitch](https://github.com/nathanlopez/stitch) ⭐ 3,720 | 🐛 59 | 🌐 Python | 📅 2024-01-04 一个跨平台的远控框架，可为Windows，Mac OSX和Linux构建自定义的Payload
+* \[**764**星]\[7d] \[C] [rdesktop/rdesktop](https://github.com/rdesktop/rdesktop) ⭐ 1,355 | 🐛 134 | 🌐 C | 📅 2026-05-16 rdesktop is an open source UNIX client for connecting to Windows Remote Desktop Services, capably of natively speaking Remote Desktop Protocol (RDP) in order to present the user's Windows desktop. rdesktop is known to work with Windows server version ranging from NT 4 terminal server to Windows 2012 R2.
 * \[**706**星]\[1y] \[PS] [arvanaghi/sessiongopher](https://github.com/Arvanaghi/SessionGopher) ⭐ 1,346 | 🐛 5 | 🌐 PowerShell | 📅 2022-11-22 使用WMI为远程访问工具（如WinSCP，PuTTY，SuperPuTTY，FileZilla和Microsoft远程桌面）提取保存的会话信息。PowerShell编写
 * \[**789**星]\[4m] \[Py] [kevthehermit/ratdecoders](https://github.com/kevthehermit/ratdecoders) ⭐ 1,120 | 🐛 25 | 🌐 Python | 📅 2024-07-16 Python Decoders for Common Remote Access Trojans
 * \[**205**星]\[2y] \[C++] [ahxr/ghost](https://github.com/ahxr/ghost) ⭐ 1,083 | 🐛 22 | 🌐 C++ | 📅 2021-06-03 a light RAT that gives the server/attacker full remote access to the user's command-line interprete
@@ -1885,7 +1885,7 @@
 * \[**172**星]\[3y] \[C++] [hussein-aitlahcen/blackhole](https://github.com/hussein-aitlahcen/blackhole) ⭐ 300 | 🐛 7 | 🌐 C++ | 📅 2017-08-04 C# RAT (Remote Administration Tool)
 * \[**214**星]\[2y] \[C#] [them4hd1/vayne-rat](https://github.com/them4hd1/vayne-rat) ⭐ 273 | 🐛 1 | 🌐 C# | 📅 2018-04-30 用C＃编码的免费和开源远程管理工具。
 * \[**136**星]\[25d] \[C++] [earthquake/universaldvc](https://github.com/earthquake/universaldvc) ⭐ 266 | 🐛 2 | 🌐 C++ | 📅 2020-12-07 Universal Dynamic Virtual Channel connector for Remote Desktop Services
-* \[**46**星]\[18d] \[Java] [m301/rdroid](https://github.com/m301/rdroid) ⭐ 256 | 🐛 6 | 🌐 Java | 📅 2018-04-27 \[Android RAT] Remotely manage your android phone using PHP Interface
+* \[**46**星]\[18d] \[Java] [m301/rdroid](https://github.com/m301/rdroid) ⭐ 257 | 🐛 6 | 🌐 Java | 📅 2018-04-27 \[Android RAT] Remotely manage your android phone using PHP Interface
 * \[**175**星]\[4y] \[C#] [alphadelta/secure-desktop](https://github.com/alphadelta/secure-desktop) ⭐ 248 | 🐛 4 | 🌐 C# | 📅 2021-09-08 Anti-keylogger/anti-rat application for Windows
 * \[**98**星]\[4m] \[JS] [securityrat/securityrat](https://github.com/securityrat/securityrat) ⭐ 192 | 🐛 16 | 🌐 JavaScript | 📅 2025-08-28 OWASP SecurityRAT (version 1.x) - Tool for handling security requirements in development
 * \[**22**星]\[16d] \[C#] [rainkin1993/remote-access-trojan-database](https://github.com/rainkin1993/remote-access-trojan-database) ⭐ 163 | 🐛 1 | 🌐 C# | 📅 2020-09-23 A database of RAT collected from Internet
@@ -1904,7 +1904,7 @@
 * \[**77**星]\[4y] \[Py] [ahhh/reverse\_https\_bot](https://github.com/ahhh/reverse_https_bot) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2016-01-07 A python based https remote access trojan for penetration testing
 * \[**65**星]\[7m] [sh1n0g1/shinobot](https://github.com/sh1n0g1/shinobot) ⭐ 83 | 🐛 1 | 📅 2019-08-02 RAT / Botnet Simulator for pentest / education
 * \[**50**星]\[11d] \[C#] [brunull/pace](https://github.com/brunull/pace) ⚠️ Archived A Remote Access Tool for Windows.
-* \[**46**星]\[1m] \[PHP] [davidtavarez/pinky](https://github.com/davidtavarez/pinky) ⭐ 76 | 🐛 1 | 🌐 PHP | 📅 2018-09-07 pinky - The PHP mini RAT (Remote Administration Tool)
+* \[**46**星]\[1m] \[PHP] [davidtavarez/pinky](https://github.com/davidtavarez/pinky) ⭐ 77 | 🐛 1 | 🌐 PHP | 📅 2018-09-07 pinky - The PHP mini RAT (Remote Administration Tool)
 * \[**26**星]\[2y] \[Py] [thegeekht/loki.rat](https://github.com/thegeekht/loki.rat) ⭐ 76 | 🐛 7 | 🌐 Python | 📅 2022-12-07 Loki.Rat is a fork of the Ares RAT, it integrates new modules, like recording , lockscreen , and locate options. Loki.Rat is a Python Remote Access Tool.
 * \[**58**星]\[3y] \[PS] [killswitch-gui/persistence-survivability](https://github.com/killswitch-gui/persistence-survivability) ⭐ 67 | 🐛 1 | 🌐 PowerShell | 📅 2016-09-11 Powershell Persistence Locator
 * \[**55**星]\[4y] \[Py] [ahhh/ntp\_trojan](https://github.com/ahhh/ntp_trojan) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2015-10-11 Reverse NTP remote access trojan in python, for penetration testers
@@ -1961,7 +1961,7 @@
 
 ### <a id="1da695fd3dec80b88aadb1b7c724330f"></a>Windows
 
-* \[**360**星]\[8d] \[C#] [nyan-x-cat/asyncrat-c-sharp](https://github.com/nyan-x-cat/asyncrat-c-sharp) ⭐ 3,088 | 🐛 129 | 🌐 C# | 📅 2023-10-16 Open-Source Remote Administration Tool For Windows C# (RAT)
+* \[**360**星]\[8d] \[C#] [nyan-x-cat/asyncrat-c-sharp](https://github.com/nyan-x-cat/asyncrat-c-sharp) ⭐ 3,090 | 🐛 129 | 🌐 C# | 📅 2023-10-16 Open-Source Remote Administration Tool For Windows C# (RAT)
 * \[**493**星]\[6m] \[Py] [viralmaniar/powershell-rat](https://github.com/viralmaniar/powershell-rat) ⭐ 1,237 | 🐛 9 | 🌐 Python | 📅 2022-10-20 Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engagements to backdoor any Windows machines. It tracks the user activity using screen capture and sends it to an attacker as an e-mail attachment.
 * \[**518**星]\[8m] \[Visual Basic .NET] [nyan-x-cat/lime-rat](https://github.com/nyan-x-cat/lime-rat) ⚠️ Archived LimeRAT | Simple, yet powerful remote administration tool for Windows (RAT)
 * \[**610**星]\[1y] \[PS] [fortynorthsecurity/wmimplant](https://github.com/FortyNorthSecurity/WMImplant) ⭐ 868 | 🐛 1 | 🌐 PowerShell | 📅 2024-06-25 This is a PowerShell based tool that is designed to act like a RAT. Its interface is that of a shell where any command that is supported is translated into a WMI-equivalent for use on a network/remote machine. WMImplant is WMI based.
@@ -1989,8 +1989,8 @@
 
 ### <a id="674863bb36ce7a2f814934480c7fd3d2"></a>Apple
 
-* \[**430**星]\[9d] \[ObjC] [sap/macos-enterprise-privileges](https://github.com/sap/macos-enterprise-privileges) ⭐ 2,114 | 🐛 0 | 🌐 Objective-C | 📅 2026-11-20 For Mac users in an Enterprise environment this app ensures secure environment and yet gives the User control over administration of their machine by elevating their level of access to Administrator privilege on macOS X. Users can set the time frame using Preferences to perform specific tasks such as install or remove an application.
-* \[**74**星]\[1y] \[Py] [kdaoudieh/bella](https://github.com/kdaoudieh/bella) ⭐ 207 | 🐛 0 | 🌐 Python | 📅 2022-11-02 Bella is a pure python post-exploitation data mining tool & remote administration tool for macOS.
+* \[**430**星]\[9d] \[ObjC] [sap/macos-enterprise-privileges](https://github.com/sap/macos-enterprise-privileges) ⭐ 2,115 | 🐛 0 | 🌐 Objective-C | 📅 2026-11-20 For Mac users in an Enterprise environment this app ensures secure environment and yet gives the User control over administration of their machine by elevating their level of access to Administrator privilege on macOS X. Users can set the time frame using Preferences to perform specific tasks such as install or remove an application.
+* \[**74**星]\[1y] \[Py] [kdaoudieh/bella](https://github.com/kdaoudieh/bella) ⭐ 208 | 🐛 0 | 🌐 Python | 📅 2022-11-02 Bella is a pure python post-exploitation data mining tool & remote administration tool for macOS.
 * \[**75**星]\[4y] \[Pascal] [xlinshan/coldroot](https://github.com/xlinshan/coldroot) ⭐ 89 | 🐛 0 | 🌐 Pascal | 📅 2016-03-31 Mac OS Trojan (RAT) made with love <3
 * \[**21**星]\[2m] \[Py] [cys3c/evilosx](https://github.com/cys3c/evilosx) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2017-05-20 A pure python, post-exploitation, remote administration tool (RAT) for macOS / OS X.
 
@@ -1998,7 +1998,7 @@
 
 * \[**1815**星]\[8m] \[Smali] [ahmyth/ahmyth-android-rat](https://github.com/ahmyth/ahmyth-android-rat) ⚠️ Archived Android Remote Administration Tool
 * \[**931**星]\[6y] \[Java] [wszf/androrat](https://github.com/wszf/androrat) ⭐ 2,060 | 🐛 53 | 🌐 Java | 📅 2023-04-12 Remote Administration Tool for Android
-* \[**172**星]\[2y] \[Java] [the404hacking/androrat](https://github.com/the404hacking/androrat) ⭐ 1,757 | 🐛 26 | 🌐 Java | 📅 2024-07-28 AndroRAT | Remote Administrator Tool for Android OS Hacking
+* \[**172**星]\[2y] \[Java] [the404hacking/androrat](https://github.com/the404hacking/androrat) ⭐ 1,760 | 🐛 26 | 🌐 Java | 📅 2024-07-28 AndroRAT | Remote Administrator Tool for Android OS Hacking
 * \[**939**星]\[7y] [designativedave/androrat](https://github.com/designativedave/androrat) ⭐ 1,671 | 🐛 10 | 🌐 Java | 📅 2022-09-26 Remote Administration Tool for Android devices
 * \[**138**星]\[3y] \[Java] [mwsrc/betterandrorat](https://github.com/mwsrc/betterandrorat) ⭐ 554 | 🐛 5 | 🌐 Java | 📅 2016-12-24 Android Remote Access Trojan
 * \[**64**星]\[16d] \[Java] [globalpolicy/phonemonitor](https://github.com/globalpolicy/phonemonitor) ⭐ 274 | 🐛 11 | 🌐 Java | 📅 2023-01-29 A Remote Administration Tool for Android devices
@@ -2016,4 +2016,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._

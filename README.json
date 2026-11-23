@@ -23,7 +23,7 @@
                     "open_issues": 176,
                     "owner": "n1nj4sec",
                     "repo": "pupy",
-                    "stars": 9011,
+                    "stars": 9009,
                     "topics": [
                       "android",
                       "backdoor",
@@ -76,7 +76,7 @@
                     "open_issues": 90,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4753,
+                    "stars": 4754,
                     "topics": [
                       "c2",
                       "covenant",
@@ -204,7 +204,7 @@
                     "open_issues": 137,
                     "owner": "quasar",
                     "repo": "Quasar",
-                    "stars": 9906,
+                    "stars": 9905,
                     "topics": [
                       "administration",
                       "c-sharp",
@@ -300,7 +300,7 @@
                     "open_issues": 20,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5635,
+                    "stars": 5637,
                     "topics": [
                       "agent",
                       "c2",
@@ -1867,7 +1867,7 @@
                     "open_issues": 236,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 12393,
+                    "stars": 12401,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -2506,7 +2506,7 @@
                     "open_issues": 26,
                     "owner": "nettitude",
                     "repo": "PoshC2",
-                    "stars": 2143,
+                    "stars": 2144,
                     "topics": [
                       "c2",
                       "csharp",
@@ -2977,7 +2977,7 @@
                     "open_issues": 5,
                     "owner": "maldroid",
                     "repo": "maldrolyzer",
-                    "stars": 116,
+                    "stars": 117,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -3907,7 +3907,7 @@
                     "open_issues": 59,
                     "owner": "nathanlopez",
                     "repo": "Stitch",
-                    "stars": 3722,
+                    "stars": 3720,
                     "topics": [
                       "cross-platform",
                       "keylogger",
@@ -3936,7 +3936,7 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-05-16T04:07:54Z",
-                    "open_issues": 133,
+                    "open_issues": 134,
                     "owner": "rdesktop",
                     "repo": "rdesktop",
                     "stars": 1355,
@@ -4350,7 +4350,7 @@
                     "open_issues": 6,
                     "owner": "huntoai",
                     "repo": "rdroid",
-                    "stars": 256,
+                    "stars": 257,
                     "topics": [
                       "android",
                       "b4a",
@@ -4832,7 +4832,7 @@
                     "open_issues": 1,
                     "owner": "davidtavarez",
                     "repo": "pinky",
-                    "stars": 76,
+                    "stars": 77,
                     "topics": [
                       "pentesting",
                       "rat"
@@ -5790,7 +5790,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3088,
+                    "stars": 3090,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -6189,7 +6189,7 @@
                     "open_issues": 0,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2114,
+                    "stars": 2115,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6214,7 +6214,7 @@
                     "open_issues": 0,
                     "owner": "00xglitch",
                     "repo": "Bella",
-                    "stars": 207,
+                    "stars": 208,
                     "topics": [
                       "data-mining",
                       "macos",
@@ -6338,7 +6338,7 @@
                     "open_issues": 26,
                     "owner": "The404Hacking",
                     "repo": "AndroRAT",
-                    "stars": 1757,
+                    "stars": 1760,
                     "topics": [
                       "administrator",
                       "android",
@@ -6502,7 +6502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:54:07.443Z",
+    "last_updated": "2026-11-23T02:13:59.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
