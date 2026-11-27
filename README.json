@@ -76,7 +76,7 @@
                     "open_issues": 90,
                     "owner": "cobbr",
                     "repo": "Covenant",
-                    "stars": 4758,
+                    "stars": 4759,
                     "topics": [
                       "c2",
                       "covenant",
@@ -253,7 +253,7 @@
                     "open_issues": 44,
                     "owner": "Marten4n6",
                     "repo": "EvilOSX",
-                    "stars": 2429,
+                    "stars": 2430,
                     "topics": [
                       "backdoor",
                       "mac",
@@ -300,7 +300,7 @@
                     "open_issues": 20,
                     "owner": "Ne0nd0g",
                     "repo": "merlin",
-                    "stars": 5643,
+                    "stars": 5644,
                     "topics": [
                       "agent",
                       "c2",
@@ -1867,7 +1867,7 @@
                     "open_issues": 237,
                     "owner": "BishopFox",
                     "repo": "sliver",
-                    "stars": 12436,
+                    "stars": 12440,
                     "topics": [
                       "adversarial-attacks",
                       "adversary-simulation",
@@ -1953,7 +1953,7 @@
                     "open_issues": 4,
                     "owner": "TryCatchHCF",
                     "repo": "PacketWhisper",
-                    "stars": 657,
+                    "stars": 658,
                     "topics": [
                       "cryptography",
                       "data-exfiltration",
@@ -2280,7 +2280,7 @@
                     "open_issues": 2,
                     "owner": "QAX-A-Team",
                     "repo": "CobaltStrike-Toolset",
-                    "stars": 596,
+                    "stars": 597,
                     "topics": [
                       "a-team",
                       "aggressor-scripts",
@@ -2502,7 +2502,7 @@
                     "id": 141987967,
                     "language": "PowerShell",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2025-11-20T13:55:21Z",
+                    "last_commit": "2026-11-26T13:08:15Z",
                     "open_issues": 26,
                     "owner": "nettitude",
                     "repo": "PoshC2",
@@ -2538,7 +2538,7 @@
                     "open_issues": 35,
                     "owner": "ReversecLabs",
                     "repo": "C3",
-                    "stars": 1797,
+                    "stars": 1798,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -5790,7 +5790,7 @@
                     "open_issues": 129,
                     "owner": "NYAN-x-CAT",
                     "repo": "AsyncRAT-C-Sharp",
-                    "stars": 3093,
+                    "stars": 3094,
                     "topics": [
                       "admin",
                       "asynchronous",
@@ -6186,10 +6186,10 @@
                     "language": "Objective-C",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-23T14:50:25Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "SAP",
                     "repo": "macOS-enterprise-privileges",
-                    "stars": 2119,
+                    "stars": 2121,
                     "topics": [
                       "macos",
                       "open-source",
@@ -6290,7 +6290,7 @@
                     "open_issues": 208,
                     "owner": "AhMyth",
                     "repo": "AhMyth-Android-RAT",
-                    "stars": 5363,
+                    "stars": 5365,
                     "topics": [
                       "ahmyth",
                       "ahmyth-rat",
@@ -6317,7 +6317,7 @@
                     "open_issues": 53,
                     "owner": "wszf",
                     "repo": "androrat",
-                    "stars": 2060,
+                    "stars": 2061,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6372,7 +6372,7 @@
                     "open_issues": 10,
                     "owner": "DesignativeDave",
                     "repo": "androrat",
-                    "stars": 1672,
+                    "stars": 1673,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:56:58.174Z"
@@ -6414,7 +6414,7 @@
                     "open_issues": 11,
                     "owner": "globalpolicy",
                     "repo": "PhoneMonitor",
-                    "stars": 274,
+                    "stars": 273,
                     "topics": [
                       "android",
                       "monitoring",
@@ -6502,7 +6502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:56:32.525Z",
+    "last_updated": "2026-11-27T03:55:38.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
@@ -6514,7 +6514,7 @@
       "open_issues": 0,
       "owner": "alphaSeclab",
       "repo": "awesome-rat",
-      "stars": 2293,
+      "stars": 2294,
       "topics": [
         "c2",
         "command-and-control",
